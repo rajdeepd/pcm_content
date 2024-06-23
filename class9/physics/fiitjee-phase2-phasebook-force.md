@@ -224,8 +224,15 @@ $$
 
 **<span>&#9758;</span> Illustration 5 :**
 
-Tho speed timo graph of a car is given below The car woighs $1000 \mathrm{~kg}$.
-(i) What is the distance travellod by the car in the first two seconds?
+The speed time graph of a car is given below.
+
+![image](./images/physics-9-fitjee-force-figure1.png)
+
+<img src="/class9/physics/images/physics-9-fitjee-force-figure1.png" />
+
+The car weighs $1000 \mathrm{~kg}$.
+
+(i) What is the distance travelled by the car in the first two seconds?
 (iii) What is the braking force applied at the end of 5 seconds to bring the car to a stop within one second?
 
 Solution:
