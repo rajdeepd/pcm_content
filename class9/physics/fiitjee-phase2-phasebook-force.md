@@ -132,3 +132,123 @@ $$
 $$
 
 The SI. unit of force is Newton which is denoted by N. One Newton is that force which when acting on a body of mass $1 \mathrm{~kg}$ produces an acceleration of $1 \mathrm{~m} / \mathrm{s}^2$ in it.
+
+**<span>&#9758;</span> Illustration 1**
+
+The same force acts on two masses $A$ and $B$ separately, producing acceleration of $20 \mathrm{~m} / \mathrm{s}^5$ and $15 \mathrm{~m} / \mathrm{s}^2$ respectively. Find the ratio of their masses.
+
+Solution:
+$$
+\begin{aligned}
+& F=m_1 a_1=m_2 a_2 \\
+& \frac{m_1}{m_2}=\frac{a_2}{a_1}=\frac{15}{20} \text { or } \frac{3}{4} \\
+& \therefore \text { Mass of } A \text { : mass of } B=3: 4 \text {. }
+\end{aligned}
+$$
+
+<hr>
+
+**Exercise 1:**
+
+(i). When we shake a branch of a mango tree, the mangoes fall down, this happens because of Inertia of ..................... <br/>
+(ii). An umbrella protects us from rain. It is based on the property of inertia of ..................... <br/>
+(iii). Whon a car enters a curved path, the person sitting in it is thrown outwards. This is because of the property of Inertia of ..................... <br/>
+<hr>
+
+**<span>&#9758;</span> Illustration 2 :**
+
+A mass of $2 \mathrm{~kg}$ at resit travels for $4 \mathrm{sec}$ with on accoloration of $1.5 \mathrm{~m} / \mathrm{s}^2$. What is the gain of momentum?
+Solution:
+Gain of momentum $=$ final momentum - initial momentum
+$$
+\begin{aligned}
+& \text { Now, } v=u+a t \\
+& =0+(1.5 \times 4)=6 \mathrm{~m} / \mathrm{s} \\
+& \text { Final momentum }=\mathrm{m} \times v \\
+& =2 \times 6 \mathrm{~kg} \mathrm{~m} / \mathrm{s} \\
+& =12 \mathrm{~kg} \mathrm{~m} / \mathrm{s} \\
+& \text { Initial momentum }=m \times u=2 \times 0=0 \\
+& \therefore \text { Gain of momentum }=(12-0) \\
+& =12 \mathrm{~kg} \mathrm{~m} / \mathrm{s} \text {. }
+\end{aligned}
+$$
+
+**<span>&#9758;</span> Illustration 3 :**
+
+A constant retarding force of $50 \mathrm{~N}$ is applied to a body of mass $20 \mathrm{~kg}$ moving initially with a speed of $1 \mathrm{~s}$ $\mathrm{m} / \mathrm{s}$. How long does the body take to stop?
+Solution :
+$$
+\begin{aligned}
+& \text { We know } F=\frac{m v-m u}{t} \\
+& \text { Given } F=-50 \mathrm{~N} \\
+& \text { Initial momentum, } m u=20 \times 15=300 \mathrm{~kg} \mathrm{~m} / \mathrm{s} \\
+& \text { Final momentum, } m v=20 \times 0=0 \\
+& \text { Time, } t=\text { ? } \\
+& \text { Putring the values in (i) equation } \\
+& \Rightarrow-50=\frac{0-300}{t} \\
+& \Rightarrow t=6 \text { second }
+\end{aligned}
+$$
+
+Putting the values in (i) equation
+
+**<span>&#9758;</span> Illustration 4 :**
+
+A force of 0.04 Newton acts upon a body as a result, the speed of the body changes from $0.30 \mathrm{~m} / \mathrm{s}$ to $0.10 \mathrm{~m} / \mathrm{s}$, in passing through a certain distance. Find the distance if the mass of the body is one kilogram?<br/>
+Solution:
+Since velocity is decreasing. So the force is retarding
+$$
+\begin{aligned}
+& F=-0.04 \mathrm{~N}, \\
+& m=1 \mathrm{~kg}, \\
+& v=0.10 \mathrm{~m} / \mathrm{s} \\
+& u=0.30 \mathrm{~m} / \mathrm{s}
+\end{aligned}
+$$
+
+From the formula
+$$
+\begin{aligned}
+& F=m a \\
+& \Rightarrow-0.04=1 \times a \\
+& \Rightarrow a=-0.04 \mathrm{~m} / \mathrm{s}^2
+\end{aligned}
+$$
+and from the formula $v^2=u^2+2$ as
+$$
+\begin{aligned}
+& \Rightarrow(0.1)^2=(30)^2-2 \times .04 \times s \\
+& \Rightarrow \mathrm{s}=1 \mathrm{~m}
+\end{aligned}
+$$
+
+**<span>&#9758;</span> Illustration 5 :**
+
+Tho speed timo graph of a car is given below The car woighs $1000 \mathrm{~kg}$.
+(i) What is the distance travellod by the car in the first two seconds?
+(iii) What is the braking force applied at the end of 5 seconds to bring the car to a stop within one second?
+
+Solution:
+(i) Distance travelled in firsl two seconds
+$=$ Area under the line OA and the time axis
+$$
+\begin{aligned}
+& =\frac{1}{2} \times \text { Base } \times \text { height } \\
+& =\frac{1}{2} \times 2 \times 15=15 \text { moters }
+\end{aligned}
+$$
+(ii) For, braking force
+$$
+F=m a
+$$
+
+Acceleration in last one second $=$ slope of line $\mathrm{BC}=\frac{0-15}{6-5}=-\frac{15}{1}$
+a $=-15 \mathrm{~m} / \mathrm{s}^2$
+Negative acceleration indicates retardation
+So required retarding force, $\mathrm{f}$
+$$
+\begin{aligned}
+& F=m a=1000 \times(-15) \\
+& F=-15000 N
+\end{aligned}
+$$
