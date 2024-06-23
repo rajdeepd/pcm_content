@@ -228,7 +228,7 @@ The speed time graph of a car is given below.
 
 ![image](./images/physics-9-fitjee-force-figure1.png)
 
-<img src="/class9/physics/images/physics-9-fitjee-force-figure1.png" />
+<!--<img src="/class9/physics/images/physics-9-fitjee-force-figure1.png" />-->
 
 The car weighs $1000 \mathrm{~kg}$.
 
