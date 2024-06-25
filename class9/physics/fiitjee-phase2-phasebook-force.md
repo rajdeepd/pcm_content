@@ -412,3 +412,30 @@ $$
 $$
 
 The girl on cart would movo with a velccity of $4.65 \mathrm{~m} / \mathrm{s}$ in the direction in which the girl jumped.
+
+## KEY TO EXERCISES
+
+Exercise 1: <br>
+(i). Rest <br>
+(ii). Direction <br>
+(wi). Direction <br>
+
+Exercise 2 : <br>
+(i). $\mathrm{B}$ <br>
+(ii) Due to inertia of motion one falls forward <br>
+(iii) Mass, Cricket ball <br>
+
+Exercise 3 : <br>
+(i). Momenturn, impulse <br>
+(ii). $\quad v=5 \mathrm{~m} / \mathrm{s}$ <br>
+
+Exercise 4. <br>
+(i). To recerve less impulse by ball by increasing time. <br>
+(ii). More the speed, higher the momenturn and larger the energy (KE) is associated with process. <br>
+
+Exercise 5: <br>
+(i). To get reaction by the ground. <br>
+(ii). Different bodies, equal and opposite <br>
+(iii). The reading of the balance will be $10 \mathrm{~kg} . \mathrm{wt}$ <br>
+(iv). This is because forces of a action and reaction act always on two different bodies. <br>
+(v). Due to reaction of water on hose. <br>
