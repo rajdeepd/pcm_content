@@ -439,3 +439,72 @@ Exercise 5: <br>
 (iii). The reading of the balance will be $10 \mathrm{~kg} . \mathrm{wt}$ <br>
 (iv). This is because forces of a action and reaction act always on two different bodies. <br>
 (v). Due to reaction of water on hose. <br>
+
+### FORMULAS AND CONCEPTS AT A GLANCE
+1. Inertia is a property of any body to resist the change in its state of rest or motion
+2. Inertia is of three types (i) inertia of rest (ii) inertia of motion. (iii) inertia of direction
+3. According to Newton's first law of motion a body in rest or in uniform motion will remain in the same stato unless a net extornal force is applied on it.
+4. Lineer momentum of a body of mass $m$ and velocity $\overrightarrow{\mathrm{v}}$ is $\overrightarrow{\mathrm{p}}=\mathrm{m} \overline{\mathrm{v}}$
+5. Newton's second law of motion states that the rate of change of momentum of a body is equal the force applied on that body, and takes place in the direction of applied force.
+$$
+\overline{\mathrm{F}}=\frac{\Delta \overrightarrow{\mathrm{p}}}{\Delta \mathrm{t}} \text {, Its unit is "Nowton denoted by } \mathrm{N} \text {. }
+$$
+6. Newton's third law of motion states that to every action there is an equal and opposite reaction
+7. Any reference frame which is either at rest or moving with a uniform velocity is an inertial frame reference. Neuton's $1^{\text {at }}$ law is valid in this reference frame.
+8. Any reference frame which is accelerating or retarding with respect to an inertial frame is cale non-inertial frame of reference.
+9. Friction is a tangential contact force which opposes the tendency of relative motion or relative motion between the two surfaces in contact.
+10. Force of static friction is a self adjusting force.
+
+### ADD TO YOUR KNOWLEDGE
+
+#### CENTRIPETAL FORCE
+
+A Particle moves in a circle, a resultant non-zero forcw must act on the particle. This is because a particle moving in a circie is accelerated and accelerabion can be produced only $f$ a resultant force acts on it. If the speed of the particle remains constant, the acceleration of the particle is towards the centre and its magnitude is $v^2 /r$. Here $v$ is the speed of the partide and $r$ is the radius of the circle. The direction of resultant force must be towards the centre and magnitude $F$ must salisty.
+or, $\mathrm{F}=\frac{\mathrm{m} \mathrm{v}^2}{\mathrm{r}}$
+
+This force is called centripetal force. The centripetal force of magnitude $\frac{\mathrm{mv}^2}{\mathrm{r}}$ is required to keep the particle in uniform drcular motion.
+
+#### FRICTION
+
+When we push an object with only a small amount of force, it does not move at all. It means that the Hrface on which the object is resting exerts some force on the object which opposes the tendency of Fiotion. A ball moving on the ground slows down or stap after some tome because of the frction force. flence, we can define the force of friction as the force which opposes relative motion or the tendency of felative motion of one surface over another surface in contact with it.
+
+####  Causes of Friction
+
+Eriction arises on account of strong atomic or molecular forces of attraction between the two surfaces at the points of actual contact. On acoount of foughness of surfaces, the area of actual contact is much smaller than the grea of apparent contact. These areas are roughly in the ratio 1:10 At the contact points, the molecules of the two surfaces are so close together that Thoy exert very strong intermolecular force of attraction on one another. As ctual area of contact is very small, therefore, the pressure ( $=$ force $/$ area ) at Yhe points of contact becomes too large. So that many of the contact points pray deform plastically and becomes 'cold welded. When one body thes to fove over the other, it involves rupturing of thousands of such tiny cold welds. This gives rise to opposing force of friction.
+Characteristic of Friction Force
+
+1. Friction force is independent of the area of contact.
+2. The maximum value of friction force depends on the normal conlact force between the surfaces.
+
+Types of friction force
+Friction force can be divided in three groups.
+
+(i) Static friction:
+
+Static friction acts on a body to oppose the tendency of relative motion.
+For example if $5 \mathrm{~N}$ force is required to move a block, and horizontal force $\mathrm{F}$ is applied on the blo and value of $F$ is gradually increased from $F=0 \mathrm{~N}$ to $5 \mathrm{~N}$ the block will not move till $F=5 \mathrm{~N}$. Upto 5 the friction force is balancing the applied force. So the maximum value of friction force is $5 \mathrm{~N}$, wh is called the limiting value of friction. Before reaching the limiting value, static friction is varia because, say $F=2 \mathrm{~N}$ block will not slide, so the static friction is $2 \mathrm{~N}$ and when $\mathrm{F}=3 \mathrm{~N}$ then stit friction in $3 \mathrm{~N}$. So we can say that static friction is sell adjustable force, which is equal and oppo: to the applied force upto the limiting value.
+
+(ii) Kinetic or sllding friction:
+
+Force of kinetic friction is the force that comes into picture, opposing the relative motion when body is actually moving over the surface of another body. It is found that the force of kinetic friction is independent of the area of contact, and its magnitude is constant for the given surfaces. It does depend on the velocity of the body.
+
+Assignment
+1. Match the following:
+
+| Column - A                           | Column - B                      |     |
+| :----------------------------------- | :------------------------------ | :-- |
+| (a). Momentum                        | (i). $F=$ ma                    |     |
+| (b). Newtor quantity                 | (ii). Vector quantity           |     |
+| (c). Newton's Illind law             | (iii). No external force acting |     |
+| (d). Friction force                  | (iv). Action-Reaction pair      |     |
+| (e). Conservation of linear momentum | (v). Self Adjusting in nature   |     |
+
+
+
+2. Why do we put some powder on a carrom board while playing?
+3. Name the force which prevents us from slipping?
+
+Answers
+1. (a) (ii) , (b) (i), (c) (iv), (d) (v), (e) (iii)
+2. To reduce the friction
+3. Frictional force
