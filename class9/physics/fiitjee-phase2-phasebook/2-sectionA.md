@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Force Section A
+title: Section A
 nav_order: 2
 description: ""
 has_children: false
-parent: FIITJEE Phase 2 Force
-grand_parent:  Class 9 
+parent: Class 9 Fiitjee Phasebook
 tags: [MathJax, Mathematic]
 mathjax: true
 ---
@@ -14,7 +13,7 @@ mathjax: true
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
 </script>
 
-# Force and Laws of Motion Section A
+# Section A
 
 **Problem 1:**<br/>
 A mass $m$ undergoes free fall: What is is linear momenturn after it has fallen a distance h?
@@ -172,3 +171,86 @@ $$
 $$
 
 Thus, the magnitude of momentum of the tortoise is greater than that of the hare.
+
+**Problem 11.**<br/>
+What is the force exerted by a buflock in pulling a cart of mass $100 \mathrm{~kg}$ and acceloreter $a$ rato of $1.5 \mathrm{~ms}^{-2}$ ?
+
+Solution:
+$$
+\begin{aligned}
+& F=? \\
+& m=100 \mathrm{~kg} \\
+& \mathrm{a}=1.5 \mathrm{~ms}^{-2}
+\end{aligned}
+$$
+
+From Nemon's second law
+$$
+F=\mathrm{ma} \mathrm{kg} \times 1.5 \mathrm{~ms}^{-2}=150 \mathrm{~N} \text {. }
+$$
+
+**Problem 12:**<br/>
+An abject of mass $10 \mathrm{~kg}$ is moving with an initial velocity of $10 \mathrm{~ms}^{-1}$. A constant force acts for 4 secs on the abject giving it a speod of $2 \mathrm{~ms}^{-1}$ in the opposite direction. Find the acceleration and force.
+
+Solution:
+$$
+\begin{aligned}
+& m=10 \mathrm{~kg} \\
+& u=10 \mathrm{~ms}
+\end{aligned}
+$$
+
+Let the final velocity in the opposite direction be $v$
+$$
+\begin{aligned}
+& t=4 \mathrm{~s} \\
+& v=-2 \mathrm{~ms}^{-1} \\
+& a=? \\
+& F=? \\
+& \left.a=\frac{v-u}{t} \text { (From the equations of motion, } v=u+a t\right) \\
+& a=\frac{-2-10}{4}=\frac{-12}{4}=-3 \mathrm{~ms}^2 \\
+& F=m a=10 \times 3=-30 \mathrm{~N} \\
+& \Rightarrow \text { Retarding force }=30 \mathrm{~N}
+\end{aligned}
+$$
+
+**Problem 13.**<br/>
+A ball of mass $100 \mathrm{~g}$ moving at a speod of $12 \mathrm{~ms}^{-1}$ strikes another ball of mass 200 rest. After tho collision both the balls strick to oach other and move with a common volocity. Find the common volocity
+
+Solution. Let the common velocity of the two bodies be $\mathrm{v}$
+$$
+\begin{aligned}
+& m_1=100 \mathrm{~g} \\
+& u_1=12 \mathrm{~ms}^{-1} \\
+& m_2=200 \mathrm{~g} \\
+& u_2=0 \mathrm{~ms}^{-1}
+\end{aligned}
+$$
+
+From law of conservation of momentum,
+$$
+\begin{aligned}
+& m_1 u_1+m_2 u_2=m_1 v_1+m_2 v_2 \\
+& 100 \times 12+0=100 \times v+200 \times v \\
+& 1200=300 v \\
+& \Rightarrow v=\frac{1200}{300}=4 \mathrm{~ms}^{-1}
+\end{aligned}
+$$
+
+**Problem 14:** <br/>
+A gun fires a bullet of mass $50 \mathrm{~g}$ with a valocity of $30 \mathrm{~ms}^{-1}$ because of which the gun recoils with a velocity $1 \mathrm{~ms}^{-1}$. Find the mass of the gun.<br/>
+
+Solution: Mass of the bulltet $=\mathrm{m}_{\mathrm{l}}=50 \mathrm{~g}=0.05 \mathrm{~kg}$
+Initial velocity of bullet, $u_1=0$
+Final velocity of the bullet, $v_1=30 \mathrm{~ms}^{-1}$
+Mass of the gun, $m_2=$ ?
+Initial velocity of the gun, $u_2=0$
+Final velocity of the gun $=-2 \mathrm{~ms}^{-1}$
+From the law of conservation of momentum
+$$
+\begin{aligned}
+& m_1 u_1=m_2 u_2=m_1 v_1+m_2 v_2 \\
+& 0+0=0.05 \times 30-m_2 \times 1 \\
+& m_2=\frac{0.05 \times 30}{1}=1.5 \mathrm{~kg}
+\end{aligned}
+$$

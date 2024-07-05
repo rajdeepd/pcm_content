@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Force Concepts
-nav_order: 2
+title: Concepts
+nav_order: 1
 description: ""
 has_children: false
-parent: FIITJEE Phase 2 Force
-grand_parent:  Class 9 
+parent: Class 9 Fiitjee Phasebook
 tags: [MathJax, Mathematic]
 mathjax: true
 ---
