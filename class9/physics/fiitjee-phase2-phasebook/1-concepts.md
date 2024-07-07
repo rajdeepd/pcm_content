@@ -289,8 +289,8 @@ Exercise 5:
 
 To understand the law of conservation of momentum, let's take a case study. Consider the two balls and 8 having masses $m_1$ and $m_2$ respectively. Let the initial velocity of ball $A$ be $u_1$ and that of ball be $\mathrm{u}_2$.
 
-<img src="/class9/physics/images/before-collision.png" width="60%"/>
-<img src="/class9/physics/images/after-collision.png" width="60%"/>
+<img src="/pcm_content/class9/physics/images/before-collision.png" width="60%"/>
+<img src="/pcm_content/class9/physics/images/after-collision.png" width="60%"/>
 
 
 Suppose the two balls collide with each other head on and their collision last for $t$ seconds. Suppose the velocities of ball $A$ and $B$ become $v_1$ and $v_2$ respectively after the collision.

@@ -118,7 +118,7 @@ $S O F=7000 \times 2 \mathrm{kgm} / \mathrm{s}^2=14000 \mathrm{~N}$.
 The velocity-time graph of a particle of mass $50 \mathrm{~g}$ moving in a fixed direction is shown in figure. Find the force on the particle.
 
 
-<img src="/class9/physics/images/force-problem8-figure.png" width="35%"/>
+<img src="/pcm_content/class9/physics/images/force-problem8-figure.png" width="35%"/>
 
 The velocity -time graph of the particle is a straight line. Thus the particle moves with a uniform acceleration. From the graph, we see that the velocity at $t=0$ is $u=0$, and that at $t=4 \mathrm{~s}$ is $v=2 \mathrm{~m} / \mathrm{s}$.
 The acceleration is
@@ -133,7 +133,7 @@ Thus, $F=m a=\left(50 \times 10^3 \mathrm{~kg}\right) \times\left(0.5 \mathrm{~m
 **Problem 9:**<br/>
 A $20 \mathrm{~kg}$ crate hangs at the end of a long rope. 
 
-<img src="/class9/physics/images/force-problem9-figure.png" width="15%"/>
+<img src="/pcm_content/class9/physics/images/force-problem9-figure.png" width="15%"/>
 
 
 Find its acceleration when the tension in the rope is

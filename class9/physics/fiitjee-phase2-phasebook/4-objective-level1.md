@@ -184,7 +184,7 @@ Coefficient of friction, ratio of the frictional force resisting the motion of t
 (C) $\sqrt{3} \mathrm{~ms}^{-2}$ <br/>
 (C) $3 \mathrm{~ms}^{-2}$ 
 
-<img src="/class9/physics/images/leve3-problem2.png" width="15%"/>
+<img src="//pcm_content/class9/physics/images/leve3-problem2.png" width="15%"/>
 
 Solution: (A)
 $$
