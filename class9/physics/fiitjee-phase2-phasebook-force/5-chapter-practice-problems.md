@@ -279,15 +279,34 @@ Truo and False
 
 2. Consider the following statements about the blocks shown in the diagram that are being pushed by constant force on a frictioniess table:
    
-      <img src="/pcm_content/class9/physics/images/practice-problems-level2-3.png" width="35%"/>
-(I) Nl block moves with the same accolerabon <br/>
-(ii) The net force on each block is the same <br/>
-(A) I only <br/>
-(B) II only <br/>
-(C) both I and II only <br/>
-(D) neither I nor II <br/>
+      <img src="/pcm_content/class9/physics/images/practice-problems-level2-2.png" width="35%"/>
 
-1. A machine gun fires a bullet of mass 4 kg with velodity $12 \mathrm{~m} / \mathrm{s}$. The person holding it can apply a maximum force of 144 N on the gun. What is the maximum number of bullets that can be fired per second <br/>
+   (I) Nl block moves with the same accolerabon <br/>
+   (ii) The net force on each block is the same <br/>
+   (A) I only <br/>
+   (B) II only <br/>
+   (C) both I and II only <br/>
+   (D) neither I nor II <br/>
+
+  Soln.
+
+     <img src="/pcm_content/class9/physics/images/practice-problems-level2-2-soln.png" width="35%"/> 
+  Mass of the chain $M$ Length of the chain $L$
+  Mass per unit length $=\frac{M}{L}$
+  Mass of length $(L-y)=\frac{M}{L} \times(L-y)$
+  $$
+  \text { Weight }=m g
+  $$  
+  
+  $$
+    \begin{aligned}
+    & =\frac{M}{L}(L-y) \times g \\
+    & T-\frac{M}{L}(L-y) \times g=0 \\
+    & T=\frac{M}{L}(L-y)
+    \end{aligned}
+  $$
+
+3. A machine gun fires a bullet of mass 4 kg with velodity $12 \mathrm{~m} / \mathrm{s}$. The person holding it can apply a maximum force of 144 N on the gun. What is the maximum number of bullets that can be fired per second <br/>
 (A) 3 <br/>
 (B) 4 <br/>
 (C) 5 <br/>
