@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Objective Level 1
-nav_order: 4
+nav_order: 6
 description: ""
 has_children: false
 parent: Class 9 Fiitjee Phasebook

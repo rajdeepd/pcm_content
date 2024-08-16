@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chapter Practice Problems
-nav_order: 5
+nav_order: 7
 description: ""
 has_children: false
 parent: Class 9 Fiitjee Phasebook

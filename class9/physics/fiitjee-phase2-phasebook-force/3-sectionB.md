@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Section B
-nav_order: 3
+nav_order: 5
 description: ""
 has_children: false
 parent: Class 9 Fiitjee Phasebook

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fiitjee Physics Phasebook
+title: Fiitjee Phasebook Phase 2
 nav_order: 1
 description: ""
 has_children: true
@@ -12,13 +12,23 @@ grand_parent: Home
 
 ### Force
 
-* [Concepts](class9/physics/fiitjee-phase2-phasebook/1-concepts.html)
-* [Section A](class9/physics/fiitjee-phase2-phasebook/2-sectionA.html)
-* [Section B](class9/physics/fiitjee-phase2-phasebook/3-sectionB.html)
-* [Objective Level 1](class9/physics/fiitjee-phase2-phasebook/4-objective-level1.html)
-* [Chapter Practice Problems](class9/physics/fiitjee-phase2-phasebook/5-chapter-practice-problems.html)
-* [Assignment](class9/physics/fiitjee-phase2-phasebook/5-chapter-practice-problems.html)
+* [Concepts](class9/physics/fiitjee-phase2-phasebook-force/1-concepts.html)
+* [Formulas at Glance](class9/physics/fiitjee-phase2-phasebook-force/1.1-formulas-at-glance.html)
+* [Add to your Knowledge](class9/physics/fiitjee-phase2-phasebook-force/1.2-add-to-your-knowledge.html) 
+* [Section A](class9/physics/fiitjee-phase2-phasebook-force/2-sectionA.html)
+* [Section B](class9/physics/fiitjee-phase2-phasebook-force/3-sectionB.html)
+* [Objective Level 1](class9/physics/fiitjee-phase2-phasebook-force/4-objective-level1.html)
+* [Chapter Practice Problems](class9/physics/fiitjee-phase2-phasebook-force/5-chapter-practice-problems.html)
+* [Assignment](class9/physics/fiitjee-phase2-phasebook-force/5-chapter-practice-problems.html)
 
 ### Gravity
 
 * [Formulas](class9/physics/fitjee-phase2-gravity/2-formulas-at-glance.html)
+
+
+## Chemistry
+
+* [Material Concentration Terms](class9/chemistry/fitjee-phase2-chemsitry/4-material-solutions-concentration-terms.html)
+* [Generated Questions](class9/chemistry/fitjee-phase2-chemsitry/4.1-generated-questions-concentration-terms.html)
+* [Worksheet Concentration](class9/chemistry/fitjee-phase2-chemsitry/5-worksheet-concentration.html)
+  
