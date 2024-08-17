@@ -18,14 +18,14 @@ mathjax: true
 
 ## FORCE
 
-Force is external effort in the form of push or pull, which
-(1) produces or tries to produce motion in a body at rest, or <br/>
-(ii) stops or tries to stop a moving body or <br/>
-(iii) changes or tres to change the direction of motion of the body, or <br/>
+Force is external effort in the form of push or pull, which  
+(1) produces or tries to produce motion in a body at rest, or   
+(ii) stops or tries to stop a moving body or   
+(iii) changes or tres to change the direction of motion of the body, or    
 (Iv) changes or tries to change the shape of a body.
 
-The following examples illustrate the above definition: <br/>
-(i) When we push a heavy stone, it does not move. The effort made in this case has only tried to produce motion.<br/>
+The following examples illustrate the above definition:   
+(i) When we push a heavy stone, it does not move. The effort made in this case has only tried to produce motion.   
 (ii) A ball falling downwards can be easily caught by our hands. The motion of the ball has been stopped.
 
 **Resultant Force:**
@@ -40,19 +40,20 @@ It is inherent property of all bodies, by virtue of which it resists or opposes 
 
 Inertia of a Body is of Three Types
 
-(a) Inertla of rest <br/>
+(a) Inertla of rest   
 It is inability of a body to change by itself, its state of rest. This means a body at rest remains at rest and cannot start moving on its own.
 e g. A person who is standing freely in a bus, thrown backward when bus starts suddenly.
 
-(b) Inertia of motion <br/>
+(b) Inertia of motion   
 It is inabillty of a body to change by itself its state of uniform motion l.c. a body in uniform motion can neither accelerate nor retard on its own and come to rest.
 e.g. A person jumping out of a moving bus may fall forward.
 
-(c) Inertia of Direction <br/>
+(c) Inertia of Direction   
 It is inability of a body to change by itself its direction of motion.
 e.g. When a car goes round a curve suddenly, the person sitting inside is thrown outwards.
 
 <p style="background-color:white; padding:15px; border-width:3px; border-color:#E5E7E9; border-style:solid; border-radius:6px">
+
 <b>Exercise 1</b>:<br/>
 (1). When wo shake a branch of a mango trea, the mangoes fall down, this happens because of lnertha, ......................<br/>
 (ii). An umbrella protects us from rain. It is based on the property of inertia of ...................... <br/>
@@ -103,14 +104,14 @@ Exercise 3:<br/>
 
 ## NEWTON'S SECOND LAW OF MOTION
 
-states that the rate of change of momentum of a body is directly proportional to the applied force and akes place in the same direction as the force.
+states that the rate of change of momentum of a body is directly proportional to the applied force and takes place in the same direction as the force.
 Suppose the velocity of a body of mass $m$ changes from $u$ to $v$ in time $L$. The magnitudes of initial and nal momentum of the body will be $P_1=\mathrm{mu}$ and $\mathrm{P}_2=\mathrm{mv}$ respectively. The change in momentum $\left.P_2-P_1\right)_1$ takes place in time $t$. Then according to law
 
-or $F \propto \frac{P_2-P_1}{t}$ &<br/>
-or $\quad F=k \frac{m(v-u)}{t}$   &nbsp; ... (i)<br/>
-$F=k m a$ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ... (ii)<br/>
+or $F \propto \frac{P_2-P_1}{t}$    
+or $\quad F=k \frac{m(v-u)}{t}$   &nbsp; ... (i)   
+$F=k m a$ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ... (ii)   
 
-We choose the units of force in such a manner that the value of $k=1$. So that <br/>
+We choose the units of force in such a manner that the value of $k=1$. So that   
 $F=m a$  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ... (iii)
 
 ### Another Form of Second Law
@@ -290,8 +291,8 @@ Exercise 5:
 
 To understand the law of conservation of momentum, let's take a case study. Consider the two balls and 8 having masses $m_1$ and $m_2$ respectively. Let the initial velocity of ball $A$ be $u_1$ and that of ball be $\mathrm{u}_2$.
 
-<img src="/pcm_content/class9/physics/images/before-collision.png" width="60%"/>
-<img src="/pcm_content/class9/physics/images/after-collision.png" width="60%"/>
+<img src="class9/physics/images/before-collision.png" width="60%"/>
+<img src="class9/physics/images/after-collision.png" width="60%"/>
 
 
 Suppose the two balls collide with each other head on and their collision last for $t$ seconds. Suppose the velocities of ball $A$ and $B$ become $v_1$ and $v_2$ respectively after the collision.

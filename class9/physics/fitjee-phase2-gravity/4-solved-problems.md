@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Solved Problems
+title: 4. Solved Problems
 nav_order: 5
 description: ""
 has_children: false

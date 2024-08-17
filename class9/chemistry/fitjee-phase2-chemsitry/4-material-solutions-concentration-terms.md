@@ -49,11 +49,11 @@ On the other hand, the solubility of solutes solution process is endothermic, in
 **Factors affecting the solubility:** Solubility of a substance depends upon nature of solute, nature of solvent and conditions of temperature and pressure.
 
 1. **The nature of the solute and the solvent:** Consider the following example. In two separate test tubes take some water and add small amounts of powdered copper sulfate in one and naphthalene in the other. Copper sulfate dissolves and forms a blue solution whereas naphthalene remains un-dissolved. Now take some kerosene in another set of two test tubes and repeat the experiment with copper sulfate and naphthalene. Shake gently. Naphthalene dissolves and forms a colorless solution whereas copper sulfate remains un-dissolved as solid. From these examples we understand that copper sulfate is soluble in water and insoluble in kerosene. On the other hand naphthalene is soluble in kerosene and insoluble in water. You learnt earlier that ionic compounds are polar in nature and covalent compounds are non-polar. Both water and copper sulfate are polar compounds. When a non-polar solute is added (naphthalene) dissolves in a non-polar solvent (kerosene) to form a solution. If a polar compound is added as a solute to a non-polar solvent or vice-versa, it does not form a solution and the solubility of that compound in that solvent is said to be zero. We can thus conclude that the solubility depends on the nature of solute and the solvent. The generalized statement is “like dissolves in like”.
-2. **Effect of Temperature:** Take some water in each of three test tubes and prepare saturated solutions of sodium nitrate (NaNO3), sodium chloride (NaCl) and cerium sulfate (Ce2(SO4)3. 9H2O. Observe the quantities of the un-dissolved solutes in these test tubes. Now gently heat the contents. We notice that while sodium nitrate dissolves completely on heating. From this experiment, we understand that the solubility increases in some cases (ex: NaNO3), remains the same (ex:NaCl) or decreases in some other cases (Ce (SO4)3 9H2O.
+2. **Effect of Temperature:** Take some water in each of three test tubes and prepare saturated solutions of sodium nitrate  ($\mathrm{NaNO}_3$), sodium chloride (NaCl) and cerium sulfate  ($\mathrm{Ce}_2\mathrm{SO}_4$) $\mathrm{9H}_2\mathrm{O}$ Observe the quantities of the un-dissolved solutes in these test tubes. Now gently heat the contents. We notice that while sodium nitrate dissolves completely on heating. From this experiment, we understand that the solubility increases in some cases (ex: NaNO3), remains the same (ex:NaCl) or decreases in some other cases (Ce (SO4)3 9H2O.
 
-Let us now see the solubility of gases such as CO2, O2 and SO2 etc., in water. The solubility of different gases at different temperatures. In general on increasing the temperature, the solubility decreases. An illustrative example of gas/liquid solution behavior is that of “soda”, a common drink. Soda is a solution of carbon dioxide in water. We usually drink “soda” after taking heavy food. When we open this soda bottle and pour into a glass, we see bubbles escaping. These bubbles are CO2 gas. After some time or after gently heating the soda, we do not see any bubbles. This is due to total expulsion of CO2 from water.
+Let us now see the solubility of gases such as $\mathrm{CO}_2, \mathrm{O}_2$ and $\mathrm{SO}_2$ etc., in water. The solubility of different gases at different temperatures. In general on increasing the temperature, the solubility decreases. An illustrative example of gas/liquid solution behavior is that of “soda”, a common drink. Soda is a solution of carbon dioxide in water. We usually drink “soda” after taking heavy food. When we open this soda bottle and pour into a glass, we see bubbles escaping. These bubbles are $\mathrm{CO}_2$ gas. After some time or after gently heating the soda, we do not see any bubbles. This is due to total expulsion of $\mathrm{CO}_2$ from water.
 
-##### Concentration of Solutions
+### Concentration of Solutions
 
 The term concentration or strength of a solution refers to the amount of solute present in a definite amount of solvent or solution.
 
@@ -65,15 +65,17 @@ The term concentration or strength of a solution refers to the amount of solute 
 
 
 
-1. **the Percentage (%) Composition of Solutions:** This may be expressed in any one of the following ways:
+#### A. the Percentage (%) Composition of Solutions:
+
+This may be expressed in any one of the following ways:
     1. **Weight–weight system (Wt/Wt%):** In this system, the concentration is defined as the weight–units of solute present in 100 weights–units of solutions. An example is given below to illustrate the idea.
 
-$$
+$
 \begin{aligned}
-\text { Percentage by mass }= & \frac{\text { mass of solute }(\mathrm{W})}{\text { massof solution }(\mathrm{W})} \times 100(\mathrm{or}) \\
+\text { Percentage by mass }= & \frac{\text { mass of solute }(\mathrm{W})}{\text { massof solution }(\mathrm{W})} \times 100(\mathrm{or}) \\ \newline
 & =\frac{\text { mass of solute }(\mathrm{w})}{\text { volume of solution }(\mathrm{V}) \times \text { density of solution }(\mathrm{d})} \times 100 \text { (or) }
 \end{aligned}
-$$
+$
 
 
 
@@ -81,44 +83,43 @@ For Example 15% Na2CO3 solution (w/w) means 15 gm of Na2CO3 is present in 100 gm
 
 **_Illustration 10 grams of sodium carbonate are present in 120 grams of its aqueous solution. Calculate the weight percentage._**
 
-**_Solution:_** Weight of solute, w = w
+**_Solution:_** 
 
-w + W
+$
+\begin{aligned}
+& \text { Weight of solute, } w=\frac{w}{w+W} \times 100  \newline
+& \mathrm{w} \%=\frac{10}{120} \times 100 \newline
+& w \%=8.33 \newline
+\end{aligned}
+$
 
-x 100
-
-w% = 10 x100
-
-120
-
-w% = 8.33
 
 **_Illustration The weight percentage of NaCl solution is 10. If the weight of solution is 150grams. Calculate the weight of NaCl and water._**
 
-**_Solution:_** Weight percentage w
+**_Solution:_** 
 
-w + W
-
-10 w w + W
-
-x 100
-
-x 100
-
-w = 10 x150 = 135 grams.
-
-100
-
-**_Which of the following has maximum weight percentage?_**
-
-1. **_5gr. of sodium carbonate is added to 95 gr. of water._**
-2. **_15gr. of oxalic acid is present is 150 gr. of its aqueous solution._**
-3. **_10gr. of sodium chloride is dissolved in 190 gr. of water._**
-4. **_25gr. of potassium iodine is present 400 gr. of its aqueous solution._**
+$
+\begin{aligned}
+& \text { Weight percentage } \frac{\mathrm{w}}{\mathrm{w}+\mathrm{W}} \times 100 \newline
+& \qquad \begin{aligned}
+& 10 \frac{\mathrm{w}}{\mathrm{w}+\mathrm{W}} \times 100 \newline
+& \mathrm{w}=\frac{10 \times 150}{100}=135 \text { grams. } 
+\end{aligned}
+\end{aligned}
+$
 
 **_Exercise 1:_**
 
-- 1. **Weight–volume system (Wt/Vol%):** In this system, the concentration is expressed in terms of the weight units of solute contained in 100 volume–units of the solution. This is also called percent by volume.
+**_Which of the following has maximum weight percentage?_**
+
+1. _5gr. of sodium carbonate is added to 95 gr. of water._
+2. _15gr. of oxalic acid is present is 150 gr. of its aqueous solution._
+3. _10gr. of sodium chloride is dissolved in 190 gr. of water._**
+4. _25gr. of potassium iodine is present 400 gr. of its aqueous solution._
+
+
+
+II. **Weight–volume system (Wt/Vol%):** In this system, the concentration is expressed in terms of the weight units of solute contained in 100 volume–units of the solution. This is also called percent by volume.
 
 Percentage by volume = massof solute(w) x100
 
@@ -165,11 +166,14 @@ v = 50 ml.
 
 V = 250 – 50 = 200 ml.
 
-1. **Gram Per Liter (g/l):** This is actually a special case of weight–volume concentration system. It is defined as the number of grams of solute dissolve in one liter of the solution.
+#### B. Gram Per Liter (g/l)
+
+This is actually a special case of weight–volume concentration system. It is defined as the number of grams of solute dissolve in one liter of the solution.
 
 **Example :** 2gm/L NaOH solution : It means that 2gm of NaOH is dissolved in 1 liter of solution.
 
-1. **Molarity(M):** The number of moles of solute present in one liter of solution is called molarity.
+**(a). Molarity(M):** 
+The number of moles of solute present in one liter of solution is called molarity.
 
 Molarity = No.of molesof solute(n) volumeof the solution(V inlt.)
 
@@ -229,221 +233,163 @@ Molarity = 0.2
 
 **_(Molecular weight of NaOH is 40)._**
 
-1. **Molality(m):** The number of moles of solute present in one kg of solvent is called molality.
+**(b). Molality(m):** The number of moles of solute present in one kg of solvent is called molality.
 
-Molality = No.of molesof solute(n) weightof the solvent(W inkg)
-
-No.of molessolute(n)
-
-(or)
-
-\=
-
-weightof solvent (W ingm)
-
-x1000
+$
+\begin{aligned}
+\text { Molality } & =\frac{\text { No. of moles of solute( } \mathrm{n})}{\text { weight of the solvent(W inkg })} \text { (or) } \newline
+& =\frac{\text { No. of molessolute }(\mathrm{n})}{\text { weight of solvent }(\text { Wingm })} \times 1000
+\end{aligned}
+$
 
 For example, the concentration of solution is 2m. that means 2 moles of solute dissolved in one kg of solvent.
 
 **_Illustration 8: Calculate the molality of a solution containing 6.3gm of HNO3 dissolved in 250gm of water._**
 
-**_Solution:_** Molality = No.of molesof solute
+**Solution:** 
 
-weight of the solvent
+$
+\begin{aligned}
+& \text { Molality }=\frac{\text { No. of moles of solute }}{\text { weight of the solvent }} \times 1000 \newline
+& =\frac{\text { weight of the } \mathrm{HNO}_3}{\text { Mol.Wt. of } \mathrm{HNO}_3 \times \text { weight of the solvent(in gms) }} \times 1000 \newline
+& =\frac{6.3 \times 1000}{63 \times 250} \newline
+& =0.4 \mathrm{~m} .
+\end{aligned}
+$
 
-x 1000
+**Exercise 3:** Calculate the molality of a solution having 8.4 gm of NaHCO3 dissolved in 500gm of water._
 
-\= weight of the HNO<sub>3</sub>
+**(c). Mole Fraction:** 
 
-Mol.Wt.of HNO<sub>3</sub> x weight of thesolvent(in gms)
+It is the ratio to the number of moles of solute and number of moles of solution. The number of moles of solution is equal to number of moles of solute plus number of moles of solvent.
 
-x1000
 
-\= 6.3 x1000
+$
+\begin{aligned}
+& \text { Mole Fraction of solute }=\frac{\text { No. of moles of solute }(\mathrm{n})}{\text { No. of moles of solute }(\mathrm{n})+\text { No.of moles of solvent }(\mathrm{N})} \newline
+& \text { Mole Fraction of solvent }=\frac{\text { No.of moles of solvent }(\mathrm{N})}{\text { No. of moles of solute }(\mathrm{n})+\text { No. of moles of solvent(N) }}
+\end{aligned}
+$
 
-63 x 250
+**Illustration 9: 2 moles of sodium carbonate is dissolved in 3 moles of water. Calculate the mole fraction of sodium carbonate and water.**
 
-\= 0.4 m.
+**Solution:** Total number of moles = $2 + 3 = 5$
 
-**_Exercise 3: Calculate the molality of a solution having 8.4 gm of NaHCO3 dissolved in 500gm of water._**
-
-1. **Mole Fraction:** It is the ratio to the number of moles of solute and number of moles of solution. The number of moles of solution is equal to number of moles of solute plus number of moles of solvent.
-
-Mole Fraction of solute = No.of molesof solute(n)
-
-No.of molesof solute(n) +No.of molesof solvent(N)
-
-Mole Fraction of solvent =
-
-No.of molesof solvent(N)
-
-No.of molesof solute(n) +No.of molesof solvent(N)
-
-**_Illustration 9: 2 moles of sodium carbonate is dissolved in 3 moles of water. Calculate the mole fraction of sodium carbonate and water._**
-
-**_Solution:_** Total number of moles = 2 + 3 = 5
-
-Mole fraction of Na2CO3 (X Na2 CO3) =
+Mole fraction of $\text{Na}_2\text{CO}_3$ (X Na2 CO3) =
 
 No.of molesof Na<sub>2</sub>CO<sub>3</sub>
 
-Totalno.of molesin thesolution
+$
+\text { Mole fraction of } \mathrm{Na}_2 \mathrm{CO}_3\left(\mathrm{X} \mathrm{Na}_2 \mathrm{CO}_3\right)=\frac{\text { No. of moles of } \mathrm{Na}_2 \mathrm{CO}_3}{\text { Total no. of moles in the solution }}
+$
 
-\= 2
+$
+\text { Mole fraction of water }\left(\mathrm{X} \text{ } \mathrm{Na}_2 \mathrm{CO}_3\right)=\frac{3}{5}
+$
 
-5
 
-\= 0.4
-
-Mole fraction of water (X Na2 CO3) = 3
-
-5
-
-\= 0.6
-
-X Na2CO3 + X H2O = 0.4 + 0.6 = 1
+$
+\mathrm{X} \mathrm{Na}_2 \mathrm{CO}_3+\mathrm{XH}_2 \mathrm{O}=0.4+0.6=1
+$
 
 **_Illustration 10: 4 grams of NaOH (Mol.Wt = 40) is dissolved in 16.2 grams of water (Mol.Wt = 18). Calculate the mole fraction of NaOH and water._**
 
-**_Solution:_** Number moles of NaOH = Wt.of NaOH
+**_Solution:_** 
 
-gm.mol.wt.of water
+$
+\begin{aligned}
+&\begin{aligned}
+& \text { Number moles of } \mathrm{NaOH}=\frac{\text { Wt.of } \mathrm{NaOH}}{\text { gm.mol.wt.of water }}=\frac{4}{40}=0.1 \newline
+& \text { Number moles of Water }=\frac{\text { Wt.of water }}{\text { gm.mol.wt of Water }} \newline
+& =\frac{16.2}{18}=0.9
+\end{aligned} \newline
+&\begin{aligned}
+& \text { Mole fraction of } \mathrm{NaOH}(X \mathrm{NaOH})=\frac{\text { No.of moles of } \mathrm{NaOH}}{\text { total no. of moles }}=\frac{0.1}{(0.1+0.9)}=0.1 \newline
+& \mathrm{XNaOH}+\mathrm{XH}_2 \mathrm{O}=1 \newline
+& \mathrm{XH}_2 \mathrm{O}=1-0.1=0.9
+\end{aligned} \newline
+&\text { Mole fraction of } \mathrm{NaOH}(X \mathrm{NaOH})=\frac{\text { No.of moles of } \mathrm{NaOH}}{\text { total no. of moles }}=\frac{0.1}{(0.1+0.9)}=0.1\newline
+&\mathrm{XNaOH}+\mathrm{XH}_2 \mathrm{O}=1 \newline
+&\mathrm{XH}_2 \mathrm{O}=1-0.1=0.9
+\end{aligned}
+$
 
-Number moles of Water = Wt.of water
+**Exercise 4:** Calculate the mole fraction of Na2CO3 containing 10.6 gm of Na2CO3 dissolved in 16.2 gm of water.
 
-gm.mol.wt of Water
+**(d). Normality(N):** 
 
-\= 4 = 0.1
+The number of equivalents present in one liter of solution is called Normality.
 
-40
+$
+\begin{aligned}
+& \text { Normality }=\frac{\text { No.of equivalents }}{\text { Volume of solution(Vinlt.) }} \text { (or) } \newline
+& =\frac{\text { No.of equivalents }}{\text { Volume of solution(Vinml) }} \times 1000 \text { (or) } \newline
+& =\frac{\text { weight of solute }(\mathrm{w})}{\text { equivalent weight }(\text { Eq.W) } \times \text { volume of solution(V inml) }} \times 1000
+\end{aligned}
+$
 
-\= 16.2
+#### Calculation of Equivalent weight(Eq.W)
 
-18
+**(a) Acids:**
 
-\= 0.9
-
-Mole fraction of NaOH (X NaOH) = No.of molesof NaOH = 0.1
-
-\= 0.1
-
-X NaOH + X H2O = 1 X H2O = 1 – 0.1 = 0.9
-
-totalno.of moles
-
-(0.1+ 0.9)
-
-**_Exercise 4:_**
-
-**_Calculate the mole fraction of Na2CO3 containing 10.6 gm of Na2CO3 dissolved in 16.2 gm of_**
-
-**_water._**
-
-1. **Normality(N):** The number of equivalents present in one liter of solution is called Normality.
-
-Normality = No.of equivalents
-
-Volumeof solution(V inlt.)
-
-(or)
-
-\= No.of equivalents x1000 (or)
-
-Volume of solution(V inml)
-
-\= weight of solute(w) x1000 equivalent weight (Eq.W)x volumeof solution(V inml)
-
-##### Calculation of Equivalent weight(Eq.W)
-
-1. **Acids:** For acids, equivalent weight = molecular weight of acid
-
-basicity
+$
+\text { For acids, equivalent weight }=\frac{\text { molecular weight of acid }}{\text { basicity }}
+$
 
 Basicity of an acid is the number of replaceable H ions.
 
-For example, HCl contain one replaceable hydrogen, so the basicity of HCl is one. Similarly, HNO3, HNO2, HClO4, HPO3 having only one replaceable hydrogen ions. So, the basicity of these acids is one respectively. For all these acids, the equivalent weight equal to molecular weight.
+For example, HCl contain one replaceable hydrogen, so the basicity of HCl is one. Similarly, $\mathrm{HNO}_3, \mathrm{HNO}_2$, $\mathrm{HClO}_4, \mathrm{HPO}_3$ having only one replaceable hydrogen ions. So, the basicity of these acids is one respectively. For all these acids, the equivalent weight equal to molecular weight. $\mathrm{H}_2 \mathrm{SO}_4$ contains two replaceable hydrogen ions, so the basicity of $\mathrm{H}_2 \mathrm{SO}_4$ is two. Similarly, $\mathrm{H}_3 \mathrm{PO}_3, \mathrm{H}_2 \mathrm{CO}_3$ and Oxalic acid $\left(\mathrm{C}_2 \mathrm{H}_2 \mathrm{O}_4\right)$ having only two replaceable hydrogen ions. So, the basicity of these acids is two respectively. So for all these acids, equivalent weight $=\frac{\text { molecular weight }}{2}$. $\mathrm{H}_3 \mathrm{PO}_4$ contains three replaceable hydrogen ions, so the basicity of $\mathrm{H}_3 \mathrm{PO}_4$ is three. So the equivalent weight of $\mathrm{H}_3 \mathrm{PO}_4=\frac{\text { molecular weight }}{3}$.
 
-H2SO4 contains two replaceable hydrogen ions, so the basicity of H2SO4 is two. Similarly, H3PO3, H2CO3 and Oxalic acid (C2H2O4) having only two replaceable hydrogen ions. So, the basicity of these acids is two
+**(b) Bases:** 
 
-respectively. So for all these acids, equivalent weight = molecular weight .
+$
+\text { For bases the equivalent weight }=\frac{\text { molecular weight of base }}{\text { acidity }} \text {. }
+$
 
-2
+Acidity of a base is the number of replaceable $\mathrm{OH}^{-}$ ions.
 
-H3PO4 contains three replaceable hydrogen ions, so the basicity of H3PO4 is three. So the equivalent weight
 
-of H3PO4 = molecular weight .
+For example, NaOH contains only one replaceable $\mathrm{OH}^{-}$ ions, so the acidity of NaOH is one. Similarly, KOH , $\mathrm{CuOH}, \mathrm{AgOH}, \mathrm{CsOH}, \mathrm{NH}_4 \mathrm{OH}$ all have only one replaceable OH -ion. So the acidity of all these bases is one.
 
-3
+$\mathrm{Mg}(\mathrm{OH})_2$ contains two replaceable $\mathrm{OH}^{-}$ ions, so the acidity of $\mathrm{Mg}(\mathrm{OH})_2$ is two. Similarly, $\mathrm{Ba}(\mathrm{OH})_2, \mathrm{Ca}(\mathrm{OH})_2$, $\mathrm{Cu}(\mathrm{OH})_2, \mathrm{Fe}(\mathrm{OH})_2, \mathrm{Zn}(\mathrm{OH})_2$ all have only two replaceable OH -ion. So the acidity of all these bases is two.
 
-1. **Bases:** For bases the equivalent weight = molecular weight of base .
+$\mathrm{Al}(\mathrm{OH})_3$ contains three replaceable $\mathrm{OH}^{-}$ ions, so the acidity of $\mathrm{Al}(\mathrm{OH})_3$ is three. Similarly, $\mathrm{Bi}(\mathrm{OH})_3, \mathrm{Cr}(\mathrm{OH})_3$ and $\mathrm{Fe}(\mathrm{OH})_3$, all have three replaceable OH -ion. So the acidity of all these bases is three.
 
-acidity
+**(c) Salts:** 
 
-Acidity of a base is the number of replaceable OH- ions.
+$
+\text{The equivalent weight of salt }=\frac{\text { molecular weignt of the salt }}{\text { totalchargeonthecationoranion }}
+$
 
-For example, NaOH contains only one replaceable OH- ions, so the acidity of NaOH is one. Similarly, KOH, CuOH, AgOH, CsOH, NH4OH all have only one replaceable OH<sup>—</sup>ion. So the acidity of all these bases is one.
+For example, in NaCl the charge on the cation is one. So, the equivalent weight of NaCl is equal to molecular weight. In $\text{Na}_2\text{CO}_3$ the total charge on the cation is two. So the equivalent weight of $\text{Na}_2\text{CO}_3$ is 2
 
-Mg(OH)2 contains two replaceable OH<sup>\-</sup> ions, so the acidity of Mg(OH)2 is two. Similarly, Ba(OH)2, Ca(OH)2, Cu(OH)2, Fe(OH)2, Zn(OH)2 all have only two replaceable OH<sup>—</sup>ion. So the acidity of all these bases is two.
-
-Al(OH)3 contains three replaceable OH<sup>\-</sup> ions, so the acidity of Al(OH)3 is three. Similarly, Bi(OH)3, Cr(OH)3 and Fe(OH)3, all have three replaceable OH<sup>—</sup>ion. So the acidity of all these bases is three.
-
-1. **Salts:** The equivalent weight of salt = molecular weight of the salt
-
-totalcharge on thecationor anion
-
-For example, in NaCl the charge on the cation is one. So, the equivalent weight of NaCl is equal to molecular weight. In Na2CO3 the total charge on the cation is two. So the equivalent weight of Na2CO3 is
-
-molecular weight .
-
-2
-
-Equivalent weight of NaCl = molecular weight
-
-1
-
-\= 58.5
-
-1
-
-\= 58.5
-
-Equivalent weight of Na2CO3 = molecular weight
-
-2
-
-\= 106 = 53
-
-2
-
-Equivalent weight of AlCl3 = molecular weight
-
-3
-
-\= 133.5 = 44.5
-
-3
+$
+\begin{aligned}
+& \text { Equivalent weight of } \mathrm{NaCl}=\frac{\text { molecular weight }}{1}=\frac{58.5}{1}=58.5 \newline
+& \text { Equivalent weight of } \mathrm{Na}_2 \mathrm{CO}_3=\frac{\text { molecular weight }}{2}=\frac{106}{2}=53 \newline
+& \text { Equivalent weight of } \mathrm{AlCl}_3=\frac{\text { molecular weight }}{3}=\frac{133.5}{3}=44.5
+\end{aligned}
+$
 
 Similarly you can calculate the equivalent weight of any salts.
 
-**_Illustration Calculate the Normality of solution containing 4.9gm of H2SO4 dissolved in 500ml of solution. Solution:_** Normality(N) = No.of equivalents x1000 . ; \[Equivalent weight of H2SO4 = 49\]
+**_Illustration Calculate the Normality of solution containing 4.9gm of $\text{H}_2\text{SO}_4$ dissolved in 500ml of solution. Solution:_** Normality(N) = No.of equivalents x1000 . ; \[Equivalent weight of $\text{H}_2\text{SO}_4$ = 49\]
 
-Volumein ml
+$\operatorname{Normality}(\mathrm{N})=\frac{\text { No.of equivalents } \times 1000}{\text { Volumein } \mathrm{ml}} . ;\left[\right.$ Equivalent weight of $\left.\mathrm{H}_2 \mathrm{SO}_4=49\right]$
 
-Equivalents =
+$
+\text { Equivalents }=\frac{\text { weight of } \mathrm{H}_2 \mathrm{SO}_4}{\text { Equivalent wt. of } \mathrm{H}_2 \mathrm{SO}_4}
+$
 
-weight of H<sub>2</sub>SO<sub>4</sub>
+No. of equivalents $=\frac{4.9}{49}=0.1$
+$$
+\begin{aligned}
+& N=0.1 \times 1000 / 500 \\
+& =0.2 \mathrm{~N}
+\end{aligned}
+$$
 
-Equivalent wt.of H2SO4
 
-No. of equivalents = 4.9
-
-49
-
-\= 0.1
-
-N = 0.1 x 1000 / 500
-
-\= 0.2 N
 
 **_Exercise 5:_**
 
@@ -455,7 +401,7 @@ N = 0.1 x 1000 / 500
 
 The solutions which are homogeneous in nature are called true solutions. In true solutions, the particles of solutions have extremely small size (< 10–7 cm).
 
-#### Properties of True Solutions
+##### Properties of True Solutions
 
 The important properties of true solutions are:
 
@@ -669,27 +615,23 @@ particles Dispersion medium is air
 
 ### LEVEL - II
 
-1. Mole fraction of C3H5(OH)3 in a solution of 36 g of water and 46 g of glycerine is:
-    1. 0.46 (B) 0.36
+1. Mole fraction of C3H5(OH)3 in a solution of 36 g of water and 46 g of glycerine is:  
+    (A) 0.46   (B) 0.36  
+    (C) 0.20   (D) 0.40  
 
-(C) 0.20 (D) 0.40
+2. Molecular mass of NaCl is 58.5. A solution of NaCl containing 5.85 g NaCl per litre is:  
+    (A) 1 molar (B) 0.1 molar       
+    (C) 2 molar (D) 0.585 molar
 
-1. Molecular mass of NaCl is 58.5. A solution of NaCl containing 5.85 g NaCl per litre is:
-    1. 1 molar (B) 0.1 molar
+1. H2O2 solution used for hair bleaching is sold as a solution of approximately 5.0g H2O2 per 100 mL of the solution. The molarity of this solution is approximately:   
+    (A) 0.15 M   (B) 1.5 M  
+    (C) 3.0 M    (D) 3.4 M  
 
-(C) 2 molar (D) 0.585 molar
+1. The number of moles of solute per kg of a solvent is called its:  
+    (A) molarity (B) normality  
+    (C) mole fraction (D) molality  
 
-1. H2O2 solution used for hair bleaching is sold as a solution of approximately 5.0g H2O2 per 100 mL of the solution. The molarity of this solution is approximately:
-    1. 0.15 M (B) 1.5 M
-
-(C) 3.0 M (D) 3.4 M
-
-1. The number of moles of solute per kg of a solvent is called its:
-    1. molarity (B) normality
-
-(C) mole fraction (D) molality
-
-1. A solution of CaCl2 is 0.5 mol/litre; then the moles of chloride ion in 500 mL will be:
+1. A solution of $\text{CaCl_2}$ is 0.5 mol/litre; then the moles of chloride ion in 500 mL will be:
     1. 0.5 (B) 0.25
 
 (C) 1.0 (D) molality
@@ -767,21 +709,35 @@ The mole fraction of NaOH is
 
 **ANSWERS**
 
-**SUBJECTIVE**
+SUBJECTIVE
+LEVEL - II
+1. 0.025 M
+2. $\quad 1.06 \mathrm{~g}$
+3. 100 ml
+4. 1 M
+5. 0.03
 
-**LEVEL - II**
+OBJECTIVE
+LEVEL - I
+1. A
+2. D
+3. B
+4. B
+5. B
+6. C
+7. C
+8. C
+9. A
+10. A
 
-1\. 0.025 M 2. 1.06g 3. 100ml 4. 1 M
-
-| 5.  | 0.03 |     |     |     |     |     |     |
-| --- | --- |     |     |     |     |     |     | --- | --- | --- | --- | --- | --- |
-|     |     |     |     | **OBJECTIVE** |     |     |     |
-|     |     |     |     |     |     |     |     |
-|     |     |     |     | **LEVEL - I** |     |     |     |
-| 1.  | **A** | 2.  | **D** | 3.  | **B** | 4.  | **B** |
-| 5.  | **B** | 6.  | **C** | 7.  | **C** | 8.  | **C** |
-| 9.  | **A** | 10. | **A** |     |     |     |     |
-|     |     |     |     | **LEVEL - II** |     |     |     |
-| 1.  | **C** | 2.  | **B** | 3.  | **B** | **4**. | **D** |
-| 5.  | **B** | 6.  | **A** | 7.  | **A** | **8**. | **D** |
-| 9.  | **C** | 10. | **B** |     |     |     |     |
+LEVEL - II
+1. C
+2. B
+3. B
+4. D
+5. B
+6. A
+7. A
+8. D
+9. C
+10. B

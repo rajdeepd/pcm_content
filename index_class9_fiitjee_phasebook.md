@@ -20,10 +20,14 @@ grand_parent: Home
 * [Objective Level 1](class9/physics/fiitjee-phase2-phasebook-force/4-objective-level1.html)
 * [Chapter Practice Problems](class9/physics/fiitjee-phase2-phasebook-force/5-chapter-practice-problems.html)
 * [Assignment](class9/physics/fiitjee-phase2-phasebook-force/5-chapter-practice-problems.html)
+* [Ready Reckoner](class9/physics/fiitjee-phase2-phasebook-force/10-ready-reckoner.html)
 
 ### Gravity
 
-* [Formulas](class9/physics/fitjee-phase2-gravity/2-formulas-at-glance.html)
+* [2. Formulas](class9/physics/fitjee-phase2-gravity/2-formulas-at-glance.html)
+* [3. Add to your Knowledge](class9/physics/fitjee-phase2-gravity/3-add-to-your-knowledge.html)
+* [4. Solved Problems](class9/physics/fitjee-phase2-gravity/4-solved-problems.html)
+* [5.1. Objective Questions Only](class9/physics/fitjee-phase2-gravity/5.1-objective-questions-only.html)
 
 
 ## Chemistry
