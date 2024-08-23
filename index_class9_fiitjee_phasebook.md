@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fiitjee Phasebook Phase 2
+title: Class 9 Fiitjee Phasebook
 nav_order: 1
 description: ""
 has_children: true
@@ -8,7 +8,9 @@ parent: Class 9
 grand_parent: Home
 ---
 
-## Physics 
+# Physics 
+
+## Phase 2
 
 ### Force
 
@@ -35,4 +37,18 @@ grand_parent: Home
 * [Material Concentration Terms](class9/chemistry/fitjee-phase2-chemsitry/4-material-solutions-concentration-terms.html)
 * [Generated Questions](class9/chemistry/fitjee-phase2-chemsitry/4.1-generated-questions-concentration-terms.html)
 * [Worksheet Concentration](class9/chemistry/fitjee-phase2-chemsitry/5-worksheet-concentration.html)
-  
+
+## Phase 3
+
+
+### Maths
+
+#### Linear Equations
+
+* [Introduction](class9/maths/fitjee-phase2-linear-eq/introduction.html)
+
+### Physics
+
+#### Fluids
+
+* [Introduction](class9/physics/fitjee-phase3-fluids/1-introduction.html)
