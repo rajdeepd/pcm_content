@@ -7,7 +7,3 @@ has_children: true
 
 This site containts content on the following subjects
 
-* Physics
-* Chemistry
-* Maths
-

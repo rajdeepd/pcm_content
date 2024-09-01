@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: 2. Linear Equation One Variable
 nav_order: 4
 description: ""
 has_children: false
@@ -8,11 +8,7 @@ parent:  Fiitjee Phasebook
 tags: [MathJax, Mathematic]
 mathjax: true
 ---
-# Linear Equation In TWO VARIABLES-1 
 
-## INTRODUCTION  
-
-In this chapter we shall review linear equations in one variable. Then we shall learn how to solve linear equations in two variables. For this we shall learn graphical representation of a point in a plane. We shall represent a point with the help of two numbers known as coordinates of that point. The concept of coordinates was given by the French Mathematician Rene Descartes (1596-1650), which integrates Algebra and geometry.
 
 ### LINEAR EQUATION IN ONE VARIABLE  
 
@@ -251,9 +247,10 @@ $\therefore \quad$ father's age $=40$ years
 and son's age $=(48-40)=8$ years
 Verification: $\frac{\text { age of son }}{\text { age of father }}=\frac{8}{40}=\frac{1}{5}$, which satisfies the condition given in question
 
-Exercise 2:16  
+### Exercise 2:16  
 (i) A number consists of two digits. The digit in ten's place exceeds the digit in unit's place by 2 . The difference of the digits is $\frac{1}{32}$ of the number. Find the number.  
 (ii) The denominator of a fraction is 1 more than its numerator. If 15 is subtracted from both the numerator and denominator, the fraction becomes $\frac{9}{10}$. Find the fraction.   
 (iii) A steamer going down stream in a river, covers the distance between two towns in 20 hours. Coming back upstream, it covers this distance in 25 hours. The speed of water is 4 kmh . Find the distance between two towns.  
 (iv) The perimeter of a rectangle is 240 cm . If its length is decreased by $10 \%$ and breadth is increased by $20 \%$, we get the same perimeter. Find the length and breadth of the rectangle.  
 (v) The angle $A$ of a triangle $A B C$ is equal to the sum of the other two angles. Also, the ratio of the angle $B$ to the angle $C$ is $2: 3$. Determine the three angles.  
+

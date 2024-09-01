@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 description: ""
 has_children: false
-parent: Class 9 Fiitjee Phasebook
+parent: Class 9 Fiitjee Phasebook Physics
 grand_parent: Class 9
 # grand_patent: Class 9
 tags: [MathJax, Mathematic]
@@ -88,12 +88,12 @@ $1 \mathrm{~atm}=$ pressure exerted by a mercury column of length $760 \mathrm{~
 (D) not zero, zero  
 (iii). Force due to pressure acts always _______  to surface. 
 
-Illustration 1:
+Illustration 1:  
 A force of 40 N is applied on a nail, whose tip has an area of cross-section of $0.001 \mathrm{~cm}^2$. Find the pressure on the tip.
 
 Solution:
 
-$$
+$
 \begin{aligned}
 & \text { Given that, } F=40 \mathrm{~N}, A=0.001 \mathrm{~cm}^2=10^{-7} \mathrm{~m}^2 \\
 & \begin{aligned}
@@ -101,16 +101,15 @@ $$
 &=4 \times 10^8 \mathrm{~N} / \mathrm{m}^2
 \end{aligned}
 \end{aligned}
-$$
+$
 
 
-Illustration 2:
-
+Illustration 2:  
 Atmospheric pressure is nearly 100 KPa . How large force does the air in a room exert on one side of a window of dimensions $40 \mathrm{~cm} \times 80 \mathrm{~cm}$ ?
 
 Solution: Given that,
 
-$$
+$
 \begin{aligned}
 & P=100 \mathrm{KPa}=100 \times 10^3 \mathrm{~Pa} \\
 & P=10^5 \mathrm{~Pa} \\
@@ -118,22 +117,22 @@ $$
 & \therefore F=P A=10^5 \times 40 \times 80 \times 10^{-4} \\
 & \Rightarrow F=32 \mathrm{KN}
 \end{aligned}
-$$
+$
 
 Illustration 3:  
 A tank 5 m high is half filled with water and then is filled to the top with oil of density $0.85 \mathrm{~g} \mathrm{~cm}^{-3}$. What is the pressure at the bottom of the tank due to these liquid?
 
 Solution:
 
-$$
+$
 \begin{aligned}
 \text { Pressure } & =\frac{\text { Total weight of water and liquid }}{\text { base area of tank }} \\
 & =\frac{A \times \ell_w \times \rho_w \times g+A \times \ell_0 \times \rho_0 \times g}{A}=453250 \text { dyne } / \mathrm{cm}^2
 \end{aligned}
-$$
+$
 
 
-### BUOYANT FORCE  
+### BUOYANT FORCE    
 When an object is immersed in a liquid, it experiences an upward force due to the liquid due to this is looses weight. This upward force is called Buoyant force. Buoyant force is also known as upthrust.
 1. When a piece of cork is held below the surface of water and then released, the cork immediately rises to the surface. It means some upward force is exerted by water on the cork which pushes it to the surface.
 2. When a stone lying at the bottom of a pond is lifted up, it appears to be light as long as it is being lifted inside water. But as soon as the stone is lifted out of water into air, one feels it to be much heavier. It means some upward force acts on the stone when it is immersed in water and makes us feel lighter.
@@ -167,7 +166,7 @@ As the volume of object immersed inside the liquid increases, the upward buoyant
 (iii). A cubical object is floating inside a liquid such that upper surface is just inside the liquid. Now it is gently pushed into the liquid so that it acquires a velocity v. Its nature of motion later would be?
 (iv). Explain why it is easier to lift a stone in water than in air?
 
-$\sigma$ Illustration 4:
+<font color="#674188"><b>$\sigma$ Illustration 4:</b></font>
 A weighing machine on which a beaker containing water is placed reads $w$. What happens to lts reading if some one keeps his hand so that only fingers are immersed in water?
 
 Solution: $w$ increases. In this case though the total weight of hand is not acting on water, the hand apparently looses some weight equivalent to buoyant force i.e. the water gels pushed down with the same force. Hence w increases (by a magnitude equal to buoyant force)  
@@ -180,7 +179,7 @@ In other words,Buoyant force acting on an object = Weight of the displaced fluid
 The force exerted by a fluid on a solid body dipped partially or fully in it is called the buoyant force. e.g. if only a part of the ball is inside the liquid, then it displaces a smaller volume of fluid. The volume of the fluid displaced is equal to the volume of that part of the ball which is inside the fluid. The net force exerted on the ball by the fluid is again in the upward direction and it is equal to the weight of the displaced fluid.
 This rule is also applicable for solids immersed in gases.
 
-**Floating Bodies**:  
+#### Floating Bodie:  
 A body of weight $W$ is completely immersed in a liquid and released, and then the two forces acting on it are:  
 (a) The weight $W$, of the body in downward direction.  
 (b) Buoyant force $B$ exerted by the liquid in upward direction.
@@ -203,9 +202,9 @@ Mass of the displaced liquid $=\mathrm{V}_\sigma$
 Weight of the displaced liquid $=$ Force of buoyancy $(B)=V \sigma g$  
 Body will come up and float if,
 
-$$
+$
 B>W \Rightarrow V_{\sigma g}>V_{\rho g}
-$$
+$
 
 
 Or, $\sigma>\rho$
@@ -237,8 +236,8 @@ The shape of the body plays an important role in deciding whether it sinks or fl
 
 (iv). Why it is easier to swim in sea water than in the river water?
 
-**Illustration 5:**  
-A solid floats in water with $3 / i^n$ of its volume below the surface of water. What is the density of the substance? (Density of water $=1000 \mathrm{~kg} / \mathrm{m}^3$ )
+<font color="#674188"><b>Illustration 5:</b>
+A solid floats in water with $3 / i^n$ of its volume below the surface of water. What is the density of the substance? (Density of water $=1000 \mathrm{~kg} / \mathrm{m}^3$ )</font>
 
 Solution: Let the volume and density of the solid be V and $\rho$ respectively.
 Weight of the solid $=\left(\mathrm{V}_{\mathrm{pg}}\right)$ Newton
@@ -246,16 +245,16 @@ Volume of block under water $=(3 \mathrm{~V} / 4) \mathrm{m}^3=$ volume of water
 Weight of water displaced $=\left(\frac{3 \mathrm{~V}}{4} \times 1000 \times \mathrm{g}\right) \mathrm{N}$
 Since, weight of body $=$ weight of water displaced by it
 
-$$
+$
 \begin{aligned}
-& \therefore V_{\rho g}=\frac{3 V}{4} \times 1000 \times g \\
-& \text { or } \rho=\frac{3 \times 1000}{4} \mathrm{~kg} / \mathrm{m}^3 \\
+& \therefore V_{\rho g}=\frac{3 V}{4} \times 1000 \times g \newline
+& \text { or } \rho=\frac{3 \times 1000}{4} \mathrm{~kg} / \mathrm{m}^3 \newline
 & \rho=750 \mathrm{~kg} / \mathrm{m}^3 .
 \end{aligned}
-$$
+$
 
-$\sigma$ Illustration 6:  
-A solid sphere weighs 2.0 N in air and 1.6 N when totally immersed in water. What is the magnitude of the upthrust?
+<font color="#674188"><b>$\sigma$ Illustration 6:</b>> 
+A solid sphere weighs 2.0 N in air and 1.6 N when totally immersed in water. What is the magnitude of the upthrust?</font>
 
 Solution: $\quad$ Weight of sphere in air $=2.0 \mathrm{~N}$  
 Weight of sphere in water $=1.6 \mathrm{~N}$  
@@ -267,18 +266,19 @@ When a body is dipped in a liquid, the liquid exerts an upward force on it which
 Due to which less force is needed to hold the body. This, weight of the body inside a liquid is called the apparent weight of the body. Apparent weight of a body dipped in a liquid is less than its true weight.
 
 #### Relative Density or Specific Gravity:
+
 Relative density of a substance is defined as the ratio of density of substance to water.
 
-$$
+$
 \begin{aligned}
-\text { Relative density of a substance } & =\frac{\text { Density of the substance }}{\text { Density of water }} \\
-& =\frac{\text { wt. of bodyinair }}{\text { loss of wt. of bodyin water }} \\
-& =\frac{\text { wt. of body inair }}{\text { upthrust }} \\
+\text { Relative density of a substance } & =\frac{\text { Density of the substance }}{\text { Density of water }} \newline
+& =\frac{\text { wt. of bodyinair }}{\text { loss of wt. of bodyin water }} \newline
+& =\frac{\text { wt. of body inair }}{\text { upthrust }} \newline
 & =\frac{\text { wt.of body inair }}{\text { wt.of equal volume of water }}
 \end{aligned}
-$$
+$
 
-**Illustration 7:**
+<font color="#674188"><b>Illustration 7:</b></font>
 Four fiths of a cylindrical block of wood floats inside a liquid. If the relative density of the wood is 0.7 , find the density of the liquid.
 
 Solution:
@@ -287,15 +287,15 @@ Density of the block $=0.7 \times 1000 \mathrm{~kg} / \mathrm{m}^3$
 Volume of the block under the liquid $=\frac{4 \mathrm{~V}}{5}$
 Weight of the body $=$ weight of the liquid displaced (since body floats)
 
-$$
+$
 \begin{aligned}
-& V \times 700 \times g=\frac{4 V}{5} \times \rho \times g \\
+& V \times 700 \times g=\frac{4 V}{5} \times \rho \times g \newline
 & \text { or, } \rho=\frac{5}{4} \times 700=875 \mathrm{~kg} / \mathrm{m}^3
 \end{aligned}
-$$
+$
 
-**Illustration 8:**
-A solid sphere has a radius of 1.5 cm and a mass of 0.038 kg . What is the relative density of the sphen
+<font color="#674188"><b>Illustration 8:</b></font>
+A solid sphere has a radius of 1.5 cm and a mass of 0.038 kg . What is the relative density of the sphere </font>
 
 Solution:
 Given that, $m=0.038 \mathrm{~kg}, \mathrm{r}=1.5 \mathrm{~cm}$
@@ -303,14 +303,76 @@ Volume of the sphere $(V)=\frac{4}{3} \pi r^3=\frac{4}{3} \times 3.14 \times\lef
 Density of the sphere $(\mathrm{d})=\frac{\mathrm{m}}{\mathrm{v}}=\frac{0.038}{1.413 \times 10^{-5}}=2690 \mathrm{~kg} / \mathrm{m}^3$
 $\therefore$ Relative density $=\frac{\text { density of substance }}{\text { density of water }}=\frac{2690 \mathrm{~kg} / \mathrm{m}^3}{1000 \mathrm{~kg} / \mathrm{m}^3}=2.69$.
 
-**Illustration 10:**
-The relative density of a body weighing 20N in air is 4. Find its weight in water.
-Solutiqn:
+<font color="#674188"><b>Illustration 9:</b></font>
+A flat bottomed loaded test-tube sinks to a depth of 10 cm in a liquid and 12 cm in water. Calculate the relative density of the liquid.</font>
 
-$$
+ <figure align="center">
+   <img src="/pcm_content/class9/physics/fitjee-phase3-fluids/images/fluids1.7.png" width="45%"/>
+  <figcaption align="center" font-size="8px">Fig.7 : Loaded test tube 10 cm and 12 cm in water </figcaption>
+</figure>
+
+Solution: $\quad$ Let the cross section of the tube be $=\mathrm{Acm}^2$ and the density of the liquid be $\mathrm{d} \mathrm{g} / \mathrm{cm}^3$ and that of water $d_1 \mathrm{~g} / \mathrm{cm}^3$.
+
+Mass of liquid displaced = volume displaced $\times$ density of liquid $=\mathrm{A} \times 10 \times \mathrm{d}$ grams
+Mass of water displaced $=\mathrm{A} \times 12 \times \mathrm{d}_1$ grams   
+Mass of liquid displaced $=$ Mass of water displaced (Since test-tube floats)  
+i.e. $A \times 10 \times d=A \times 12 \times d_1$  
+or, $\frac{d}{d_1}=\frac{12}{10}=1.2$  
+But $\frac{d}{d_1}$ is specific gravity $=1.2$  
+Hence relative density of the liquid $=1.2$  
+
+<font color="#674188"><b>Illustration 10:</b></font>
+The relative density of a body weighing 20N in air is 4. Find its weight in water. </font>
+Solution:
+
+
+$
 \begin{aligned}
-& R D=\frac{w_\mu}{w_m-w_{\text {mouk }}} \\
-& 4=\frac{20}{20-w_{\text {mex }}} \\
+& R D=\frac{w_\mu}{w_m-w_{\text {mouk }}} \newline
+& 4=\frac{20}{20-w_{\text {mex }}} \newline
 & w_{\text {weter }}=15 \mathrm{~N} .
 \end{aligned}
-$$
+$
+
+<font color="#674188"> <b>Illustration 11:</b></font>
+ The weight of a solid is 80 g in air and 50 g in a liquid of relative density 1.5. Calculate the relative density of the solid. </font>
+
+Solution:
+Weight of solid in air $=80 \mathrm{~g}$
+Weight of solid in liquid $=50 \mathrm{~g}$
+$\therefore$ Loss of weight of solid in liquid $=(80-50) \mathrm{g}=30 \mathrm{~g}$
+Weight of equal volume of liquid by Archimedes principle $=30 \mathrm{~g}$
+If the displaced liquid has a volume of $V \mathrm{~cm}^3$, then its weight $=\mathrm{V} \times 1.5=30 \mathrm{~g}$
+
+$
+\therefore \mathrm{V}=20 \mathrm{~cm}^3
+$
+
+
+Since solid is completely immersed in liquid, so volume of solid $=\mathrm{V}$
+The volume of water that will be displaced by same solid $=20 \mathrm{~cm}^3$
+$\therefore$ Weight of this displaced water $=20 \mathrm{~g}$
+So we have specific gravity of solid $=\frac{\text { wt. of solidinair }}{\text { wt. of water displaced }}=\frac{80 \mathrm{~g}}{20 \mathrm{~g}}=4$.
+
+
+<h3 style="background-color:#674188; color:white; text-align: center;padding: 5px">KEY TO EXERCISES</h3>
+
+<font color="#674188">Exercise 1:   </font>
+(i). Increases   
+(ii): D  
+(iii). Normal  
+
+<font color="#674188">Exercise 2:</font>
+(i). the pressure difference above and below the body which is completely or partially inside the liquid.  
+(ii). volume of the object immersed and density of the liquid
+(iii). It moves down with uniform velocity.  
+(iv). since buoyant force is present only in water (i.e Buoyant force in air is negligible).  
+
+<font color="#674188">Exercise 3:</font>  
+(i). $\quad A, B$  
+(ii). A   
+(iii). C  
+(iv) The density of sea water is greater than that of river water (due to the presence of dissolved salt in sea water). Thus, the upthrust on the swimmer is greater in sea water than in river water. Therefore it is easier to swim in sea water than in river water.
+
+<font color="#674188">Exercise 4: </font>  
+less than
