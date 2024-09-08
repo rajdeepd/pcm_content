@@ -4,7 +4,8 @@ title: 1. Introduction
 nav_order: 4
 description: ""
 has_children: false
-parent:  Fiitjee Phasebook
+parent:  Class 9 Fiitjee Phasebook Maths
+
 tags: [MathJax, Mathematic]
 mathjax: true
 css: blue.css

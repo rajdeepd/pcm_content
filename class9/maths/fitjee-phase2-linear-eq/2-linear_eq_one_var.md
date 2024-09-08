@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2. Linear Equation One Variable
+title: 2. Class 9 Fiitjee Phasebook Maths
 nav_order: 4
 description: ""
 has_children: false

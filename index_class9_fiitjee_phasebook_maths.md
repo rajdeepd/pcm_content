@@ -9,15 +9,16 @@ grand_parent: Class 9
 greabt_grand_parent: Home
 ---
 
-
-
 # Maths
 
 ## Phase 3
 
-#### Linear Equations
+### Linear Equations
 
 * [Introduction](class9/maths/fitjee-phase2-linear-eq/1-introduction.html)
 * [Linear Equation One variable](class9/maths/fitjee-phase2-linear-eq/2-linear_eq_one_var.html)
 * [Cartesian Coordinate System](class9/maths/fitjee-phase2-linear-eq/3-cartesian_system.html)
 
+### Statistics
+
+* [Introduction](class9/maths/phase3/statistics-1/1-introduction.html)
