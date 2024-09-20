@@ -262,3 +262,49 @@ In the above example on inclusive method the difference between the lower limit 
 | $1299.5-1399.5$ | 250 |
 | $1399.5-1499.5$ | 175 |
 | $1499.5-1599.5$ | 100 |
+
+It should be noted that before adjustment the class interval was 99 but after adjustment it is 100 .  
+The mid value of a class is called class mark.  
+Class mark $=\frac{\text { (lower limit }+ \text { upper limit) }}{2}$
+or, Class mark $=$ lower limit $+\frac{1}{2}$ (difference between the upper and the lower limits).  
+
+There are some rules to construct the frequency table :  
+(i) The class should be non-overlapping.  
+(ii) There should be no gaps between classes as far as possible.  
+(iii) The classes should be of same size.  
+(iv) Do not keep open-ended classes.  
+(v) There should not be less than 5 and more than 10 classes.  
+
+And now necessary steps in forming classes are:  
+Step - 1: Determine the minimum and maximum values of the variable occurring in the data.  
+Step - 2: We decide the number of classes to be formed according to the rule given above.  
+Step - 3: We decide the difference of the maximum value and the minimum value of the variable by the number of classes to be formed to determine the class size.  
+Step - 4: We take each item of the data one by one and put a tally mark (1) against the class to which it belongs.  
+Step - 5: By counting tally marks in each class, we get the frequency of that class. Obviously the total of all frequencies should be equal to the total number of observations the data.  
+Step - 6: The frequency table should be given a proper title so that it conveys exactly what the table is about.  
+
+ 
+<font color="#7612ce"><b>$\sigma$ Illustration 1:</b></font>  
+The electricity bills (in rupees) of 25 houses in a locality are given below. Construct a frequency distribution table with a class of size 75.
+170, 212, 252, 225, 310, $712,412,425,322,325,198,192,230,320,412,530,602,724,370,402,317$, $403,405,372,413$.
+
+<font color="#7612ce">Solution:</font>   
+Steps:  
+(i) The minimum value in the data is 170 and the maximum is 724 .
+(ii) The difference is $(724-170)$ or 554 .
+(iii) As the class size is 75 , the number of classes is $\frac{554}{75}$ or 8 (nearest whole number), which falls between the suggested limits.
+
+(iv) The classes therefore, are $150-225,225-300,300-375,375-450,450-525$, 525-600, 600-675 and 675-750.
+
+| Bill (in Rs.) | Tally Marks | Frequency |
+| :---: | :---: | :---: |
+| $150-225$ | $\|\|\|\|$ | 4 |
+| $225-300$ | $\|\|\|$ | 3 |
+| $300-375$ | <img src="./images/tally7.png" width="45%"/> | 7 |
+| $375-450$ |  <img src="./images/tally7.png" width="45%"/>| 7 |
+| $450-525$ |  | 0 |
+| $525-600$ | $\mid$ | 1 |
+| $600-675$ | $\mid$ | 1 |
+| $675-750$ | $\|\|$ | 2 |
+|  |  | Total =25 |
+

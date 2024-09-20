@@ -398,3 +398,34 @@ Hence option (B) is correct.
 (D) the weight acts downwards, buoyant force acts upwards and buoyant force is greater than weight.  
 
 Solution: $\quad$ A helium filled ballon moves upwards when released. This is because the weight acts downwards, buoyant force acts upwards and buoyant force is greater than weight. Hence option (D) is correct. 
+
+<h3 style="background-color:#7612ce; color:white; text-align: center;padding: 5px" align="left">Level - III</h3>
+
+<h4 align="center" color="#7612ce" style="background-color:#e3cff5;padding: 5px" >Multiple choice questions (single option correct)</h4>
+
+<font color="#7612ce"><b>Problem 1.</b></font> Density of water is
+(A) $1 \mathrm{~g} / \mathrm{cm}^3$  
+(B) $1000 \mathrm{~g} / \mathrm{cm}^3$   
+(C) $1 \mathrm{~kg} / \mathrm{cm}^3$    
+(D) $1 \mathrm{~g} / \mathrm{m}^3$  
+
+Solution: $\quad$ Density of water is $1 \mathrm{~g} / \mathrm{cm}^3$.
+Hence option (D) is correct.
+
+<font color="#7612ce"><b>Problem 2.</b></font> Relative density of water is
+(A) $1 \mathrm{~g} / \mathrm{cm}^3$
+(B) 1
+(C) $10 \mathrm{~g} / \mathrm{cm}^3$
+(D) 10
+
+Solution: Relative density of water is 1.
+Hence option (B) is correct.
+
+<font color="#7612ce"><b>Problem 3.</b></font> Sleepers are laid below rails to
+(A) reduce pressure on earth  
+(B) to increase pressure on earth  
+(C) to increase force on earth  
+(D) to decrease force on earth  
+
+Solution: Sleepers are laid below rails to reduce pressure on earth.
+Hence option (A) is correct.

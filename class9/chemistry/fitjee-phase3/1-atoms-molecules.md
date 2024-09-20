@@ -403,3 +403,35 @@ $
 (iv)   
 (a) Find out the number of ions of $\mathrm{PO}_4^{3-}$ in 95 grams of $\mathrm{PO}_4^{3-}$.  
 (b) Find out the number of atoms in 65 grams of Zinc?  </font>
+
+### Mole Based Stoichiometry
+A basic question raised in the chemical laboratory is, "How much product will be formed from specific amounts of reactants?" Or in some cases we might ask the reverse question: "How much starting material (reactant) must be used to obtain a specific amount of product?" To interpret a reaction quantitatively, we need to apply our knowledge of molar masses and the mol concept.
+For example,
+
+$
+\mathrm{CaCO}_3 \xrightarrow{\Delta} \mathrm{CaO}(\mathrm{g})+\mathrm{CO}_2(\mathrm{~g}) \uparrow
+$
+
+we see that $\mathrm{CaCO}_3$ on decomposition gives CaO and $\mathrm{CO}_2$.  
+
+The above equation is balanced. But if the equation is not balanced, then first balance the equation. For above example, we can say that,
+$1 \mathrm{~mol}^2 \mathrm{CaCO}_3$ decomposes to give 1 mole of CaO and $1 \mathrm{~mol} \mathrm{CO}_2$.
+
+ 
+or we can also say that,
+100 gms of $\mathrm{CaCO}_3$ gives 56 gm of CaO and 44 gms of $\mathrm{CO}_2$. So, it it is asked that how much CaO will be formed from 20 gms of $\mathrm{CaCO}_3$.  
+
+So, we can apply unitary method and find out.
+Here, $100 \mathrm{gms} \mathrm{CaCO}_3$ gives 56 gm of CaO .
+$20 \mathrm{gms} \mathrm{CaCO}_3$ gives $\frac{56}{100} \times 20=11.2 \mathrm{gm}$  
+So, summarizing the following points:  
+The mol method consists of the following steps  
+(i) Write correct formula for all reactants and products and balance the resulting equation.  
+(ii) Convert the quantities of some or all given or known substances (usually reactants) into mol.  
+(iii) Use the coefficients in the balanced equation to calculate the number of mol of the unknown quantities (usually products).  
+(iv) Using the calculated number of mol and molar masses, convert the unknown quantities to whatever units are required.  
+Mol of reactant $\rightarrow$ Mol of product  
+Mass of reactant $\rightarrow$ Mol of reactant $\rightarrow$ Mol of product  
+Mass of reactant $\rightarrow$ Mol of reactant $\rightarrow$ Mol of product $\rightarrow$ Mass of product  
+
+
