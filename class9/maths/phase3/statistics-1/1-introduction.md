@@ -301,10 +301,164 @@ Steps:
 | $150-225$ | $\|\|\|\|$ | 4 |
 | $225-300$ | $\|\|\|$ | 3 |
 | $300-375$ | <img src="./images/tally7.png" width="45%"/> | 7 |
-| $375-450$ |  <img src="./images/tally7.png" width="45%"/>| 7 |
+| $375-450$ | <img src="./images/tally7.png" width="45%"/>| 7 |
 | $450-525$ |  | 0 |
 | $525-600$ | $\mid$ | 1 |
 | $600-675$ | $\mid$ | 1 |
 | $675-750$ | $\|\|$ | 2 |
 |  |  | Total =25 |
+
+Cumulative Frequency
+Definition:
+The sum of frequency of a particular class and frequencies of all classes preceding that class is called the cumulative frequency of that class. The table showing cumulative frequencies is called cumulative frequency table.
+There are two types of cumulative frequencies viz. less than and greater than types. For less than cumulative frequencies we add up frequencies from above and for greater than cumulative frequencies we add up frequencies from below.
+In the above table we are talking about less than type frequency distribution.
+
+| Bill (in <br> Rupees) (less <br> than type) | No. of houses <br> (Cumulative frequency) |
+| :---: | :---: |
+| 225 | 4 |
+| 300 | 7 |
+| 375 | 14 |
+| 450 | 21 |
+| 525 | 21 |
+| 600 | 22 |
+| 675 | 23 |
+| 750 | 25 |
+
+ Now the cumulative frequency of greater than type being described as: 
+
+| Bill (in Rupees) <br> (greater than <br> type) | No. of houses <br> (Cumulative frequencies) |
+| :---: | :---: |
+| 150 | 25 |
+| 225 | 21 |
+| 300 | 18 |
+| 375 | 11 |
+| 450 | 4 |
+| 525 | 4 |
+| 600 | 3 |
+| 675 | 2 |
+| 750 | 0 |
+
+So cumulative frequency of a class can be calculated as frequency of a class + cumulative frequency of the previous class.
+
+<font color="#7612ce"><b>$\sigma$ Illustration 2:</b></font>  
+
+This water tax bills (in rupees) of 30 houses in a locality are given below. Construct a grouped frequency distribution [showing the cumulative frequency (less than type)] of class size 10.
+
+$$
+30,32,45,54,78,108,112,68,75,88,40,14,20,15,35,44,66,75,84,95,96,102,110,88,74,112 \text {, }
+$$
+
+$14,34,44,80$.
+
+<font color="#7612ce">Solution:</font>   
+Here the maximum and minimum values of the variate are 112 and 14 respectively.
+$\therefore$ range $\rightarrow(112-14)=98$.
+It is given that the class size is 10
+and $\frac{\text { Ranges }}{\text { Class size }}=\left(\frac{98}{10}\right)=9.8$.  
+So, we should have 10 classes each of size 10.  
+The minimum and maximum values of the variate are 14 and 112 respectively. So, we have to make the classes in such a way that first class includes the minimum value and the last class includes the maximum value. If we take the first class as $14-24$ it includes the minimum value 14. If the last class is taken as 104-114, then it includes the maximum value 112. Here we form classes by exclusive method. In the class 14-24, 14 is included but 24 is included. Similarly, in other classes, the lower limit is included and the upper limit is excluded.  
+In the view of above discussion, we construct the frequency distribution table as follows:
+
+| Bill (in <br> Rupees) | Tally Marks | Frequency | Cumulative <br> frequency |
+| :---: | :---: | :---: | :---: |
+| 14-24 | \|||| | 4 | 4 |
+| 24-34 | II | 2 | 6 |
+| 34-44 | III | 3 | 9 |
+| 44-54 | III | 3 | 12 |
+| 54-64 | \| | 1 | 13 |
+| 64-74 | II | 2 | 15 |
+| 74-84 | <img src="./images/tally5.png" width="33%"/>| 5 | 20 |
+| 84-94 | III | 3 | 23 |
+| 94-104 | III | 3 | 26 |
+| 104-114 | IIII | 4 | 30 |
+|  |  | Total $=30$ |  |
+
+<font color="#7612ce"><b>$\sigma$ Illustration 3:</b></font>  
+
+  <mark>TODO</mark>
+
+
+<font color="#7612ce"><b>$\sigma$ Exercise 1:</b></font>  
+
+  <mark>TODO</mark>
+
+## Graphical Representation of Statistical Data
+
+In the previous section we have studied how to arrange the given data in tabular form. The tabular representation of data is very useful in summarising the raw data and presenting them in a symmetric manner. However the tabular representation of data do not always proved to be very interesting. One of the most appealing and convincing ways of presenting the data is through pictures and graphs. There are various methods of graphical representation of frequency distribution. We shall study three of them viz.  
+(i) Histogram  
+(ii) Frequency polygon and  
+(iii) Cumulative frequency curve (given).  
+
+### Histogram
+A histogram or frequency histogram is a graphical representation of a frequency distribution in the form of rectangles with class intervals as bases and heights proportional to corresponding frequencies such that there is no gap between any two successive rectangles.
+A histogram is a two dimensional diagram we shall discuss the construction of a histogram for the following frequency distribution separately.  
+(a) A continuous grouped frequency distribution with equal class intervals.  
+(b) A continuous grouped frequency distribution with unequal class intervals.  
+(c) A frequency distribution in which mid-points of class intervals are given.  
+(d) A grouped frequency distribution in which class intervals are given in inclusive form.  
+
+Construction of a histogram of a continuous grouped frequency distribution:
+
+#### Algorithm  
+Step-I: Take a graph paper and draw two perpendicular lines, one  horizontal and one vertical intersecting at O. Mark them as OX and OY.  
+Step-II: Take horizontal line OX as $x$-axis and vertical line OY as $y$-axis.  
+Step-III: Choose a suitable scale and along $x$-axis represent class limits.  
+Step-IV: Choose a suitable side for $y$-axis and mark frequencies along $y$-axis.  
+Step-V: Construct rectangles with class intervals as bases and respective frequencies as heights.  
+
+**Example**: The following is a distribution of weights (in kg ) of 50 persons.
+
+| Weight (in kg) | $50-55$ | $55-60$ | $60-65$ | $65-70$ | $70-75$ | $75-80$ | $80-85$ | $85-90$ |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| No. of persons | 12 | 8 | 5 | 4 | 5 | 7 | 6 | 3 |
+
+Histogram and Frequency polygon showing the distribution of weights of 50 persons.
+
+![alt text](./images/historgram1.png)
+
+#### Remarks:
+(i) Sometimes, when the negative quantities are not allowed, the part $A B$ of frequency polygon is removed and in its place AQ is taken for completing the polygon.  
+(ii) If both histogram and frequency polygon are to be drawn, it is convenient to draw a histogram first and then the frequency polygon as explained. If only frequency polygon is to be drawn, first represent the class marks on the $x$-axis and corresponding frequencies on $y$-axis. Plot the corresponding points and join them by line segments.  
+(iii) While drawing a graph, put a kink denoted by on that axis on which the markings do not begin with zero and are started from some other desired point.
+
+## Frequency polygon
+A frequency polygon is obtained by joining the mid-points of the respective tops of the rectangles in a histogram. To complete the polygon, the mid-points of each rectangle are joined to the immediately lower or higher mid-point (as the case may be) at zero frequency.
+
+<font color="#7612ce"><b> Exercise 2:</b></font> 
+(i) . The following table gives the marks scored by 100 students in an examination.
+
+| Marks | $0-10$ | $10-20$ | $20-30$ | $30-40$ | $40-50$ | $50-60$ | $60-70$ | $70-80$ |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| No. of students | 4 | 10 | 16 | 22 | 20 | 18 | 8 | 2 |
+
+Represent this data in the form of a histogram.
+
+| Cost of living index | $140-150$ | $150-160$ | $160-170$ | $170-180$ | $180-190$ | $190-200$ |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| No. of weeks | 5 | 10 | 20 | 9 | 6 | 2 |
+
+Draw histogram and frequency polygon.
+
+## Bar diagram
+
+In a bar chart or bar diagram bars of uniform width, usually shown as rectangles, are drawn with equal spaces in between them on the x-axis and heights of rectangles, proportional to the value of the variable are shown on the $y$-axis. The width of the rectangle has no significance except to make the presentation attractive.
+Here we given with an example of data to be described by a bar diagram.
+
+
+| Head | Salary | T.A. | Appliances | Rent | Others |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Expenditure | 400 | 100 | 250 | 150 | 200 |
+
+![alt text](images/bar_diagram_1.png)
+
+Graphs related to day to day activities
+Sometimes certain graphs are used conveniently to indicate the position of the variable at various intervals of time. These may be temperature-time graph, velocity-time graph, time per over graph etc. We shall illustrate these with the help of examples.
+Example: The velocity of a car at various times (in hours) of the day are given below:
+
+| Time | 7.00 | 7.15 | 7.30 | 7.45 | 8.00 | 8.15 | 8.30 | 8.45 | 9.00 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Velocity (in km/hr) | 44 | 50 | 60 | 75 | 40 | 70 | 30 | 45 | 20 |
+
+![alt text](images/graph_day2day.png)
 

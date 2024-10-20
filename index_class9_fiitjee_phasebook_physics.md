@@ -34,9 +34,15 @@ grand_parent: Class 9
 
 ## Phase 3
 
-#### Fluids
+### Fluids
 
 * [Introduction](class9/physics/fitjee-phase3-fluids/1-introduction.html)
 * [Formulas at a Glance](class9/physics/fitjee-phase3-fluids/2-formulas-at-a-glance.html)
 * [Add to your Knowledge](class9/physics/fitjee-phase3-fluids/3-add-to-your-knowledge.html)
 * [Solved Problems](class9/physics/fitjee-phase3-fluids/4-solved-problems.html)
+* [Chapter Practice Problems](class9/physics/fitjee-phase3-fluids/5-chapter-practice-problems.html)
+* [Assignment](class9/physics/fitjee-phase3-fluids/6-assignment.html)
+
+### Work and Energy
+
+* [Introduction](class9/physics/fitjee-phase3-work-and-energy/introduction.html)

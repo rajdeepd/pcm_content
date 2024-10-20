@@ -1,6 +1,16 @@
+---
+layout: default
+title: 5. Chapter Practive Problems
+description: ""
+has_children: false
+parent: Class 9 Fiitjee Phasebook Physics
+grand_parent: Class 9
+tags: [MathJax, Mathematic]
+mathjax: true
+---
 
+<h3 style="background-color:#7612ce; color:white; text-align: center;padding: 5px">CHAPTER PRACTICE PROBLEMS</h3> 
 
-CHAPTER PRACTICE PROBLEMS
 1. Define density.
 2. Define relative density.
 3. What is the S.I unit of density?
