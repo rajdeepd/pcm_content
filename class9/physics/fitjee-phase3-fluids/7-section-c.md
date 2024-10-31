@@ -243,17 +243,40 @@ Solution : (C)
 (C) The weight of the dipped part of the solid is equal to the weight of the displaced liquid.  
 (D) The weight of the displaced liquid equals the weight of the solid.  
    
-     Solution : A,B and D
+     Solution : $\boxed{A},\boxed{B} \text{  and  } \boxed{D}$
 
 14. The spring balance A reads 2 kg with a block m suspended from it, A balance B reads 5 kg when a beaker with liquid is put on the pan of balance. The two balances are nor so arranged that the hanging mass is inside the liquid in the beaker as shwn.
-In this situation
-(A) the balance $B$ will read more than 5 kg
-(B) the balance A will read less than 2 kg
-(C) the balance $A$ will read less than 5 kg
-(D) the balance A will read more than 2 kg
-15. A solid is completely immersed in a liquid. The force exerted by the liquid on the solid will
-(A) increase if it is pushed deeper inside the liquid
-(B) change if its orientation is changed
-(C) decrease if it is taken partially out of the liquid
-(D) be in the vertically upward direction
 
+    <img src="./images/level2-mc-14.png" width="50%"/>
+
+    In this situation  
+    (A) the balance $B$ will read more than 5 kg  
+    (B) the balance A will read less than 2 kg  
+    (C) the balance $A$ will read less than 5 kg  
+    (D) the balance A will read more than 2 kg  
+
+    Initially, spring balance A reads 2 kg, which means the weight of the block m is 2g N. Balance B reads 5 kg, which means the weight of the beaker with liquid is 5g N.
+
+    When the block m is submerged in the liquid, it experiences an upward buoyant force equal to the weight of the liquid displaced. Let this buoyant force be $F_B$. The spring balance A now reads the apparent weight of the block, which is the difference between the actual weight and the buoyant force: $W_{apparent} = W - F_B$. Since $F_B > 0$, the reading on balance A will be less than 2 kg.
+
+    The beaker with liquid now also contains the block m. The total weight on balance B is now the weight of the beaker with liquid plus the weight of the block m. However, the block also experiences an upward buoyant force. This buoyant force is exerted by the liquid, which means the liquid exerts a downward force equal to the buoyant force on the beaker. Therefore, the increase in weight measured by balance B is the weight of the block minus the buoyant force, which is equal to the apparent weight of the block.
+
+    So, balance B will read more than 5 kg (5 kg + apparent weight of block). Balance A will read less than 2 kg (2 kg - buoyant force).
+
+    Final Answer: The final answer is $\boxed{B}$
+
+15.  A solid is completely immersed in a liquid. The force exerted by the liquid on the solid will  
+(A) increase if it is pushed deeper inside the liquid  
+(B) change if its orientation is changed  
+(C) decrease if it is taken partially out of the liquid  
+(D) be in the vertically upward direction  
+
+      Final Answer: The final answer is $\boxed{C} \text{ and } \boxed{D}$
+
+16. Relative density of a solid is :  
+(A) R.D $=\frac{\text { Density of substance }}{\text { Density of water }}$  
+(B) R.D. $=\frac{\text { Weight of certain volume of substance }}{\text { Weight of same volume of water }}$  
+(C) R.D $=\frac{\text { Weight of Solid in air }}{\text { Loss of wt. in water }}$  
+(D) All of the above  
+
+      Final Answer: The final answer is  \boxed{D}$
