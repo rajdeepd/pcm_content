@@ -4,12 +4,13 @@ title: NTSE-CP--1516-CHEM-Molarity-1
 nav_order: 1
 description: ""
 has_children: false
-parent: 
+parent: Class 9 Fiitjee Phasebook Chemistry
 #grand_parent: Class 9
 tags: [MathJax, Mathematic]
 mathjax: true
 ---
 # NTSE-CP--1516-CHEM-Molarity-1
+
 1. $30 \mathrm{~g} \quad \mathrm{CH}_3 \mathrm{COOH}$ contains  
    Select an answer
 
@@ -21,7 +22,7 @@ mathjax: true
 
    D 1 mol carbon atoms
 
-1. One mole of $\mathrm{SO}_2$ means
+2. One mole of $\mathrm{SO}_2$ means
 
    Select an answer
 
@@ -33,7 +34,7 @@ mathjax: true
 
    D $\quad$ all of these are correct
 
-2. How many atoms are present in 1 mole of hydrogen gas? 
+3. How many atoms are present in 1 mole of hydrogen gas? 
   Select an answer
 
    A $24.088 \times 10^{23}$
@@ -76,7 +77,8 @@ mathjax: true
    C $\quad$ 1 g of O
 
    D $\quad$ All have the same no of atoms
-
+7. TBD
+   
 8. 1 mole of a compound contains 1 moles of carbon and 2 moles of oxygen atoms. The molecular weight of the compound will be.  
   Select an answer
 
@@ -88,10 +90,25 @@ mathjax: true
 
    D 3
 
+
+ 
 9. How many moles of electrons weigh one kg ? [weight of one electron $=9.108 \times 10^{-31} \mathrm{~kg}$ ]  
   Select an answer  
   A $\frac{1}{9.108} \times 10^{31}$  
   B $\frac{6.022}{9.108} \times 10^{54}$  
   C $\frac{1}{9.108 \times 6.022} \times 10^{11}$  
   D $6.022 \times 10^{23}$
+
+
+
+10. The mass of 1 mole of electrons is :  
+   Select an answer  
+
+    A $\quad \mathrm{0.55 ~ m g ~}$
+
+    B $\quad \mathrm{1 . 0 0 8 ~ m g ~}$
+
+    C $\quad 9.1 \times 10^{-27} \mathrm{~g}$
+
+    D $\quad 9.1 \times 10^{-28} \mathrm{~g}$
 
