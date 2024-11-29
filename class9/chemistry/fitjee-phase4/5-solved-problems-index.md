@@ -12,4 +12,5 @@ mathjax: true
 
 # Solved Problems
 
-[Section A](./solved-problems/1-sectionA-subjective.html)
+* [Section A Subjective](./solved-problems/1-sectionA-subjective.html)
+* [Section B Subjective](./solved-problems/2-sectionB-subjective.html)

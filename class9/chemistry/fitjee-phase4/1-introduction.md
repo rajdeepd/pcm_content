@@ -160,18 +160,18 @@ The following figures describe the $\alpha$-scattering experiment:
 | Proton | $1.67266 \times 10^{-27}$ | $+1.6026 \times 10^{-19} \mathrm{C}$ | +1 | E. Goldstein <br> $(1886)$ | $\mathrm{N}^1$ |
 | Neutron | $1.6748 \times 10^{-27}$ | Zero | 0 | James <br> Chadwick <br> $(1932)$ | $\mathrm{o}^{\mathrm{n}^1}$ |
 
-**Illustration 3:** 
+**Illustration 3:**  
 What are the relative charges of electron, proton and neutron?
 Solution: Relative charge of  
 Electron $\rightarrow-1$  
 Proton $\rightarrow+1$  
 Neutron $\rightarrow 0$  
 
-**Illustration 4: **  
+**Illustration 4:**  
 What is the other name given to Rutherford's experiment?  
 Solution: $\alpha$-scattering experiment.  
 
-**Exercise 2:**
-(i) What are the characteristics of neutron?
-(ii) Convert mass of electron in amu.
-(iii) What is relative mass of neutron.
+**Exercise 2:**  
+(i) What are the characteristics of neutron?  
+(ii) Convert mass of electron in amu.  
+(iii) What is relative mass of neutron.  

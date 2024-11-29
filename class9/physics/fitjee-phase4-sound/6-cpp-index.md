@@ -9,3 +9,5 @@ parent: Class 9 Fiitjee Phasebook
 tags: [MathJax, Mathematic]
 mathjax: true
 ---
+
+![](./6-cpp/6.1-cpp-subjective-sectionA.html)

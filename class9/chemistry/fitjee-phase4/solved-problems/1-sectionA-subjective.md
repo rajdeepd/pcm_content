@@ -65,18 +65,39 @@ $\therefore$ Increasing order of energies will be $\mathrm{B}<\mathrm{A}<\mathrm
 **Solution**: (a) We know that the black bodies are good absorbers and they absorb all radiations which are falling on them. Thus, if one wears black clothes, he or she is likely to feel hotter in summer.  
 (b) 4 s orbital is filled first because it has lower energy. The energies of the orbitals can be compared by their $(n+1)$ values. For $4 \mathrm{~s}, \mathrm{n}+1=4+0=4$ whereas for $3 \mathrm{~d}, \mathrm{n}+1=3+2=5$.
 
-**Problem 14**. (a) How many electrons in Sulphur $(Z=16)$ can have $n+I=3$.
-(b) How many total electrons are present in all subshell (fully filled) with $n+l=5$.
+**Problem 14**. (a) How many electrons in Sulphur $(Z=16)$ can have $n+l=3$.  
+(b) How many total electrons are present in all subshell (fully filled) with $n+l=5$.  
+
+![quantum energy levels](./quantum-energy-levles.png)
 
 **Solution**:
 (a) Electronic configuration of ${ }_{16} \mathrm{~S}$
 
-$$
+$
 1 s^2 2 s^2 2 p^6 3 s^2 3 p^4
-$$
+$
 
 $\mathrm{n}+\mathrm{l}=3$ is for 2 p and 3 s
 So, $2 p=6$ electrons and $3 s=2$ electrons
 $\therefore$ Total electrons $=8$
+
+*ADDITIONAL EXPLAINATION*
+
+The principal quantum number (n) and the azimuthal quantum number (l) determine the electron shell and subshell, respectively.  The relationship n + l = 3 helps us identify which orbitals contribute. Let's break down the possibilities:
+
+* **n = 1, l = 2:** This is not possible because 'l' can't be greater than or equal to 'n'.  The maximum value of l is n-1.
+
+* **n = 2, l = 1:** This corresponds to the 2p subshell.  The 2p subshell can hold a maximum of 6 electrons.
+
+* **n = 3, l = 0:** This corresponds to the 3s subshell. The 3s subshell can hold a maximum of 2 electrons.
+
+Therefore, the total number of electrons that can have n + l = 3 is 6 (from 2p) + 2 (from 3s) = 8 electrons.  However, we need to consider that Sulfur has an atomic number of 16, meaning only the first three shells are populated in neutral sulfur.  Therefore all these orbitals exist and will be filled in accordance with the Aufbau principle.
+
+**So the answer is 8.**
+
 (b) Subshell with $\mathrm{n}+\mathrm{I}=5$ are $5 \mathrm{~s}, 4 \mathrm{p}$ and 3 d . Hence electrons present $=2+6+10=18$.
+
+Refer https://unacademy.com/content/neet-ug/study-material/chemistry/rules-for-filling-electrons-in-orbitals-the-aufbau-principle/
+
+https://byjus.com/chemistry/aufbau-principle/#:~:text=Here%2C%20'n'%20refers%20to,and%20their%20corresponding%20energy%20levels.
 

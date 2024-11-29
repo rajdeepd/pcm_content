@@ -254,6 +254,20 @@ Isotopes are used widely for medical treatment of deadly diseases like cancer. I
 
 i.e. ${ }_5 \mathrm{~B}^{11},{ }_6 \mathrm{C}^{12}\left[\right.$ i.e. ${ }_z \mathrm{X}^{\mathrm{A}}(\mathrm{A}-\mathrm{Z})$ will be similar]
 
+<div style="background-color:#fff6ff; padding:15px; border-width:3px; border-color:#efe6ef; border-style:solid; border-radius:6px">
+<b>Examples of isotones</b>
+<ul>
+<li>Carbon-12, nitrogen-13 and oxygen-14. The three of them have six neutrons, and the number of protons in carbon is six, in nitrogen is seven and in oxygen is eight.</li>
+<li>Boron-12 and carbon-13 are isotones as both have seven neutrons.</li>
+<li>Sulphur-36, Chlorine-37, Argon-38, Potassium-39 and Calcium-40 are all isotones of twenty because they have twenty neutrons.</li>
+<li>Hydrogen-2 and Helium-3 are isotones of neutron one.</li>
+<li>Beryllium-9 and Boron-10 are isotones of neutron five.</li>
+<li>Carbon-13 and Nitrogen-14 are isotones of seven.</li>
+<li>Krypton-86, Yttrium-89, Zirconium-90, Molybdenum-92 and Radium-88 are isotones of neutron fifty.</li>
+</ul>
+</div>
+<br/>
+  
 **Isomers:** Molecule having same molecular formula but differ in their structure.
 i.e. $\mathrm{C}_2 \mathrm{H}_5-\mathrm{OH}, \mathrm{CH}_3-\mathrm{O}-\mathrm{CH}_3$ and $\mathrm{CH}_3 \mathrm{C} \equiv \mathrm{N}$ and
 
