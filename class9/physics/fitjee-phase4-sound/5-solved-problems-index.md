@@ -18,7 +18,7 @@ mathjax: true
   
 ## Section B
 
-* [Questions](./5-5-solved-problems/5.2.1-solved-problems-sectionB-q.html)
+* [Questions](./5-solved-problems/5.2.1-solved-problems-sectionB-q.html)
 * [Question and Answers](./5-solved-problems/5.2.2-solved-problems-sectionB-q_and_a.html)
   
 ## Objective

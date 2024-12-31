@@ -26,9 +26,10 @@ grand_parent: Class 9
   
 ## Phase 4
 
-* [Electrons and Protons](class9/chemistry/fitjee-phase4/1-introduction.html)
-* [Atomic Models](class9/chemistry/fitjee-phase4/2-atomic-models.html)
-* [Formula at a Glance](class9/chemistry/fitjee-phase4/3-formula-at-a-glance.html)
-* [Add to your Knowledge](class9/chemistry/fitjee-phase4/4-add-to-your-knowledge.html)
-* [Solved Problems Index](class9/chemistry/fitjee-phase4/5-solved-problems-index.html)
+* [1. Electrons and Protons](class9/chemistry/fitjee-phase4/1-introduction.html)
+* [2. Atomic Models](class9/chemistry/fitjee-phase4/2-atomic-models.html)
+* [3. Formula at a Glance](class9/chemistry/fitjee-phase4/3-formula-at-a-glance.html)
+* [4. Add to your Knowledge](class9/chemistry/fitjee-phase4/4-add-to-your-knowledge.html)
+* [5. Solved Problems Index](class9/chemistry/fitjee-phase4/5-solved-problems-index.html)
     * [Section A Subjective](./class9/chemistry/fitjee-phase4/solved-problems/1-sectionA-subjective.html)
+* [6- Chapter Practice Problems Index](./class9/chemistry/fitjee-phase4/6-chapter-practice-problems-index.html)

@@ -10,4 +10,9 @@ tags: [MathJax, Mathematic]
 mathjax: true
 ---
 
-![](./6-cpp/6.1-cpp-subjective-sectionA.html)
+# Class Practice Problems
+
+* [Subjective Section A](./6-cpp/6.1-cpp-subjective-sectionA.html)  
+  
+* [Objective Section B](./6-cpp/6.2-cpp-objective-sectionB.html)
+  

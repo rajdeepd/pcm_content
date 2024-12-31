@@ -33,3 +33,29 @@ mathjax: true
 
 **Isotones:** Species or atoms having same number of neutrons.
 
+### Photon Energy, Frequence and Plank's constant**
+
+   **Photon Energy:** The energy of a photon is related to its frequency and wavelength by the following equation:
+        *   E = h * f
+        *   Where:
+            *   E is the energy of the photon (usually in Joules or ergs)
+            *   h is Planck's constant (given as 6.624 x 10<sup>-27</sup> erg-sec)
+            *   f is the frequency of the light (in Hertz, Hz or s<sup>-1</sup>)
+
+   **Relationship Between Frequency and Wavelength:**
+        *   c = λ * f
+        *   Where:
+            *   c is the speed of light (approximately 3 x 10<sup>10</sup> cm/sec)
+            *   λ is the wavelength of the light (in cm or meters)
+            *   f is the frequency of the light (in Hz or s<sup>-1</sup>)
+
+   **Combined Equation:**  We can combine these two equations to relate energy directly to wavelength:
+        *   E = h * (c / λ)
+        *   E = hc / λ
+
+   **Given Information**
+
+   *   Planck's constant (h) = 6.624 x 10<sup>-27</sup> erg-sec
+   *   Speed of light (c) = 3 x 10<sup>10</sup> cm/sec
+   *   Wavelength (λ) = 6000 Å
+   *   

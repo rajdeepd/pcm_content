@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5. Solved Problems Objective Section B
+title: 5.2 Solved Problems Objective Section B
 nav_order: 2
 description: ""
 has_children: false
@@ -11,9 +11,9 @@ mathjax: true
 ---
 # Section - B
 
-Problem 1. Calculate the frequency and energy associated with photon of radiations having a wavelength of $6200 \dot{A}$. Plank's constant $=6.625 \times 10^{-27} \mathrm{erg} \mathrm{sec}$.
+**Problem 1**. Calculate the frequency and energy associated with photon of radiations having a wavelength of $6200 \dot{A}$. Plank's constant $=6.625 \times 10^{-27} \mathrm{erg} \mathrm{sec}$.
 
-Solution:
+**Solution**:
 
 $
 v=\frac{c}{\lambda}=\frac{3 \times 10^8 \mathrm{~m} / \mathrm{s}}{62 \times 10^{-8} \mathrm{~m}}=4.889 \times 10^{14}{\mathrm{cycles} \mathrm{sec}^{-1}}^{-1}
@@ -31,12 +31,12 @@ $
 $
 
 
-Problem 2. An electron is in $4 f$ orbital. What possible values for the quantum numbers $n, l, m$ and $s$ can it have?
+**Problem 2**. An electron is in $4 f$ orbital. What possible values for the quantum numbers $n, l, m$ and $s$ can it have?
 
 
 
 
-Solution:
+**Solution**:
 
 $
 \begin{aligned}
@@ -47,22 +47,42 @@ $
 \end{aligned}
 $
 
-Problem 3. A neutral atom has $2 K, 8 \mathrm{~L}$ and 5 M electrons. Find out the following from the data:  
+**Problem 3**. A neutral atom has $2 K, 8 \mathrm{~L}$ and 5 M electrons. Find out the following from the data:  
 (a) Atomic number   
 (b) Total number of $s$-electrons  
 (c) Total number of p-electrons  
 (d) Valency of the element  
 
-Solution:  
+**Solution**:  
 (a) Atomic number $=15$  
 (b) Total s-electrons $=2(1 \mathrm{~s})+2(2 \mathrm{~s})+2(3 \mathrm{~s})$  
 (c) Total p-electrons $=6(2 p)+3(3 p)=9$  
 (d) Valency $=8-5=3$  
 
-Problem 4. Identify the related species among the following ${ }_{15} \mathrm{P}^{31},{ }_1 \mathrm{H}^1,{ }_{18} \mathrm{Ar}^{40},{ }_{14} \mathrm{Sl}^{30},{ }_{19} \mathrm{~K}^{40},{ }_{20} \mathrm{Ca}^{40},{ }_1 \mathrm{H}^2$, ${ }_1 H^3,{ }_{16} \mathrm{~S}^{32}$
+**Problem 4**. Identify the related species among the following ${ }_{15} \mathrm{P}^{31},{ }_1 \mathrm{H}^1,{ }_{18} \mathrm{Ar}^{40},{ }_{14} \mathrm{Sl}^{30},{ }_{19} \mathrm{~K}^{40},{ }_{20} \mathrm{Ca}^{40},{ }_1 \mathrm{H}^2$, ${ }_1 H^3,{ }_{16} \mathrm{~S}^{32}$
 
 isobar - $\mathrm{Ar}^{40}, \mathrm{~K}^{40} and \mathrm{Ca}^{40} $  
 isotope - ${ }_1 \mathrm{H}^1, { }_1 \mathrm{H}^2$, ${ }_1 H^3$
+
+**Problem 5**. What are isosters? Give example.  
+**Solution**: Molecules having same number of atoms and same number of electrons are called isosters.
+
+$\mathrm{N}_2$ and CO  
+$\mathrm{N}_2-14$ electrons  
+$\mathrm{CO}-14$ electrons  
+
+#### Another Example  
+
+1. Count the Atoms:  
+- CO₂: 1 Carbon (C) + 2 Oxygen (O) = 3 atoms
+- N₂O: 2 Nitrogen (N) + 1 Oxygen (O) = 3 atoms
+- Both have 3 atoms.
+
+2. Count the Electrons:
+- CO₂: Carbon has 6 electrons + 2 Oxygen (8 each) = 6 + 16 = 22 electrons.
+- N₂O: 2 Nitrogen (7 each) + 1 Oxygen (8) = 14 + 8 = 22 electrons.
+- Both have 22 electrons.
+  
 ## ====
 
 Notes
