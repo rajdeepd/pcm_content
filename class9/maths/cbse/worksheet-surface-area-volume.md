@@ -6,6 +6,7 @@ description: ""
 has_children: true
 parent: Class 9 CBSE
 grand_parent: Home
+mathjax: true
 ---
 
 ### **Question 1**: 
@@ -658,7 +659,7 @@ Okay, let's solve this problem step-by-step.
 
 **Answer**
 
-The slant height of the conical tent is $\fbox{25 meters}$.
+The slant height of the conical tent is $ \fbox{25 meters}$.
 
 
 Okay, let's tackle the remaining parts of this problem step-by-step.

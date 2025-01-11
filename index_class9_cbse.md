@@ -8,4 +8,6 @@ parent: Class 9
 grand_parent: Home
 ---
 
-[Maths Surface Area and Volume Worksheet](./class9/maths/cbse/worksheet-surface-area-volume.html)
+* [Maths Surface Area and Volume Worksheet](./class9/maths/cbse/worksheet-surface-area-volume.html)
+* [Quadrilaterals](./class9/maths/cbse/worksheet-quadirlaterals.html)
+* [Coordinate Geometry](./class9/maths/cbse/worksheet-coordinate-geometry.html)
