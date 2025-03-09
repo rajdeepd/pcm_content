@@ -66,7 +66,7 @@ Ohm's Law, as discussed above, is true for even a small branch of a circuit. We 
 
 In the circuit shown we can write,
 
-<img src="./images/ohms-law.png"/>
+<img src="./images/ohms-law.png" width="50%"/>
 
 $
 \begin{aligned}
