@@ -45,19 +45,21 @@ $\mathrm{N}^{-}$
 (b) the forces on the $7^{\text {th }}$ coin by the eighth coin and
 (c) the reaction of the sixth coin on the seventh coin.
 4. A partide of mass $2 \mathrm{~kg}$ is initially at rest. 
+   
 
-    <img src="/pcm_content/class9/physics/images/practice-problems-sectionb-4.png" width="35%"/>
+
+    <img src="../images/practice-problems-sectionb-4.png" width="35%"/>
 
     A force starts acting on it in one direction whose magnitude changes with time. The force-time graph is shown in figure. Find the velocity of the particle at the end of $10 \mathrm{sec}$.
 5. Two bodies of mass 4 and $6 \mathrm{~kg}$ are attached to the ends of a string passing over a pulley. The $4 \mathrm{~kg}$ mass is attached to the table top by another string. Find the tension in the string $T_1\left(g=9.8 \mathrm{~m} / \mathrm{s}^2\right)$
 
-    <img src="/pcm_content/class9/physics/images/practice-problems-sectionb-5.png" width="25%"/>
+    <img src="../images/practice-problems-sectionb-5.png" width="25%"/>
 
 6. A $500 \mathrm{~g}$ pistol lies at rest on a frictionless table. It accidentally discharge and shoots a $10 \mathrm{~g}$ bullet parallel to the table. How far has the pistol moved by the time the bullet hits a wall $5 \mathrm{~m}$ away?
 
 7. In the shown figure. If $F=20 \mathrm{~N}, m_1=m_2=3 \mathrm{~kg}$ and the acceleration is $0.5 \mathrm{~m} / \mathrm{s}^2$ What will be the tension in the connecting cord if the friction forces on the two blocks are equal? How large is the frictional force on elther block.
    
-    <img src="/pcm_content/class9/physics/images/practice-problems-sectionb-7.png" width="45%"/>
+    <img src="../images/practice-problems-sectionb-7.png" width="45%"/>
 
 8. An elevator starts from rest with a constant upward acceleration. It moves $2 \mathrm{~m}$ in the first $0.6 \mathrm{~s}$. A passenger in the elevator is holding a $3 \mathrm{~kg}$ package by a vertical string. What is the tension in the string during acceleration (Take $\mathrm{g}=9.8 \mathrm{~m} / \mathrm{s}^2$ )
 
@@ -83,7 +85,7 @@ $\mathrm{N}^{-}$
 22. A Pakistani player Shoaib Akhlar bowls a cricket ball of mass $250 \mathrm{~g}$ with a speed of $120 \mathrm{~km} \mathrm{~h}^{-1}$ lowards the batsman Dhond. (Assume that the ball strikes the bat with the same epeed). The time of impact of the bat with the ball is $0.1 \mathrm{~s}$. After striking, if the ball bounces t with half its speed before striking, find the force which Dhoni exerts on the ball.
 23. For a mass $2 \mathrm{~kg}, v-t$ graph is as shown then find the retarding force acting on the body? 
     
-    <img src="/pcm_content/class9/physics/images/practice-problems-sectionb-25.png" width="35%"/>
+    <img src="../images/practice-problems-sectionb-25.png" width="35%"/>
 24. A car moving at $40 \mathrm{~m} / \mathrm{s}$ is to be stopped by appling brakes in the next $4 \mathrm{~m}$. If the car weights $\mathrm{kg}$, what average force must be applied on it?
 25. A force of $10 \mathrm{~N}$ an a parido increases its volocity from $5 \mathrm{~m} / \mathrm{s}$ to $6 \mathrm{~m} / \mathrm{s}$ in $2 \mathrm{~s}$. Find the mass partido?
 26. A 50 gm bullet moving with spced of $400 \mathrm{~m} / \mathrm{s}$ stop after penetrating $4 \mathrm{~cm}$ of bone Calculate average force exerted by the bullel.
@@ -99,12 +101,12 @@ $\mathrm{N}^{-}$
 2. If velocity of a body is twice of previous velocity, then kinetic energy will become?
 3. In the given figure if $\mathrm{F}=30 \mathrm{~N}$, the acceleration of both the blocks is $1 \mathrm{~m} / \mathrm{s}^2$. The net frictional force acting on the blocks is $(10 \times \mathrm{k}) \mathrm{N}$. Find the value of $\mathrm{K}$
 
-   <img src="/pcm_content/class9/physics/images/practice-problems-sectionc-3.png" width="35%"/>
+   <img src="../images/practice-problems-sectionc-3.png" width="35%"/>
 
 4. In the system shown in flgure, tension $\mathbf{T}_2$ is $\mathrm{xg}$ then what is the value of $x,\left(g=10 \mathrm{~m} / \mathrm{s}^2\right)$
 
 
-   <img src="/pcm_content/class9/physics/images/practice-problems-sectionc-4.png" width="35%"/>
+   <img src="../images/practice-problems-sectionc-4.png" width="35%"/>
 
 ##### (Other than numerical based)
 
@@ -152,11 +154,12 @@ $\mathrm{N}^{-}$
 (D) the body is in vacuum <br/>
 5. For a $1 \mathrm{~kg}$ mass $v$-t graph is as shown then which of the following is true? <br/>
 
-   <img src="/pcm_content/class9/physics/images/practice-problems-level1-5.png" width="35%"/>
-(A) force between $A$ and $B \propto$ force between $C$ and $D$ <br/>
-(B) force between $\mathrm{A}$ and $\mathrm{B}=$ force between $\mathrm{C}$ and $\mathrm{D}$ <br/>
-(C) force between $B$ and $C=1$ <br/>
-(D) data insufficient to calculate the force. <br/>
+   <img src="../images/practice-problems-level1-5.png" width="35%"/>
+   
+   (A) force between $A$ and $B \propto$ force between $C$ and $D$ <br/>
+   (B) force between $\mathrm{A}$ and $\mathrm{B}=$ force between $\mathrm{C}$ and $\mathrm{D}$ <br/>
+   (C) force between $B$ and $C=1$ <br/>
+   (D) data insufficient to calculate the force. <br/>
 
 6. A man of mass $90 \mathrm{~kg}$ is standing in an elevator whose cable broke suddenly. If the elevalo freely, the force exerted by the floor on the man is: <br/>
 (A) $90 \mathrm{~N}$ <br/>
@@ -279,7 +282,7 @@ Truo and False
 
 2. Consider the following statements about the blocks shown in the diagram that are being pushed by constant force on a frictioniess table:
    
-      <img src="/pcm_content/class9/physics/images/practice-problems-level2-2.png" width="35%"/>
+      <img src="../images/practice-problems-level2-2.png" width="45%"/>
 
    (I) Nl block moves with the same accolerabon <br/>
    (ii) The net force on each block is the same <br/>
@@ -288,23 +291,24 @@ Truo and False
    (C) both I and II only <br/>
    (D) neither I nor II <br/>
 
-  Soln.
+    Soln.
 
-     <img src="/pcm_content/class9/physics/images/practice-problems-level2-2-soln.png" width="35%"/> 
-  Mass of the chain $M$ Length of the chain $L$
-  Mass per unit length $=\frac{M}{L}$
-  Mass of length $(L-y)=\frac{M}{L} \times(L-y)$
-  $$
-  \text { Weight }=m g
-  $$  
-  
-  $$
-    \begin{aligned}
-    & =\frac{M}{L}(L-y) \times g \\
-    & T-\frac{M}{L}(L-y) \times g=0 \\
-    & T=\frac{M}{L}(L-y)
-    \end{aligned}
-  $$
+   <img src="../images/practice-problems-level2-2-soln.png" width="45%"/> 
+
+   Mass of the chain $M$ Length of the chain $L$
+   Mass per unit length $=\frac{M}{L}$
+   Mass of length $(L-y)=\frac{M}{L} \times(L-y)$
+   $
+      \text { Weight }=m g
+   $  
+      
+   $
+         \begin{aligned}
+         & =\frac{M}{L}(L-y) \times g \newline
+         & T-\frac{M}{L}(L-y) \times g=0 \newline
+         & T=\frac{M}{L}(L-y)
+         \end{aligned}
+   $
 
 3. A machine gun fires a bullet of mass 4 kg with velodity $12 \mathrm{~m} / \mathrm{s}$. The person holding it can apply a maximum force of 144 N on the gun. What is the maximum number of bullets that can be fired per second <br/>
 (A) 3 <br/>
