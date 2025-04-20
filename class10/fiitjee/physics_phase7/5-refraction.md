@@ -145,7 +145,8 @@ of a pair of transparent media, the one that has the higher refractive index is 
 
 <font color="#7612ce"><b>$\sigma$ Illustration 15 :</b></font>.  
 
-Light enters from water into a glass plate, the refractive index of glass is $9 / 8$ with respect to water and speed of light in vacuum and glass are $3 \times 10^8 \mathrm{~m} / \mathrm{s}$ and $2 \times 10^8 \mathrm{~m} / \mathrm{s}$ respectively.   
+ 
+
 Find.   
 (i) Refractive index of glass.    
 (ii) Refractive index of water.   
