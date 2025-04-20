@@ -1,0 +1,66 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect x="0" y="0" width="800" height="400" fill="#f9f9f9" rx="5" ry="5"/>
+    
+    <!-- Principal axis -->
+    <line x1="50" y1="200" x2="750" y2="200" stroke="#000000" stroke-width="2"/>
+    
+    <!-- Tick marks on principal axis -->
+    <line x1="120" y1="195" x2="120" y2="205" stroke="#000000" stroke-width="2"/>
+    <line x1="170" y1="195" x2="170" y2="205" stroke="#000000" stroke-width="2"/>
+    <line x1="270" y1="195" x2="270" y2="205" stroke="#000000" stroke-width="2"/>
+    <line x1="350" y1="195" x2="350" y2="205" stroke="#000000" stroke-width="2"/>
+    <line x1="430" y1="195" x2="430" y2="205" stroke="#000000" stroke-width="2"/>
+    <line x1="550" y1="195" x2="550" y2="205" stroke="#000000" stroke-width="2"/>
+    <line x1="660" y1="195" x2="660" y2="205" stroke="#000000" stroke-width="2"/>
+    
+    <!-- Lens -->
+    <ellipse cx="350" cy="200" rx="20" ry="100" stroke="#000000" stroke-width="2" fill="none"/>
+    <line x1="350" y1="100" x2="350" y2="300" stroke="#000000" stroke-width="1" stroke-dasharray="5,5"/>
+    
+    <!-- Points on principal axis -->
+    <text x="120" y="225" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">A</text>
+    <text x="170" y="225" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">C₁</text>
+    <text x="270" y="225" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">F₁</text>
+    <text x="350" y="225" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">O</text>
+    <text x="430" y="225" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">F₂</text>
+    <text x="550" y="225" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">A'</text>
+    <text x="660" y="225" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">C₂</text>
+    
+    <!-- Point B above axis -->
+    <circle cx="120" cy="100" r="3" fill="#000000"/>
+    <text x="120" y="85" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">B</text>
+    
+    <!-- Point B' below axis -->
+    <circle cx="550" cy="300" r="3" fill="#000000"/>
+    <text x="550" y="330" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">B'</text>
+    
+    <!-- Point D on lens -->
+    <circle cx="350" cy="150" r="3" fill="#000000"/>
+    <text x="370" y="145" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">D</text>
+    
+    <!-- Ray from B to D with arrow -->
+    <line x1="120" y1="100" x2="335" y2="148" stroke="#000000" stroke-width="2"/>
+    <!-- Arrow for B to D -->
+    <polygon points="335,148 327,144 329,152" fill="#000000"/>
+    
+    <!-- Ray from D to B' with arrow -->
+    <line x1="350" y1="150" x2="535" y2="298" stroke="#000000" stroke-width="2"/>
+    <!-- Arrow for D to B' -->
+    <polygon points="535,298 527,294 529,302" fill="#000000"/>
+    
+    <!-- Ray from B parallel to axis with arrow -->
+    <line x1="120" y1="100" x2="335" y2="100" stroke="#000000" stroke-width="2"/>
+    <!-- Arrow for B to lens (parallel) -->
+    <polygon points="335,100 327,96 327,104" fill="#000000"/>
+    
+    <!-- Ray from lens to B' through F2 with arrow -->
+    <line x1="350" y1="100" x2="535" y2="298" stroke="#000000" stroke-width="2"/>
+    <!-- Arrow for lens to B' -->
+    <polygon points="535,298 527,294 529,302" fill="#000000"/>
+    
+    <!-- Ray from B through center of lens with arrow -->
+    <line x1="120" y1="100" x2="535" y2="298" stroke="#000000" stroke-width="2" stroke-dasharray="5,5"/>
+    <!-- Arrow for B through O to B' -->
+    <polygon points="535,298 527,294 529,302" fill="#000000"/>
+  </svg>

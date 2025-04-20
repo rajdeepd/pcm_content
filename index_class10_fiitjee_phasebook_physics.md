@@ -31,8 +31,11 @@ grand_parent: Home
 
 ### Light 
 
-* [Nature of Light](./class10/fiitjee/physics_phase7/light/1-nature-of-light.html)
-* [Ray Tracing](./class10/fiitjee/physics_phase7/light/2-ray-tracing.html)
-* [Spherical Mirrors](./class10/fiitjee/physics_phase7/light/3-uses-of-spherical-mirrors.html)
-* [Mirror Formula](./class10/fiitjee/physics_phase7/light/4-mirror-formula.html)
+* [Nature of Light](./class10/fiitjee/physics_phase7/1-nature-of-light.html)
+* [Ray Tracing](./class10/fiitjee/physics_phase7/2-ray-tracing.html)
+* [Spherical Mirrors](./class10/fiitjee/physics_phase7/3-uses-of-spherical-mirrors.html)
+* [Mirror Formula](./class10/fiitjee/physics_phase7/4-mirror-formula.html)
+* [Refraction](./class10/fiitjee/physics_phase7/5-refraction.html)
+* [Lenses](./class10/fiitjee/physics_phase7/6-lenses.html)
+  
 
