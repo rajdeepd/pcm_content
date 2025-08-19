@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Class 10 Chemistry
+title: Class 10 Fiitjee Chemistry
 nav_order: 2
 description: ""
 has_children: true
 parent: Class 10
 grand_parent: Home
-
 ---
 
 # Chemistry 
@@ -25,6 +24,8 @@ grand_parent: Home
     * [1.8 Add to your Knowledge](./class10/fiitjee/chemistry/phase5/1-chemical-reactions-equations.md/1.8-ADD%20TO%20YOUR%20KNOWLEDGE.hmtl)
     * [1.9 Subjective Section Index](./class10/fiitjee/chemistry/phase5/1-chemical-reactions-equations.md/1.9-solved-problems-index.html)
   
+    * [1.10 CPP](./class10/fiitjee/chemistry/phase5/1-chemical-reactions-equations.md//1.10-cpp.html)
+    * [1.10.1 CPP Soln](./class10/fiitjee/chemistry/phase5/1-chemical-reactions-equations.md/1.10.1-cpp-solution.html)
 * Acids Bases and Sales
 
 

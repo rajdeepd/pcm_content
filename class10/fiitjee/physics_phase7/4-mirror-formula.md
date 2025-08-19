@@ -358,6 +358,8 @@ $\quad$(D) none of these.
 $\quad$(a) What is the minimum distance between the real object and its real image in a concave mirror?  
 $\quad$(b) A concave mirror is placed in water will there be any change in its focal length? Give reason.
 
+Reference [Doubtnet Video](https://www.doubtnut.com/qna/16412729)
+
 **Exercise 2 Solutions**. 
 
 (i) The focal length (f) of a curved mirror is determined by its radius of curvature (R). The relationship is given by the formula:
@@ -387,5 +389,70 @@ Therefore, the correct answer is **(D) none of these**.
     `V = 2F`
 * **Result:** When the object is at C (`U=2F`), the image is also formed at C (`V=2F`).
 * **Conclusion:** The object and image coincide. Therefore, the minimum distance `D = |V - U| = |2F - 2F|` is **zero**.
+
+## Illustration Questions Only
+
+
+<font color="#7612ce"><b>$\sigma$ Illustration 4 :</b></font>
+
+ At what distance from a convex mirror of focal length $30 \mathrm{~cm}$ should an object be placed, so that its image is formed $20 \mathrm{~cm} $ from the mirror at right side.
+
+*
+<font color="#7612ce"><b>$\sigma$ Illustration 5 :</b></font>
+
+An object 3 cm high is placed at a distance of 16 cm from a spherical mirror, which produces a virtual image of 4.5 cm height. Find  
+(i) the focal length and nature of the mirror  
+(ii) the position of the image  
+
+
+<font color="#7612ce"><b>$\sigma$ Illustration 6 :</b></font>
+
+An object of length 2.5 cm is placed at 1.5 f from a concave mirror, where f is the focal length of the mirror. The length of the object is perpendicular to the principal axis. Find the length of the image. Is the image erect or inverted?
+
+<img src="./images/light-illustration-6.png" width="50%"/>
+
+
+
+<font color="#7612ce"><b>$\sigma$ Illustration 7 :</b></font>
+
+An object is placed in front of a concave mirror of radius of curvature 40 cm at a distance of 10 cm . Find the position, nature and magnification of the image.
+
+<font color="#7612ce"><b>$\sigma$ Illustration 8 :</b></font>
+
+Where should an object be placed in front of concave mirror of focal length $f$ so that the image to be of the same size as that of the object?
+
+
+
+<font color="#7612ce"><b>$\sigma$ Illustration 9 :</b></font>
+
+
+
+<font color="#7612ce"><b>$\sigma$ Illustration 10 :</b></font>
+A thin rod of length 5 cm lies along the principal axis of the concave mirror of focal length 15 cm in such a way that the end closer to the pole is 30 cm away from it. Find the length of the image.
+
+
+<font color="#7612ce"><b>$\sigma$ Illustration 11 :</b></font>
+
+A 2.5 cm needle is placed 10 cm away from a convex mirror of focal length 20 cm . What is the location of the image and the magnification. What would happen if the needle is moved away from the mirror?
+
+
+
+
+<font color="#7612ce"><b>Exercise 2:</b></font>. 
+
+(i) Focal length of a curved mirror depends on.   
+$\quad$(A) the wavelength of light.  
+$\quad$(B) the frequency of light.  
+$\quad$(C) the material of mirror.  
+$\quad$(D) none of these.  
+(ii).   
+$\quad$(a) What is the minimum distance between the real object and its real image in a concave mirror?  
+$\quad$(b) A concave mirror is placed in water will there be any change in its focal length? Give reason.
+
+
+
+
+
+
 
 

@@ -55,3 +55,5 @@ $\mu_2 = \frac{\sin 60°}{\sin 37°}$
 $\mu_2 = \frac{0.866}{0.602} = 1.44$
 
 Therefore, the refractive index of substance x is 1.44.
+
+
