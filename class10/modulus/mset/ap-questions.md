@@ -112,10 +112,13 @@ D) 75
 ### **Q10.**
 Let $a_1, a_2, a_3,$ $\dots$  be an A.P. If $a_p = q$  and  $a_q = p$ , then the sum of the first \( $p+q$ \) terms is:
 
-A)  $(p+q)(a_1)$ \)   
-B)  $\dfrac{(p+q)}{2}(p+q)$ \)  
-C)  $(p+q)$ \)  
-D)  $\dfrac{(p+q)}{2}(p+q-1)d$ \)
+A)  $(p+q)(a_1)$   
+
+B)  $\dfrac{(p+q)}{2}(p+q)$  
+
+C)  $(p+q)$   
+
+D)  $\dfrac{(p+q)}{2}(p+q-1)d$ 
 
 
 
