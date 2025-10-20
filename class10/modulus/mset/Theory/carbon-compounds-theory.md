@@ -6,6 +6,8 @@ description: ""
 has_children: true
 parent: Index MSET
 grand_parent: Home
+tags: [MathJax, Mathematic]
+mathjax: true
 ---
 
 
@@ -77,6 +79,7 @@ Carbon belongs to **Group 14 (IVA)** and **Period 2** of the periodic table. It 
 ---
 
 ### **3. Fullerenes (C₆₀)**
+
 - Discovered in 1985 by Kroto, Smalley & Curl.  
 - “Buckminsterfullerene” – 60 carbon atoms in hexagons + pentagons (soccer ball shape). 
 
@@ -98,7 +101,7 @@ Carbon belongs to **Group 14 (IVA)** and **Period 2** of the periodic table. It 
 - **Burns with blue flame:**
 
 
-    $2CO + O_2 → 2CO_2 + heat$
+   $2CO + O_2 → 2CO_2 + heat$
 
 - **Reducing agent:**
 
@@ -114,24 +117,26 @@ Carbon belongs to **Group 14 (IVA)** and **Period 2** of the periodic table. It 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5oITh2BEyIyPBJO_rQaYVKQA6S9m-vaO-ug&s" width="30%"/>
 
 - Colourless, odourless, acidic oxide.
+  
 - **Preparation:**
 
-    $C + O2 → CO_2 \newline $
-    $CaCO_3 + 2HCl → CaCl2 + H_2O + CO_2 \newline $
-    $2NaHCO_3 → Na_2CO_3 + CO_2 + H_2O \newline $
+   $C + O_2 → CO_2 $. 
+   $CaCO_3 + 2HCl → CaCl_2 + H_2O + CO_2 $. 
+   $2NaHCO_3 → Na_2CO_3 + CO_2 + H_2O $
 
 
-
-- **Properties:**
+  **Properties:**
 - Turns limewater milky:
   
 - Milkiness clears on excess CO₂:
   
-  $CaCO_3 + CO_2 + H_2O → Ca(HCO3)2 \newline $
+  $CaCO_3 + CO_2 + H_2O → Ca(HCO_3)_2 $
   
-- Forms carbonic acid: $CO_2 + H_2O → H2CO3$
+- Forms carbonic acid: $CO_2 + H_2O → H_2CO_3$
+  
 - **Photosynthesis:**  
-$6CO_2 + 6H_2O → C6H12O6 + 6O2$
+  
+  $6CO_2 + 6H_2O → C_6H_12O_6 + 6O_2$
 
   ![Photosynthesis cycle](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Photosynthesis_equation.svg/1280px-Photosynthesis_equation.svg.png)
 
@@ -247,20 +252,21 @@ Combines with H, O, N, S, F, Cl, Br, I forming vast compound varieties.
 
 **Alkanes**
 
-$CH_4 + 2O2 → CO_2 + 2H_2O + heat \newline $
+$CH_4 + 2O2 → CO_2 + 2H_2O + heat $ <br/>
 $CH_4 + Cl2 → CH3Cl + HCl (sunlight) $
 
 
 **Alkenes**
-$C_2H_4 + H_2 → C_2H_6 (Hydrogenation) \newline $
-$C_2H_4 + Br_2 → C_2H_4Br_2 (Addition) \newline $
-$nC_2H_4 → (C_2H_4)_n (Polymerization → Polyethylene) \newline $
+
+$C_2H_4 + H_2 → C_2H_6 (Hydrogenation) $ <br/>
+$C_2H_4 + Br_2 → C_2H_4Br_2 (Addition) $ <br/>
+$nC_2H_4 → (C_2H_4)_n (Polymerization → Polyethylene) $
 
 
 **Alkynes**
 
 
-$C_2H_2 + 2H_2 → C_2H_6$
+$C_2H_2 + 2H_2 → C_2H_6$ <br/>
 $C_2H_2 + 2Br_2 → C_2H_2Br_4$
 
 
@@ -439,11 +445,11 @@ In closed chain compounds carbon atoms are linked to one another or atoms of som
 
 
 
-$C + O_2 → CO_2 \newline $
-$Fe_2O_3 + 3CO → 2Fe + 3CO_2 \newline $
-$CO_2 + Ca(OH)2 → CaCO_3↓ + H_2O \newline $
-$CH_2=CH_2 + Br2 → BrCH_2–CH_2Br \newline $
-$HC≡CH + [Ag(NH_3)2]+ → AgC≡CH↓ \newline $
+$C + O_2 → CO_2 $ <br/>
+$Fe_2O_3 + 3CO → 2Fe + 3CO_2 $<br/>
+$CO_2 + Ca(OH)2 → CaCO_3↓ + H_2O $<br/>
+$CH_2=CH_2 + Br2 → BrCH_2–CH_2Br $<br/>
+$HC≡CH + [Ag(NH_3)2]+ → AgC≡CH↓ $<br/>
 
 
 ---
