@@ -10,7 +10,12 @@ grand_parent: Home
 
 # Chemistry
 
-* [Carbon and its compunds](./summary-carbon-and-its-compounds.html)
+## Summary
+
+* [Summary Carbon and its compunds](./summary-carbon-and-its-compounds.html)
+
+## Complete Theory
+* [Carbon and its Compunds](./Theory/carbon-compounds-theory.html)
 
 
 # MAths
