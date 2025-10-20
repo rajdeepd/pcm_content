@@ -18,3 +18,7 @@
 
 
 ![Alkane vs Alkene vs Alkyne](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hydrocarbon_classification.png/400px-Hydrocarbon_classification.png)
+
+![Functional groups](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Organic_functional_groups.svg/400px-Organic_functional_groups.svg.png)
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Structural_isomers_pentane.svg/400px-Structural_isomers_pentane.svg.png)

@@ -260,8 +260,8 @@ $nC_2H_4 → (C_2H_4)_n (Polymerization → Polyethylene) \newline $
 **Alkynes**
 
 
-C2H2 + 2H2 → C2H6
-C2H2 + 2Br2 → C2H2Br4
+$C_2H_2 + 2H_2 → C_2H_6$
+$C_2H_2 + 2Br_2 → C_2H_2Br_4$
 
 
 ---
@@ -280,6 +280,11 @@ C2H2 + 2Br2 → C2H2Br4
 | Ester | –COOR | Ester | CH₃COOC₂H₅ |
 
 ---
+The carbonyl group and the compounds derived from it The group with the structure >C = O is called the carbonyl group. Several families of compounds like aldehydes, ketones, carboxylic acids, esters etc., arise from the carbonyl group on the placement of different groups or atoms on it. These are shown in Table. While naming compounds containing the carbonyl group, we should remember that (i) when R is H, the name starts with ‘form’ (e.g., formaldehyde, formic acid, etc.) and (ii) when R is CH3, the name starts with ‘acet’ (e.g., acetone, acetic acid, etc.)
+
+<img src="https://img.yumpu.com/46404246/1/500x640/types-of-carbonyl-compounds-general-name-name-.jpg" >
+
+<img src="./images/carbonyl-families.png"/>
 
 ## 🔸 Homologous Series
 
@@ -294,9 +299,38 @@ C2H2 + 2Br2 → C2H2Br4
 
 ---
 
+### 🔹 Characteristics of a Homologous Series — Summary
+
+1. **General Formula:**  
+   Each homologous series follows a general formula — for example:  
+   - **Alkanes:** CₙH₂ₙ₊₂  
+   - **Alkenes:** CₙH₂ₙ  
+   - **Alkynes:** CₙH₂ₙ₋₂  
+   - **Alcohols:** CₙH₂ₙ₊₁OH  
+
+2. **Successive Difference:**  
+   Consecutive members differ by a **–CH₂–** group (one carbon and two hydrogens).
+
+3. **Molecular Mass:**  
+   Each successive compound has a **molecular mass difference of 14 u**, corresponding to one CH₂ group.
+
+4. **Preparation Methods:**  
+   All members of a homologous series can generally be **prepared by similar methods** or reactions.
+
+5. **Gradation in Physical Properties:**  
+   Physical properties like **melting point, boiling point, and density** show a **gradual increase** with molecular mass.
+
+6. **Similar Chemical Properties:**  
+   Because all members have the **same functional group**, they exhibit **similar chemical behavior**.
+
+
 ## 🔹 Isomerism
 
 **Definition:** Compounds with same molecular formula but different structures.
+
+#### Structural Isomers
+tructural isomers are molecules with the same molecular formula but different arrangements of atoms, also known as constitutional isomers. This means the atoms are connected in a different order, leading to different structures and properties. Common types include chain isomerism, position isomerism, and functional group isomerism. 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Structural_isomers.svg" width="100%"/>
 
 ### Types:
 1. **Chain Isomerism:**  
@@ -312,16 +346,24 @@ C2H2 + 2Br2 → C2H2Br4
 6. **Tautomerism:**  
    Keto–enol interconversion
 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tautomers.svg/2560px-Tautomers.svg.png" width="80%"/>
+
 ---
+
 
 ## 🏭 Sources of Carbon Compounds
 
 ### 1. **Coal**
+
 - Pyrolysis → Coke, Coal-tar, Coal gas, Light oil
 - **Coke:** fuel; **Coal-tar:** phenol, naphthalene; **Light oil:** benzene, toluene.
 
 ### 2. **Petroleum**
+Petroleum is a mixture of several carbon compounds formed in nature by decomposition of animal and plant remains. It is a dark coloured oily liquid with a characteristic smell. It is lighter than water and insoluble in water. It occurs in large quantities in the depths of the earth between certain sedimentary layers. It is obtained by drilling holes in the earth and is refined to give important petrochemicals like LPG, jet fuels, naphtha,
+kerosene, petrol, diesel oils, lubricants, waxes, asphalt, medicinal compounds etc.
 - Refining yields LPG, petrol, diesel, lubricants, wax, asphalt.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Crude_Oil_Distillation-en.svg/912px-Crude_Oil_Distillation-en.svg.png" width="50%"/>
 
 **India:** Assam, Gujarat, Andhra Pradesh.  
 **World:** Middle East, USA, Russia, Venezuela.
