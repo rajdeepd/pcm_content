@@ -126,3 +126,4 @@ D)  $\dfrac{(p+q)}{2}(p+q-1)d$
 
 
 **End of Question Set**
+
