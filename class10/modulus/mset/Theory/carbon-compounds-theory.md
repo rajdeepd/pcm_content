@@ -355,6 +355,28 @@ tructural isomers are molecules with the same molecular formula but different ar
 
 ### 1. **Coal**
 
+#### Summary: Coal and Its Importance
+
+- **Coal** is a **primary fuel source** used to generate **electricity and heat** through combustion.  
+- When heated at **500–1000°C without air**, it undergoes **destructive distillation** (also called **pyrolysis** or **carbonization**), producing:
+  - **Coke** – solid fuel  
+  - **Coal-tar** – source of phenols, naphthalene, road tar  
+  - **Light oil** – used for benzene and methylated benzenes  
+  - **Coal-gas** – gaseous fuel  
+
+- These products are used in manufacturing **artificial petrol, dyes, medicines, explosives, and pesticides**.
+
+#### 🔹 **Types of Coal (Based on Carbon Content)**
+
+| Type | Carbon Content | Characteristics |
+|------|----------------|-----------------|
+| **Anthracite** | ~95% | Hardest, oldest, gives maximum heat |
+| **Bituminous (Stone Coal)** | ~82% | Most common type |
+| **Lignite** | ~70% | Soft, brown coal, lower heating value |
+
+**Note:** Anthracite yields the **largest amount of heat** among all varieties.
+
+
 - Pyrolysis → Coke, Coal-tar, Coal gas, Light oil
 - **Coke:** fuel; **Coal-tar:** phenol, naphthalene; **Light oil:** benzene, toluene.
 
@@ -368,6 +390,24 @@ kerosene, petrol, diesel oils, lubricants, waxes, asphalt, medicinal compounds e
 **India:** Assam, Gujarat, Andhra Pradesh.  
 **World:** Middle East, USA, Russia, Venezuela.
 
+### Classification on the basis of carbon chain 
+
+Based upon carbon chain organic compounds are of two types. 
+
+(i) Open chain compounds   
+(ii) Closed chain compounds In open chain compounds carbon atoms are linked to one another in chains which may be straight or branched but not closed (rings).
+
+<img src="./images/carbon-chain.png"/>
+
+Open chain compounds are also called **aliphatic hydrocarbons**.
+
+In closed chain compounds carbon atoms are linked to one another or atoms of some other elements to form a cycle or closed chain. If they have one ring they are monocyclic and if they have more than one ring they are polycyclic compounds. Cycloalkanes, cycloalkenes, cycloalkynes and their derivatives have closed chains.
+
+| Compound     | Structure                                                                                                                                                               |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cyclopropane | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cyclopropane.svg/1280px-Cyclopropane.svg.png" width="25%"/>                                         |
+| Cyclobutane  | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Cyclobutanone-2D-skeletal.svg/248px-Cyclobutanone-2D-skeletal.svg.png?20230223213222" width="20%"/> |
+| Cyclopentane | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Cyclopentane2d.png" width="15%"/>                    
 ---
 
 ## 🧼 Soap & Detergents

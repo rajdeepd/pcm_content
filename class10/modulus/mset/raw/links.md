@@ -13,12 +13,39 @@
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Benzene_Structural_diagram.svg/250px-Benzene_Structural_diagram.svg.png" width="30%"/>
 
+### 🔷 **Classification on the Basis of Carbon Chain**
 
-![Aromatic ring example](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Benzene_structure.svg/250px-Benzene_structure.svg.png)
+Organic compounds are classified based on how **carbon atoms are linked** in a molecule.
 
+---
 
-![Alkane vs Alkene vs Alkyne](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hydrocarbon_classification.png/400px-Hydrocarbon_classification.png)
+### 🧩 **1. Open Chain Compounds (Aliphatic Hydrocarbons)**  
+- Carbon atoms form **straight or branched chains**, but **not rings**.  
+- These are also called **aliphatic compounds**.
 
-![Functional groups](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Organic_functional_groups.svg/400px-Organic_functional_groups.svg.png)
+**Examples:**
+- **n-Butane:** CH₃–CH₂–CH₂–CH₃  
+- **Isobutane (Methylpropane):** CH₃–CH(CH₃)–CH₃  
+- **2-Methylpropene:** CH₃–CH=C(CH₃)₂  
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Structural_isomers_pentane.svg/400px-Structural_isomers_pentane.svg.png)
+![Open-chain hydrocarbons](https://upload.wikimedia.org/wikipedia/commons/2/2c/Isobutane_vs_n-butane_2D_structures.png)
+
+---
+
+### 🔷 **2. Closed Chain Compounds (Cyclic or Alicyclic Compounds)**  
+- Carbon atoms are arranged in **rings or cycles**.  
+- If one ring → **Monocyclic**, if more → **Polycyclic**.  
+- Show similar properties to aliphatic compounds → called **Alicyclic compounds**.
+
+---
+
+### 🌀 **Examples of Cycloalkanes (Single Bonds)**
+
+| Compound | Structure |
+|-----------|------------|
+| Cyclopropane | ![Cyclopropane](https://upload.wikimedia.org/wikipedia/commons/e/e1/Cyclopropane.svg) |
+| Cyclobutane | ![Cyclobutane](https://upload.wikimedia.org/wikipedia/commons/b/bf/Cyclobutane-2D-skeletal.svg) |
+| Cyclopentane | ![Cyclopentane](https://upload.wikimedia.org/wikipedia/commons/d/d7/Cyclopentane-2D-skeletal.png) |
+
+---
+                                                     |

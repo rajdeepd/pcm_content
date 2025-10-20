@@ -17,7 +17,12 @@ grand_parent: Home
 ## Complete Theory
 * [Carbon and its Compunds](./Theory/carbon-compounds-theory.html)
 
+## MCQ
 
-# MAths
+* [MCQ Carbon and its compounds](./mcq/carbon-compounds-mcq-questions.html)
 
-* [AP Questions](./ap-questions.html)
+
+# Maths
+
+* [AP Questions](./mcq/ap-questions.html)
+
