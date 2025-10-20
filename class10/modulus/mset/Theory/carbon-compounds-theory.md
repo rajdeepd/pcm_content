@@ -23,8 +23,10 @@ Carbon belongs to **Group 14 (IVA)** and **Period 2** of the periodic table. It 
 - Forms both covalent and network structures
 - Shows allotropy (various physical forms)
 
-![Carbon atom and bonding](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Electron_shell_006_Carbon_-_no_label.svg/1024px-Electron_shell_006_Carbon_-_no_label.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Electron_shell_006_Carbon_-_no_label.svg/1024px-Electron_shell_006_Carbon_-_no_label.svg.png" width="25%"/>
+
 ---
+
 
 ## 🧩 Occurrence of Carbon
 **Free State:** Diamond, Graphite, Coal  
@@ -355,12 +357,11 @@ C2H2 + 2Br2 → C2H2Br4
 
 
 
-$
-C + O_2 → CO_2 \newline$
-$Fe_2O_3 + 3CO → 2Fe + 3CO_2 \newline$
-$CO_2 + Ca(OH)2 → CaCO_3↓ + H_2O \newline$
-$CH_2=CH_2 + Br2 → BrCH_2–CH_2Br \newline$
-$HC≡CH + [Ag(NH_3)2]+ → AgC≡CH↓ \newline$
+$C + O_2 → CO_2 \newline $
+$Fe_2O_3 + 3CO → 2Fe + 3CO_2 \newline $
+$CO_2 + Ca(OH)2 → CaCO_3↓ + H_2O \newline $
+$CH_2=CH_2 + Br2 → BrCH_2–CH_2Br \newline $
+$HC≡CH + [Ag(NH_3)2]+ → AgC≡CH↓ \newline $
 
 
 ---
