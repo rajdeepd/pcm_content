@@ -36,3 +36,10 @@ mathjax: true
 
 
 <img src="./images/optics-ex30.png"/>
+
+<img src="./images/optics-ex36-37.png"/>
+
+<img src="./images/optics-ex38-39.png"/>
+
+
+<img src="./images/optics-ex40.png"/>
