@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Carbon Compounds
+title: Carbon Compounds Summary
 nav_order: 1
 description: ""
 has_children: true
 parent: Index MSET
 grand_parent: Home
+tags: [MathJax, Mathematic]
+mathjax: true
 ---
 
 
