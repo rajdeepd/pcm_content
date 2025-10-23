@@ -46,7 +46,10 @@ grand_parent: Home
 ## Theory
 
 * [Magnetism](./Theory/magnetism.html)
+* [Optics Questions](./Theory/optics-questions-only.html)
   
 ## One Pager
 
 * [Magnetism](./Theory/megnetism_OnePage.html)
+
+

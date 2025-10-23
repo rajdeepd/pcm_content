@@ -75,6 +75,7 @@ mathjax: true
 ---
 
 ## ⚙️ Direction Rules (recap)
+
 - **Ampere (right hand):** thumb = $I$, fingers = $B$.  
 - **Maxwell corkscrew:** rotation = $B$, advance = $I$.  
 - **Fleming LHR:** gives motion of conductor.
@@ -82,6 +83,7 @@ mathjax: true
 ---
 
 ## 🧮 Units
+
 | Quantity | Symbol | SI unit |
 |---|---|---|
 | Magnetic flux | $\phi$ | Weber (Wb) |
