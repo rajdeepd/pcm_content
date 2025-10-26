@@ -23,16 +23,20 @@ grand_parent: Home
 
 * [MCQ Carbon and its compounds](./mcq/carbon-compounds-mcq-questions.html)
 
+* [Model Paper2](./model-paper2.html)
 ---
 # Maths
 
 ## One Pager
 
 * [Arthmetic Progression](./AP_Formula_Sheet_OnePage.html)
+* [MSET Series and Sequence](./Theory/mset-material/arthmetic_progression_one_pager.html)
+* [Trignometry](./Theory/trignometry-one-pager.html)
   
 ## Theory
 
 * [Arithmetic Progression](./Arithmetic_Progression_AP.html)
+* [MSET Material-Sequence and Series](./Theory/arthmetic_progression_theory.html)
 
 ---
 
@@ -46,10 +50,12 @@ grand_parent: Home
 ## Theory
 
 * [Magnetism](./Theory/magnetism.html)
+* [Kinematics and Optics](./Theory/kinematics_optics_formatted.html)]
 * [Optics Questions](./Theory/optics-questions-only.html)
   
 ## One Pager
 
 * [Magnetism](./Theory/megnetism_OnePage.html)
+* [Kinematics and Optics](./Theory/kinematics-optics-one-pager.html)
 
 
