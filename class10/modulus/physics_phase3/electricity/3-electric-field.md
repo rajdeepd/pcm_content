@@ -64,12 +64,25 @@ If 50 J of work must be done to move an electric charge of 2 C from a point wher
 
 
 **Solution (3)**.  
-$W=50 \text{ J} \newline$ 
-$ Q=2 \mathrm{C} \newline$ 
-$V_B-V_A=\frac{W}{Q} \Rightarrow V-(-10)=\frac{50}{2} \newline$   
-$ V+10=25 \quad \Rightarrow \quad V=15 \mathrm{~V} \newline $   
 
-Here's the formatted text:
+$
+W=50 \text{ J} \newline
+Q=2 \mathrm{C} \newline
+V_B-V_A=\frac{W}{Q} \Rightarrow V-(-10)=\frac{50}{2} \newline   
+V+10=25 \quad \Rightarrow \quad V=15 \mathrm{~V} \newline 
+$  
+
+
+Here is that calculation converted into a single, aligned LaTeX block:
+
+$
+\begin{align*}
+W &= 50 \text{ J} \\
+Q &= 2 \mathrm{C} \\
+V_B - V_A &= \frac{W}{Q} \Rightarrow V - (-10) = \frac{50}{2} \\
+V + 10 &= 25 \quad \Rightarrow \quad V = 15 \mathrm{~V}
+\end{align*}
+$
 
 ### Example 9
 
