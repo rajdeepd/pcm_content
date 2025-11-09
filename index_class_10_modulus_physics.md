@@ -13,3 +13,8 @@ grand_parent: Home
 ## Class Notes
 * [Resistors](class10/modulus/physics_phase1/classnotes/9-resistors-series-parallel.html)
 * [Wheatstone Bridge ](class10/modulus/physics_phase1/classnotes/10-wheatstone-bridge.html)
+
+
+# Optics
+
+* [Examples](class10/modulus/physics_phase4/optics/2-examples.html)

@@ -134,3 +134,43 @@ $
 </ul>
 
 </div>
+
+Here is the formatted text:
+
+### 6. FLOW OF CHARGE
+
+* **By Friction:** Two objects rubbed against each other, charge transfer takes place in which one gains electrons as the other loses electrons.
+    
+* **By Conduction:** Connecting one body to another body by connecting both with a conducting wire. Charge flows from higher potential to lower potential.
+    
+* **Charging by Induction:** Bringing a charged body near to an uncharged body which induces charge in the other.
+    
+
+---
+
+### 6.1 Potential Difference and Flow of Charges
+
+Consider two identical metallic spheres $P$ and $N$, carrying equal amounts of positive and negative charges, respectively. A positive charge is to be taken from point $B$ to point $A$, as shown in the figure. It is attracted by the negatively charged sphere $N$ and repelled by the positively charged sphere $P$. So, to move the charge towards point $A$, one has to apply force on it towards the left. Thus, the work done is positive. Hence, the potential difference $V_A - V_B$ is positive.
+
+
+
+It means:
+* As one moves towards $P$ (positive), the work done increases, so the **potential increases**.
+* And on moving towards $N$ (negative), the **potential decreases**.
+* In general, the potential of a **positively charged body** is considered **higher** than that of a negatively charged body.
+
+What happens when a free-to-move charge is placed between the spheres?
+* A free **positive charge** moves towards the lower potential (the negatively charged sphere).
+* A free **negative charge** moves towards the higher potential (the positively charged sphere).
+
+<img src="./images/electricity-fig7.png" width="100%"/>
+
+<img src="./images/electricity-fig8.png" width="100%"/>
+
+If the two charged spheres $M$ and $N$ are connected by a metal wire, **electrons** from the negatively charged sphere (at lower potential) will flow towards the positively charged sphere (at a higher potential). Eventually, the flow of electrons causes the charges on the spheres to become balanced. When that happens, the spheres no longer carry a net charge and, therefore, have equal potential. So, the flow of electrons stops.
+
+We can thus say that a **potential difference causes charge to flow**.
+
+
+
+<img src="./images/electricity-fig9.png" width="150%"/>
