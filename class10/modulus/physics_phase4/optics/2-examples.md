@@ -9,7 +9,6 @@ grand_parent: Home
 tags: [MathJax, Mathematic]
 mathjax: true
 ---
-
 # Example Questions
 
 
@@ -66,7 +65,6 @@ Now in triangle $\mathrm{OBC}$, $3 \theta=180^{\circ}$,
 therefore, $\theta=60^{\circ}$
 
 ---
-
 ### Example 24
 
 Light is incident from air on oil at an angle of $30^{\circ}$. After moving through oil-1, oil-2, and glass it enters water. If the refractive index of glass and water are 1.5 and 1.3 respectively. Find the angle, which the ray makes with normal in water.
@@ -96,16 +94,17 @@ $
 Refractive index of glass with respect to water is 1.125. If the absolute refractive index of glass is **1.5**, find the absolute refractive index of water.
 
 #### Solution
-Here the refractive index of glass with respect to water i.e. ${ }_{\mathrm{w}} \mu_{\mathrm{g}}=1.125$ and absolute refractive index of glass $\mu_{\mathrm{g}}=1.5$ We know that
+Here the refractive index of glass with respect to water i.e. <img src="./images/optics-ex25-sol1.png" width="15%"/> and absolute refractive index of glass 
 
-$
-\begin{aligned}
-{ }_w \mu_g & =\frac{\mu_g}{\mu_w} \newline
-\therefore \quad & { }_a \mu_w=\frac{{ }_a \mu_g}{{ }_w \mu_g}=\frac{1.5}{1.125}=1.33
-\end{aligned}
-$
+$ \mu_{\mathrm{g}}=1.5 $ We know that
+
+$ { }_w \mu_g =\frac{\mu_g}{\mu_w} $
+
+<img src="./images/optics-ex25-sol.png"/>
+
 
 ---
+
 
 ### Example 26
 
@@ -195,7 +194,7 @@ In the figure (a) a ray of light is incident at $50^{\circ}$ on the middle of on
 (a) calculate the angle at which the ray is incident on the second mirror.
 (b) calculate the angle at which the ray is incident on the first mirror after being reflected from the second mirror.
 
-<img src="./images/optics-ex36.png" width="90%"/>
+<img src="./images/optics-ex36.png" width="70%"/>
 
 #### Solution
 
@@ -215,7 +214,7 @@ Here is the text formatted in Markdown.
 
 A body is 1.50 m tall and can just see his image in a vertical plane mirror 3 m away. His eyes are 1.40 m from the floor level. Determine the vertical dimension and elevation of the mirror.
 
-<img src="./images/optics-ex37.png" width="60%"/>
+<img src="./images/optics-ex37.png" width="40%"/>
 
 
 
@@ -274,7 +273,7 @@ $
 \end{aligned}
 $
 
-Here is the text formatted in Markdown.
+<img src="./images/optics-ex39-sol.png" width="130%"/>
 
 Since $\angle \mathrm{QPD}=45^{\circ}, \mathrm{PQ}(=x)=\mathrm{QD}$
 
@@ -293,3 +292,37 @@ Substituting for $b$ and $r$ we get
 $
 \mathrm{x}=26.7 \mathrm{~cm}
 $
+
+Here is the text formatted in Markdown.
+
+### Example 40
+
+Show that the least possible distance between an object and its real image in a convex lens is $4f$ where $f$ is the focal length of the lens.
+
+
+<img src="./images/optics-ex40.1.png" width="70%"/>
+
+
+#### Solution
+
+Suppose I is the real image of an object O (see figure). Let $d$ be the distance between them. If the image distance is $x$, the object distance will be $(d-x)$. Thus
+
+$
+u=-(d-x) \text { and } v=+x
+$
+
+Substituting in the lens formula we have
+
+$
+\frac{1}{x}-\frac{1}{-(d-x)}=\frac{1}{f} \text { or } \frac{1}{x}+\frac{1}{(d-x)}=\frac{1}{f}
+$
+
+or $\quad x^2-x d+f d=0$
+
+For a real image, the value $x$ must be real, i.e., the roots of the above equation must be real. This is possible if
+
+$
+d^2 \geq 4 fd \text { or } d \geq 4 f
+$
+
+Hence $4f$ is the minimum distance between the object and its real image formed by a convex lens.
