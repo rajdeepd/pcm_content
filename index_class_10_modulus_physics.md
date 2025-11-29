@@ -18,3 +18,6 @@ grand_parent: Home
 # Optics
 
 * [Examples](class10/modulus/physics_phase4/optics/2-examples.html)
+* Assignment Problems
+    * [Subjective](./class10/modulus/physics_phase4/optics/3.1-assignment-subjective.html)
+    * [Subjective with soln]()
