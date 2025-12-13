@@ -50,6 +50,7 @@ parent: Home
 * [Very Short Questions](class10/chem_cengage/3-metals-and-non-metals/sectionA/5.1-very-short-questions.html)
 * [Short Questions](class10/chem_cengage/3-metals-and-non-metals/sectionA/5.2-short-questions%20copy.html)
 * [Long Answer Type Questions](class10/chem_cengage/3-metals-and-non-metals/sectionA/5.3-long-type-questions.html)
+* [HOTS Questions](class10/chem_cengage/3-metals-and-non-metals/sectionA/5.4-hots-questions.html)
 
 ### Carbon and its Compounds
 
