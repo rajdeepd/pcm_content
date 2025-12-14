@@ -30,9 +30,15 @@ parent: Class 10
 
 ## NCERT
 
-* [Light and its  Nature](class10/physics_ncert/light/1-theory.md)
+### Light – Reflection and Refraction
 
-* [Magnetic Effects of Current](class10/physics_ncert/magnetic_effects_of_current/1-theory.html)
+* [9.1 Reflection of Light](class10/physics_ncert/9-light/9.1-reflection-of-light.html)
+* [9.2 Spherical Mirrors](class10/physics_ncert/9-light/9.2-spherical-mirrors.html)
+* [9.3 Refraction of Light](class10/physics_ncert/9-light/9.3-refraction-of-light.html)
+
+### Magnetic Effects of Current
+
+* [Magnetism Theory](class10/physics_ncert/magentism/1-theory.html)
 
 
 
