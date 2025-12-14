@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Chemical Reactions Exercises
-nav_order: 1
+title: NCERT - Chemical Reactions
+nav_order: 10
 description: ""
-has_children: true
-parent: Class 10
-grand_parent: Home
+parent: Class 10 Chemistry
+grand_parent: Class 10
 tags: [MathJax, Mathematic]
 mathjax: true
 ---

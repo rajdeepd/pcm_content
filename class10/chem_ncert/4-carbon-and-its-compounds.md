@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Carbon and its Compounds Exercises
-nav_order: 4
+title: NCERT - Carbon Compounds
+nav_order: 12
 description: ""
-has_children: true
-parent: Class 10
-grand_parent: Home
+parent: Class 10 Chemistry
+grand_parent: Class 10
 tags: [MathJax, Mathematic]
 mathjax: true
 ---

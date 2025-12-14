@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Class 10 Fiitjee Chemistry
-nav_order: 2
+title: Fiitjee Chemistry
+nav_order: 3
 description: ""
 has_children: true
-parent: Class 10
-grand_parent: Home
+parent: Class 10 Chemistry
+grand_parent: Class 10
 ---
 
 # Chemistry 

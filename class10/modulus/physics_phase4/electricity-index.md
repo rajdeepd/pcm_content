@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Index Cengage Physics
+title: Electricity
 nav_order: 1
 description: ""
 has_children: true
-parent: Class 10
-grand_parent: Home
+parent: Modulus Physics
+grand_parent: Class 10 Physics
 ---
 
 # Electricty

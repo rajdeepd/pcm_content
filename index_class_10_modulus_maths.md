@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Class 10 Modulus Maths
-nav_order: 5
+title: Modulus Maths
+nav_order: 1
 description: ""
 has_children: true
-parent: Class 10
-grand_parent: Home
+parent: Class 10 Maths
+grand_parent: Class 10
 ---
 
 # Real Numbers

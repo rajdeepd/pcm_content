@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Cengate Carbon and its Compounds - Very Short Answer Type Questions
-nav_order: 1
+title: Carbon Compounds - Very Short Questions
+nav_order: 5
 description: ""
-has_children: true
-parent: Class 10 Modulus Chemistry
-grand_parent: Home
+parent: Class 10 Chemistry
+grand_parent: Class 10
+tags: [MathJax, Mathematic]
+mathjax: true
 ---
 
 # Very Short Answer Type Questions

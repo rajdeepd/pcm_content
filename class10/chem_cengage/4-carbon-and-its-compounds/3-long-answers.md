@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Cengate Carbon and its Compounds - Long Answer Type Questions
-nav_order: 3
+title: Carbon Compounds - Long Questions
+nav_order: 7
 description: ""
-has_children: true
-parent: Class 10 Modulus Chemistry
-grand_parent: Home
+parent: Class 10 Chemistry
+grand_parent: Class 10
+tags: [MathJax, Mathematic]
+mathjax: true
 ---
 
 # Long Answer Type Questions

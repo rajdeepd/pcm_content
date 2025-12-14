@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Class 10 Modulus Chemistry
+title: Modulus Chemistry
 nav_order: 4
 description: ""
 has_children: true
-parent: Class 10
-grand_parent: Home
+parent: Class 10 Chemistry
+grand_parent: Class 10
 ---
 
 # Phase 1
