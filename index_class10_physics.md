@@ -5,7 +5,6 @@ nav_order: 1
 description: ""
 has_children: true
 parent: Class 10
-grand_parent: Home
 ---
 
 

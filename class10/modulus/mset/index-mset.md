@@ -1,11 +1,10 @@
 ---
 layout: default
-title: MSET
-nav_order: 5
+title: Class 10 MSET
+nav_order: 9
 description: ""
 has_children: true
-parent: Class 10 Chemistry
-grand_parent: Class 10
+parent: Class 10
 ---
 
 # Chemistry

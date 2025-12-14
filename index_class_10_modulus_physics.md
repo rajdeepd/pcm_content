@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Modulus Physics
-nav_order: 4
+title: Class 10 Modulus Physics
+nav_order: 6
 description: ""
 has_children: true
-parent: Class 10 Physics
-grand_parent: Class 10
+parent: Class 10
 ---
 
 # Electricity

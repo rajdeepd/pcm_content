@@ -4,8 +4,8 @@ title: Electricity
 nav_order: 1
 description: ""
 has_children: true
-parent: Modulus Physics
-grand_parent: Class 10 Physics
+parent: Class 10 Modulus Physics
+grand_parent: Class 10
 ---
 
 # Electricty

@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Fiitjee Physics
-nav_order: 3
+title: Class 10 Fiitjee Physics
+nav_order: 4
 description: ""
 has_children: true
-parent: Class 10 Physics
-grand_parent: Class 10
+parent: Class 10
 ---
 
 # Physics 
