@@ -35,10 +35,15 @@ parent: Class 10
 * [9.1 Reflection of Light](class10/physics_ncert/9-light/9.1-reflection-of-light.html)
 * [9.2 Spherical Mirrors](class10/physics_ncert/9-light/9.2-spherical-mirrors.html)
 * [9.3 Refraction of Light](class10/physics_ncert/9-light/9.3-refraction-of-light.html)
+* [9.4 Exercises](class10/physics_ncert/9-light/9.4-exercises.html)
+* [9.5 Chapter Summary](class10/physics_ncert/9-light/9.5-chapter-summary.html)
 
-### Magnetic Effects of Current
+### Magnetic Effects of Current (Chapter 12)
 
-* [Magnetism Theory](class10/physics_ncert/magentism/1-theory.html)
+* [12.1 Magnetic Field and Field Lines](class10/physics_ncert/12-magentism/12.1-magnetic-field-lines.html)
+* [12.2 Magnetic Field due to Current](class10/physics_ncert/12-magentism/12.2-magnetic-field-current.html)
+* [12.3 Magnetic Field - Circular Loop](class10/physics_ncert/12-magentism/12.3-circular-loop.html)
+* [12.4 Force on Current-Carrying Conductor](class10/physics_ncert/12-magentism/12.4-force-on-conductor.html)
 
 
 

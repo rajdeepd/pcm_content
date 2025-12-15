@@ -17,4 +17,6 @@ This chapter covers the phenomena of reflection and refraction of light.
 - [9.1 Reflection of Light](9.1-reflection-of-light.html)
 - [9.2 Spherical Mirrors](9.2-spherical-mirrors.html)
 - [9.3 Refraction of Light](9.3-refraction-of-light.html)
+- [9.4 Exercises](9.4-exercises.html)
+- [9.5 Chapter Summary](9.5-chapter-summary.html)
 
