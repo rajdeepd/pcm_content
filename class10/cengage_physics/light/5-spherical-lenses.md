@@ -3,8 +3,8 @@ layout: default
 title: Spherical Lenses
 nav_order: 5
 description: ""
-parent: Class 10 Physics
-grand_parent: Class 10
+parent: Cengage Light
+grand_parent: Class 10 Physics
 tags: [MathJax, Mathematic]
 mathjax: true
 ---

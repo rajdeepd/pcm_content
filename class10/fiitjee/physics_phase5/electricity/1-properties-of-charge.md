@@ -4,8 +4,8 @@ title: 1. Properties of Charge
 nav_order: 1
 description: ""
 has_children: true
-parent: Class 10 Physics
-grand_parent: Class 10
+parent: FIITJEE Electricity
+grand_parent: Class 10 Physics
 tags: [MathJax, Mathematic]
 mathjax: true
 ---

@@ -4,8 +4,8 @@ title: 6. SERIES AND PARALLEL COMBINATIONS OF RESISTORS
 nav_order: 6
 description: ""
 has_children: true
-parent: Class 10 Physics
-grand_parent: Class 10
+parent: FIITJEE Electricity
+grand_parent: Class 10 Physics
 tags: [MathJax, Mathematic]
 mathjax: true
 ---

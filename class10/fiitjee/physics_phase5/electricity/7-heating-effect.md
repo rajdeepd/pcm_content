@@ -4,8 +4,8 @@ title: 7. HEATING EFFECT OF CURRENT
 nav_order: 7
 description: ""
 has_children: true
-parent: Class 10 Physics
-grand_parent: Class 10
+parent: FIITJEE Electricity
+grand_parent: Class 10 Physics
 tags: [MathJax, Mathematic]
 mathjax: true
 ---

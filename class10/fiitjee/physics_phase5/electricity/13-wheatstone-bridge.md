@@ -4,8 +4,8 @@ title: 13. Wheatstone Bridge
 nav_order: 13
 description: ""
 has_children: true
-parent: Class 10 Physics
-grand_parent: Class 10
+parent: FIITJEE Electricity
+grand_parent: Class 10 Physics
 tags: [MathJax, Mathematic]
 mathjax: true
 ---

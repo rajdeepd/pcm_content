@@ -4,8 +4,8 @@ title: 11. FORMULAS AND CONCEPTS AT A GLANCE
 nav_order: 11
 description: ""
 has_children: true
-parent: Class 10 Physics
-grand_parent: Class 10
+parent: FIITJEE Electricity
+grand_parent: Class 10 Physics
 tags: [MathJax, Mathematic]
 mathjax: true
 ---
