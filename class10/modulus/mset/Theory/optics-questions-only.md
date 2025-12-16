@@ -1,12 +1,10 @@
 ---
 layout: default
-title: Option Example Questions Only
-nav_order: 3
-description: ""
-has_children: true
-parent: Index MSET
-grand_parent: Home
-tags: [MathJax, Mathematic]
+title: Optics Example Questions
+nav_order: 5
+description: "Class 10 Modulus Physics - Optics Example Questions"
+parent: Class 10 Modulus Physics
+grand_parent: Class 10
 mathjax: true
 ---
 

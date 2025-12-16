@@ -3,8 +3,8 @@ layout: default
 title: Carbon Compounds - Long Questions
 nav_order: 7
 description: ""
-parent: Class 10 Chemistry
-grand_parent: Class 10
+parent: Cengage Carbon Compounds
+grand_parent: Class 10 Chemistry
 tags: [MathJax, Mathematic]
 mathjax: true
 ---

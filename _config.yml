@@ -1,14 +1,69 @@
-title: Physics, Chem and Mathematics Site
-description: Physics, Chem and Mathematics Site
+title: PCM Learning Hub
+description: Physics, Chemistry & Mathematics for Classes 9-11
+
 theme: just-the-docs
-
-
-baseurl: "/pcm_content" # the subpath of your site, e.g. /blog
-url: "https://rajdeepd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: rajdeepdua
-github_username:  rajdeepd
-
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 color_scheme: custom
+
+baseurl: "/pcm_content"
+url: "https://rajdeepd.github.io"
+twitter_username: rajdeepdua
+github_username: rajdeepd
+
+# Navigation
+nav_sort: case_insensitive
+
+# Search
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: true
+
+# Aux links (top right)
+aux_links:
+  "GitHub":
+    - "https://github.com/rajdeepd/pcm_content"
+
+aux_links_new_tab: true
+
+# Footer
+footer_content: "© 2024 PCM Learning Hub | Made with ❤️ for students"
+
+# Back to top
+back_to_top: true
+back_to_top_text: "↑ Top"
+
+# Callouts for special content blocks
+callouts_level: quiet
+callouts:
+  important:
+    title: Important
+    color: purple
+  tip:
+    title: 💡 Tip
+    color: green
+  warning:
+    title: ⚠️ Warning
+    color: red
+  note:
+    title: 📝 Note
+    color: blue
+  formula:
+    title: 📐 Formula
+    color: yellow
+  remember:
+    title: 🧠 Remember
+    color: purple
+
+# Enable copy button on code blocks
+enable_copy_code_button: true
+
+# Heading anchor links
+heading_anchors: true
+
+# GA (uncomment and add your ID if needed)
+# ga_tracking: UA-XXXXXXXX-X

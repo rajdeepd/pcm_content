@@ -4,7 +4,7 @@ title: Section B - Board PYQs
 nav_order: 2
 description: "Section B - Board Previous Year Questions"
 has_children: true
-parent: Metals and Non-metals
+parent: Cengage Metals Non-metals
 grand_parent: Class 10 Chemistry
 tags: [MathJax, Mathematic]
 mathjax: true

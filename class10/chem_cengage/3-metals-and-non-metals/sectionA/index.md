@@ -4,7 +4,7 @@ title: Section A - Practice Questions
 nav_order: 1
 description: "Section A - Practice Questions from Cengage"
 has_children: true
-parent: Metals and Non-metals
+parent: Cengage Metals Non-metals
 grand_parent: Class 10 Chemistry
 tags: [MathJax, Mathematic]
 mathjax: true

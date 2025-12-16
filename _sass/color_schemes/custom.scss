@@ -1,13 +1,343 @@
-.main-content h1 {
-    color:#7612ce;
+// ============================================
+// PCM Learning Hub - Professional Light Theme
+// ============================================
+
+// Primary Colors
+$blue-primary: #1e40af;
+$blue-dark: #1e3a8a;
+$blue-light: #3b82f6;
+$blue-accent: #60a5fa;
+
+// Accent Colors
+$green-accent: #059669;
+$amber-accent: #d97706;
+$red-accent: #dc2626;
+
+// Background Colors
+$body-background-color: #ffffff;
+$sidebar-color: #f8fafc;
+$content-background: #ffffff;
+$border-color: #e2e8f0;
+
+// Text Colors
+$body-text-color: #334155;
+$heading-color: #0f172a;
+$muted-text: #64748b;
+
+// Just the Docs Variables
+$link-color: $blue-primary;
+$btn-primary-color: $blue-primary;
+
+// ============================================
+// Sidebar Styling
+// ============================================
+.side-bar {
+    background: $sidebar-color;
+    border-right: 1px solid $border-color;
 }
-.main-content h2{
-    color:#7612ce;
+
+.site-title {
+    color: $blue-dark !important;
+    font-weight: 700;
+    letter-spacing: -0.5px;
 }
-.main-content h3{
-    color:#7612ce;
+
+.nav-list-link {
+    color: $body-text-color;
+    transition: all 0.15s ease;
+    border-radius: 6px;
+    margin: 2px 8px;
+    
+    &:hover {
+        color: $blue-primary;
+        background: rgba(30, 64, 175, 0.08);
+    }
+    
+    &.active {
+        color: $blue-primary;
+        background: rgba(30, 64, 175, 0.1);
+        font-weight: 600;
+    }
 }
-.main-content h4{
-    color:#7612ce;
+
+// ============================================
+// Main Content Area
+// ============================================
+.main-content {
+    background: $content-background;
+    
+    // Headings
+    h1 {
+        color: $heading-color;
+        font-weight: 700;
+        border-bottom: 2px solid $border-color;
+        padding-bottom: 0.5rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    h2 {
+        color: $blue-dark;
+        border-left: 4px solid $blue-primary;
+        padding-left: 1rem;
+        margin-top: 2.5rem;
+        margin-bottom: 1rem;
+    }
+    
+    h3 {
+        color: $heading-color;
+        margin-top: 2rem;
+    }
+    
+    h4 {
+        color: $body-text-color;
+        margin-top: 1.5rem;
+    }
+    
+    // Paragraphs
+    p {
+        color: $body-text-color;
+        line-height: 1.75;
+    }
+    
+    // Links
+    a {
+        color: $blue-primary;
+        text-decoration: none;
+        border-bottom: 1px solid transparent;
+        transition: all 0.15s ease;
+        
+        &:hover {
+            color: $blue-dark;
+            border-bottom-color: $blue-primary;
+        }
+    }
+    
+    // Lists
+    ul, ol {
+        li {
+            margin-bottom: 0.5rem;
+            line-height: 1.7;
+            color: $body-text-color;
+            
+            &::marker {
+                color: $blue-primary;
+            }
+        }
+    }
 }
-$link-color: #7612ce;
+
+// ============================================
+// Tables
+// ============================================
+.main-content table {
+    border-collapse: collapse;
+    border: none;
+    box-shadow: none;
+    margin: 1.5rem 0;
+    width: 100%;
+    
+    th {
+        background: $blue-dark;
+        color: white;
+        font-weight: 600;
+        padding: 0.75rem 1rem;
+        text-align: left;
+        border: none;
+    }
+    
+    td {
+        padding: 0.6rem 1rem;
+        border: none;
+        border-bottom: 1px solid #e5e7eb;
+        color: $body-text-color;
+    }
+    
+    tr {
+        background: white;
+        
+        &:nth-child(even) {
+            background: #f9fafb;
+        }
+    }
+}
+
+// ============================================
+// Code Blocks
+// ============================================
+.highlight {
+    background: #f8fafc !important;
+    border-radius: 8px;
+    border: 1px solid $border-color;
+    
+    pre {
+        padding: 1rem;
+        margin: 0;
+    }
+}
+
+code {
+    background: #f1f5f9;
+    color: $blue-dark;
+    padding: 0.2em 0.4em;
+    border-radius: 4px;
+    font-size: 0.875em;
+}
+
+// ============================================
+// Blockquotes
+// ============================================
+.main-content blockquote {
+    border-left: 4px solid $blue-primary;
+    background: #f8fafc;
+    border-radius: 0 8px 8px 0;
+    padding: 1rem 1.25rem;
+    margin: 1.5rem 0;
+    
+    p {
+        margin: 0;
+        color: $body-text-color;
+    }
+    
+    strong {
+        color: $heading-color;
+    }
+}
+
+// ============================================
+// Figures and Images
+// ============================================
+figure {
+    text-align: center;
+    margin: 1.5rem 0;
+    padding: 0;
+    background: transparent;
+    border: none;
+    
+    img {
+        border: none;
+        box-shadow: none;
+    }
+    
+    figcaption {
+        font-style: italic;
+        color: $muted-text;
+        margin-top: 0.5rem;
+        font-size: 0.9rem;
+    }
+}
+
+.main-content img {
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+    max-width: 100%;
+}
+
+// ============================================
+// MathJax Equations
+// ============================================
+.MathJax {
+    font-size: 1.05em !important;
+    color: $heading-color !important;
+}
+
+// ============================================
+// Search
+// ============================================
+.search-input {
+    background: white;
+    border: 1px solid $border-color;
+    border-radius: 6px;
+    color: $body-text-color;
+    
+    &:focus {
+        border-color: $blue-primary;
+        box-shadow: 0 0 0 3px rgba(30, 64, 175, 0.1);
+    }
+}
+
+// ============================================
+// Breadcrumbs
+// ============================================
+.breadcrumb-nav-list-item {
+    color: $muted-text;
+    
+    &::before {
+        color: $border-color;
+    }
+}
+
+// ============================================
+// Horizontal Rules
+// ============================================
+.main-content hr {
+    border: none;
+    height: 1px;
+    background: $border-color;
+    margin: 2rem 0;
+}
+
+// ============================================
+// Subject Badges
+// ============================================
+.badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-right: 0.5rem;
+}
+
+.badge-physics {
+    background: #dbeafe;
+    color: #1e40af;
+}
+
+.badge-chemistry {
+    background: #fee2e2;
+    color: #dc2626;
+}
+
+.badge-maths {
+    background: #d1fae5;
+    color: #059669;
+}
+
+// ============================================
+// Footer
+// ============================================
+.site-footer {
+    border-top: 1px solid $border-color;
+    color: $muted-text;
+    background: $sidebar-color;
+}
+
+// ============================================
+// Selection Color
+// ============================================
+::selection {
+    background: rgba(30, 64, 175, 0.2);
+    color: $heading-color;
+}
+
+// ============================================
+// Scrollbar Styling
+// ============================================
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 4px;
+    
+    &:hover {
+        background: #94a3b8;
+    }
+}

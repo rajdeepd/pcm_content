@@ -4,8 +4,8 @@ title: 0. TOC
 nav_order: 0
 description: ""
 has_children: true
-parent: Class 10 Chemistry
-grand_parent: Class 10
+parent: FIITJEE Phase 5 Chemistry
+grand_parent: Class 10 Chemistry
 tags: [MathJax, Mathematic]
 mathjax: true
 ---

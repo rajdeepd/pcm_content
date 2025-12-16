@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Kinematics & Optics — Theory
+nav_order: 3
+description: "Class 10 Modulus Physics - Kinematics and Optics Theory"
+parent: Class 10 Modulus Physics
+grand_parent: Class 10
 mathjax: true
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Metals and Non-metals
-nav_order: 2
-description: "Chapter 3 - Metals and Non-metals"
+title: Cengage Metals Non-metals
+nav_order: 3
+description: "Cengage Chapter 3 - Metals and Non-metals"
 has_children: true
-parent: Class 10 Chemistry
-grand_parent: Class 10
+parent: Cengage Chemistry
+grand_parent: Class 10 Chemistry
 tags: [MathJax, Mathematic]
 mathjax: true
 ---

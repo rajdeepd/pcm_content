@@ -1,6 +1,10 @@
 ---
 layout: default
-title: ⚙️ Kinematics & 🔭 Optics — One Pager
+title: Kinematics & Optics — One Pager
+nav_order: 4
+description: "Class 10 Modulus Physics - Kinematics and Optics Summary"
+parent: Class 10 Modulus Physics
+grand_parent: Class 10
 mathjax: true
 ---
 
