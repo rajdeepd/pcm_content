@@ -7,14 +7,15 @@ has_children: true
 parent: Class 10
 ---
 
+# Class 10 Physics
 
-# PHYSICS
+---
 
-## CENGAGE
+## 📙 CENGAGE
 
-### Light 
+### Light
 
-* [Light and its  Nature](class10/cengage_physics/light/1-light.html)
+* [Light and its Nature](class10/cengage_physics/light/1-light.html)
 * [Reflection of Light](class10/cengage_physics/light/2-reflection-of-light.html)
 * [Spherical Mirrors](class10/cengage_physics/light/3-sperical-mirrors.html)
 
@@ -26,11 +27,11 @@ parent: Class 10
 * [1.3 - Section A - Short Answers](class10/cengage_physics/magentic_effects_of_current/1.3-sectionA-short-answers.html)
 * [1.4 - Section A - Long Answers](class10/cengage_physics/magentic_effects_of_current/1.4-sectionA-long-answers.html)
 
+---
 
+## 📘 NCERT
 
-## NCERT
-
-### Light – Reflection and Refraction
+### Light – Reflection and Refraction (Chapter 9)
 
 * [9.1 Reflection of Light](class10/physics_ncert/9-light/9.1-reflection-of-light.html)
 * [9.2 Spherical Mirrors](class10/physics_ncert/9-light/9.2-spherical-mirrors.html)
@@ -45,5 +46,26 @@ parent: Class 10
 * [12.3 Magnetic Field - Circular Loop](class10/physics_ncert/12-magentism/12.3-circular-loop.html)
 * [12.4 Force on Current-Carrying Conductor](class10/physics_ncert/12-magentism/12.4-force-on-conductor.html)
 
+---
 
+## 📕 ARIHANT
+
+<div class="intro-box">
+Detailed notes from Arihant All in One Science textbook with solved examples and practice questions.
+</div>
+
+### ⚡ Chapter 11: Electricity
+
+* [11.1 Electric Charge and Current](class10/arihant_physics/11-electricity/01-electric-charge-current.html)
+* [11.2 Electric Potential and Potential Difference](class10/arihant_physics/11-electricity/02-electric-potential.html)
+* [11.3 Electric Circuit](class10/arihant_physics/11-electricity/03-electric-circuit.html)
+* [11.4 Ohm's Law](class10/arihant_physics/11-electricity/04-ohms-law.html)
+* [11.5 Resistance](class10/arihant_physics/11-electricity/05-resistance.html)
+* [11.6 Resistance of a System of Resistors](class10/arihant_physics/11-electricity/06-resistance-of-system.html)
+* [11.7 Heating Effect of Electric Current](class10/arihant_physics/11-electricity/07-heating-effect.html)
+* [11.8 Electric Power](class10/arihant_physics/11-electricity/07-heating-effect.html#118-electric-power)
+* [🗺️ Mind Map - Electricity](class10/arihant_physics/11-electricity/08-mind-map.html)
+* [📝 NCERT Intext Questions](class10/arihant_physics/11-electricity/09-ncert-intext-questions.html)
+* [✏️ NCERT Exercises](class10/arihant_physics/11-electricity/10-ncert-exercises.html)
+* [📋 Review Exercise](class10/arihant_physics/11-electricity/11-review-exercise.html)
 

@@ -15,3 +15,4 @@ _site/
 vendor/
 .DS_Store
 class10/maths/samples_papers/raw_papers/
+.cursor

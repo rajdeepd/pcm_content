@@ -236,6 +236,42 @@ code, pre, .highlight {
     letter-spacing: 0.5px;
 }
 
+/* Override uppercase for regular h4 headings */
+.main-content h4 {
+    text-transform: none !important;
+    font-size: 1rem !important;
+    font-weight: 500 !important;
+    color: #1e40af !important;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+    line-height: 1.4;
+}
+
+/* Question/Answer styling for NCERT questions */
+.main-content h4 + p strong:first-child {
+    font-size: 0.9rem;
+    color: var(--color-muted);
+}
+
+.main-content h4 + p {
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+/* Reduce line spacing in main content */
+.main-content p {
+    line-height: 1.5 !important;
+}
+
+.main-content ul, .main-content ol {
+    line-height: 1.5 !important;
+}
+
+.main-content li {
+    line-height: 1.5 !important;
+    margin-bottom: 0.3rem !important;
+}
+
 .toc ul {
     margin: 0;
     padding-left: 1.25rem;
@@ -299,6 +335,246 @@ a, button, .nav-list-link {
 a:focus, button:focus, input:focus {
     outline: 2px solid var(--color-primary-light);
     outline-offset: 2px;
+}
+
+/* ============================================
+   Arihant Physics - Pink/Magenta Theme
+   ============================================ */
+
+/* Section Headers */
+.section-header { color: #D81B60; font-weight: bold; font-size: 1.5em; }
+.sub-header { color: #C2185B; font-weight: bold; font-size: 1.2em; }
+.page-header { color: #D81B60; font-weight: bold; font-size: 2em; }
+
+/* Example Box */
+.example-box { 
+    background-color: #FCE4EC; 
+    padding: 15px; 
+    border-radius: 8px; 
+    margin: 15px 0; 
+    border-left: 4px solid #E91E63;
+}
+.example-title { color: #AD1457; font-weight: bold; font-size: 1.1em; }
+
+/* Note Box */
+.note-box { 
+    background-color: #FFF3E0; 
+    padding: 12px; 
+    border-left: 4px solid #FF9800; 
+    margin: 15px 0; 
+    border-radius: 0 8px 8px 0;
+}
+
+/* Important Box */
+.important-box { 
+    background-color: #E8F5E9; 
+    padding: 12px; 
+    border-left: 4px solid #4CAF50; 
+    margin: 15px 0;
+    border-radius: 0 8px 8px 0;
+}
+
+/* Arihant Formula Box */
+.arihant-formula-box, .formula-box-arihant {
+    background-color: #F3E5F5;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+/* Term Box */
+.term-box { 
+    background-color: #F3E5F5; 
+    padding: 12px; 
+    margin: 8px 0; 
+    border-radius: 5px;
+    border-left: 3px solid #9C27B0;
+}
+
+/* Try These Box */
+.try-these { 
+    background-color: #FCE4EC; 
+    padding: 15px; 
+    border: 2px solid #E91E63; 
+    border-radius: 8px; 
+    margin: 20px 0; 
+}
+.try-these-title { 
+    background-color: #E91E63; 
+    color: white; 
+    padding: 8px 15px; 
+    display: inline-block; 
+    margin-bottom: 15px; 
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+/* Figure Caption */
+.figure-caption {
+    text-align: center;
+    font-style: italic;
+    color: #666;
+    margin-top: 5px;
+}
+
+/* Source Boxes for Index Pages */
+.source-box { 
+    background-color: #FCE4EC; 
+    padding: 20px; 
+    border-radius: 8px; 
+    margin: 15px 0; 
+    border-left: 4px solid #E91E63;
+}
+.source-box-ncert { 
+    background-color: #E3F2FD; 
+    padding: 20px; 
+    border-radius: 8px; 
+    margin: 15px 0; 
+    border-left: 4px solid #1976D2;
+}
+.source-box-cengage { 
+    background-color: #FFF3E0; 
+    padding: 20px; 
+    border-radius: 8px; 
+    margin: 15px 0; 
+    border-left: 4px solid #FF9800;
+}
+
+/* Source Headers */
+.source-header { 
+    color: #C2185B; 
+    font-weight: bold; 
+    font-size: 1.4em;
+    border-bottom: 2px solid #E91E63;
+    padding-bottom: 5px;
+    margin-top: 25px;
+}
+.chapter-header { 
+    color: #7B1FA2; 
+    font-weight: bold; 
+    font-size: 1.1em;
+    margin-top: 15px;
+}
+
+/* Section Links */
+.section-link { 
+    display: block;
+    padding: 8px 12px; 
+    margin: 5px 0;
+    text-decoration: none; 
+    color: #333;
+    background-color: rgba(255,255,255,0.7);
+    border-radius: 4px;
+    border-left: 3px solid #9C27B0;
+    transition: all 0.2s ease;
+}
+.section-link:hover { 
+    background-color: #F3E5F5;
+    transform: translateX(5px);
+    color: #7B1FA2;
+}
+.section-link-ncert { border-left-color: #1976D2; }
+.section-link-ncert:hover { background-color: #E3F2FD; color: #1565C0; }
+.section-link-cengage { border-left-color: #FF9800; }
+.section-link-cengage:hover { background-color: #FFF3E0; color: #E65100; }
+
+/* Section Number */
+.section-number { 
+    color: #7B1FA2; 
+    font-weight: bold; 
+    margin-right: 10px;
+}
+
+/* Intro Box */
+.intro-box { 
+    background-color: #FFF3E0; 
+    padding: 18px; 
+    border-radius: 8px; 
+    margin: 20px 0;
+    border-left: 4px solid #FF9800;
+    line-height: 1.6;
+}
+
+/* Topics Container */
+.topics-header {
+    background-color: #E91E63;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 6px 6px 0 0;
+    margin-bottom: 0;
+}
+.topics-container {
+    border: 2px solid #E91E63;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+/* Chapter Box */
+.chapter-box { 
+    background-color: #FCE4EC; 
+    padding: 20px; 
+    border-radius: 8px; 
+    margin: 15px 0; 
+    border-left: 4px solid #E91E63;
+    transition: all 0.2s ease;
+}
+.chapter-box:hover {
+    transform: translateX(5px);
+    box-shadow: 0 2px 8px rgba(233, 30, 99, 0.2);
+}
+.chapter-title { 
+    color: #AD1457; 
+    font-weight: bold; 
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+.chapter-desc { color: #666; margin: 10px 0; line-height: 1.5; }
+.chapter-link {
+    display: inline-block;
+    background-color: #E91E63;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.chapter-link:hover { background-color: #C2185B; color: white; }
+
+/* Badges */
+.badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 0.75em;
+    font-weight: bold;
+    margin-left: 8px;
+}
+.badge-arihant { background-color: #E91E63; color: white; }
+.badge-ncert { background-color: #1976D2; color: white; }
+.badge-cengage { background-color: #FF9800; color: white; }
+
+/* Question Source Tags */
+.main-content h4 {
+    text-transform: none !important;
+    font-size: 1rem !important;
+    font-weight: 500 !important;
+    color: #1e40af !important;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+    line-height: 1.4;
+}
+
+/* Source badge in question headings */
+.main-content h4 [style*="background"] {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 0.7em;
+    font-weight: 600;
+    margin-left: 8px;
+    vertical-align: middle;
 }
 
 /* Clean Images - No borders */
