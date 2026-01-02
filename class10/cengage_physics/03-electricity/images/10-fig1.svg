@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="140" viewBox="0 0 500 140">
+  <defs>
+    <style>
+      .wire { fill: none; stroke: #0CA8E8; stroke-width: 3; }
+      .resistor { fill: none; stroke: #0CA8E8; stroke-width: 3; }
+      .joint { fill: #0CA8E8; stroke: #0CA8E8; stroke-width: 2; }
+      .label { font-family: "Times New Roman", serif; font-size: 20px; font-style: italic; fill: black; text-anchor: middle; }
+    </style>
+  </defs>
+
+  <!-- Left wire -->
+  <line class="wire" x1="15" y1="60" x2="60" y2="60" />
+
+  <!-- Resistor R1 -->
+  <polyline class="resistor" points="60,60 70,45 80,75 90,45 100,75 110,45 120,75 130,45 140,60" />
+
+  <!-- Joint after R1 -->
+  <line class="wire" x1="140" y1="60" x2="155" y2="60" />
+  <circle class="joint" cx="155" cy="60" r="4" />
+  <line class="wire" x1="155" y1="60" x2="170" y2="60" />
+
+  <!-- Resistor R2 -->
+  <polyline class="resistor" points="170,60 180,45 190,75 200,45 210,75 220,45 230,75 240,45 250,60" />
+
+  <!-- Joint after R2 -->
+  <line class="wire" x1="250" y1="60" x2="265" y2="60" />
+  <circle class="joint" cx="265" cy="60" r="4" />
+  <line class="wire" x1="265" y1="60" x2="280" y2="60" />
+
+  <!-- Resistor R3 -->
+  <polyline class="resistor" points="280,60 290,45 300,75 310,45 320,75 330,45 340,75 350,45 360,60" />
+
+  <!-- Right wire -->
+  <line class="wire" x1="360" y1="60" x2="485" y2="60" />
+
+  <!-- Labels -->
+  <text class="label" x="100" y="105">R<tspan baseline-shift="sub">1</tspan></text>
+  <text class="label" x="210" y="105">R<tspan baseline-shift="sub">2</tspan></text>
+  <text class="label" x="320" y="105">R<tspan baseline-shift="sub">3</tspan></text>
+</svg>

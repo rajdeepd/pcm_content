@@ -1,0 +1,581 @@
+---
+layout: default
+title: Acids, Bases and Salts
+nav_order: 2
+parent: Arihant Chemistry
+grand_parent: Class 10 Chemistry
+mathjax: true
+---
+
+# Acids, Bases and Salts
+
+It is interesting to note that the various food items that we eat have different tastes. This is due to the fact that chemical nature of all these substances are different. On the basis of their chemical properties, the chemical compounds can be classified as acids, bases and salts. Some examples include digestive fluids of humans and animals containing acids, the bitter taste of substances like bitter gourd, cucumber etc., is due to the bases present in them, common salt is used in cooking.
+
+---
+
+## 2.1 Acids
+
+Those chemical substances which have a sour taste and change the colour of blue litmus to red are called acids. Some common fruits such as unripe mango, lemon, orange, tamarind etc., are sour in taste. This suggests that these fruits contain acids.
+
+Some commonly used acids are hydrochloric acid (HCl), sulphuric acid $(H_2SO_4)$, nitric acid $(HNO_3)$ etc.
+
+Some naturally occurring acids are as follows
+
+| Natural source | Acid |
+|---|---|
+| Vinegar | Acetic acid |
+| Orange and lemon | Citric acid |
+| Tamarind | Tartaric acid |
+| Tomato | Oxalic acid |
+| Curd | Lactic acid |
+| Ant's sting and nettle's sting | Methanoic acid |
+
+### Chemical Properties of Acids
+
+The significant chemical properties of acids are as follows
+
+**• Reaction with metals** Acids like dilute HCl and dilute $H_2SO_4$, react with certain active metals like zinc (Zn), iron (Fe) etc., to form salt and evolves $H_2$ gas.
+
+Thus, these acids or substances containing these kind of acids should not be kept in metal containers.
+
+Metal + Dilute acid $\longrightarrow$ Salt + Hydrogen gas
+
+e.g. $\text{Zn}(s) + H_2SO_4(aq) \longrightarrow \text{ZnSO}_4(aq) + H_2(g)$
+
+$$\begin{matrix} \text{Zinc} & \text{Dil. sulphuric} & \text{Zinc sulphate} & \text{Hydrogen} \\ \text{granules} & \text{acid} & & \text{gas} \end{matrix}$$
+
+**Test for the presence of $H_2$ gas** It can be done by passing the gas through a soap solution and then, bringing a burning splinter near the soap bubble filled with the gas. If the gas burns with a pop sound, it confirms the presence of hydrogen gas.
+
+**• Reaction with metal carbonates and metal hydrogen carbonates** Acids react with metal carbonates and metal hydrogen carbonates (also called bicarbonates) produces metal salts, water and evolve carbon dioxide gas with brisk effervescence.
+
+Metal carbonate / Metal hydrogen carbonate + Acid  
+$\longrightarrow$ Salt + Carbon dioxide + Water  
+(Brisk effervescence)
+
+e.g. $\text{CaCO}_3(s) + 2\text{HCl}(aq) \longrightarrow \text{CaCl}_2(aq) + H_2O(aq)$
+
+$$\begin{matrix} \text{Calcium} & \text{Hydrochloric} & \text{Calcium chloride} \\ \text{carbonate} & \text{acid} & \end{matrix}$$
+
+$$+ \text{CO}_2(g) \uparrow$$
+
+$$\text{Carbon dioxide}$$
+
+Limestone, chalk and marble are different forms of calcium carbonate.
+
+**Test for $CO_2$ gas** When $CO_2$ gas is passed through lime water, it turns milky due to the formation of white precipitate of $\text{CaCO}_3$.
+
+$$\text{Ca(OH)}_2(aq) + \text{CO}_2(g) \longrightarrow \text{CaCO}_3(s) + H_2O(l)$$
+
+$$\begin{matrix} \text{(Lime water)} & \text{Carbon} & \text{Calcium} & \text{Water} \\ & \text{dioxide} & \text{carbonate} & \\ & & \text{(White ppt.)} & \end{matrix}$$
+
+But, if $CO_2$ is passed in excess, milkiness disappears due to the formation of $\text{Ca(HCO}_3)_2$ which is soluble in water.
+
+$$\text{CaCO}_3(s) + H_2O(l) + \text{CO}_2(g) \longrightarrow \text{Ca(HCO}_3)_2(aq)$$
+
+$$\begin{matrix} \text{Calcium} & \text{Water} & \text{Carbon} & \text{Calcium bicarbonate} \\ \text{carbonate} & & \text{dioxide} & \text{(Soluble in water)} \\ \text{(Milkiness)} & & \text{(Excess)} & \end{matrix}$$
+
+**• Reaction with metallic oxides** Acids react with certain metallic oxides to form salt and water. Since, the chemical nature of these oxides are basic hence, they are also called basic oxides.
+
+Metal oxide + Acid $\longrightarrow$ Salt + Water
+
+e.g. $\text{CuO} + 2\text{HCl} \longrightarrow \text{CuCl}_2 + H_2O$
+
+$$\begin{matrix} \text{Copper (II)} & \text{Hydrochloric} & \text{Copper (II)} \\ \text{oxide} & \text{acid} & \text{chloride} \\ & & \text{(Blue green)} \end{matrix}$$
+
+---
+
+## 2.2 Bases
+
+Those chemical substances which are bitter in taste, soapy to touch and turn red litmus to blue are known as bases. e.g. Sodium hydroxide (NaOH), calcium hydroxide $\text{Ca(OH)}_2$ etc.
+
+### Chemical Properties of Bases
+
+The significant chemical properties of bases are as follows
+
+**• Reaction with metals** Strong bases react with active metals to produce hydrogen gas. Thus, these bases should not be kept in metal containers.
+
+Metal + Base $\longrightarrow$ Salt + Hydrogen gas
+
+e.g. $\text{Zn}(s) + 2\text{NaOH}(aq) \longrightarrow \text{Na}_2\text{ZnO}_2(s) + H_2(g)$
+
+$$\begin{matrix} \text{Zinc} & \text{Sodium} & \text{Sodium zincate} & \text{Hydrogen} \\ & \text{hydroxide} & & \text{gas} \end{matrix}$$
+
+**• Reaction with non-metallic oxide** Bases react with non-metallic oxides to produce salt and water.
+
+The chemical nature of non-metallic oxides are acidic in nature. Hence, they are called acidic oxides.
+
+Base + Non-metallic oxide $\longrightarrow$ Salt + Water
+
+e.g. $\text{Ca(OH)}_2(aq) + \text{CO}_2(g) \longrightarrow \text{CaCO}_3(s) + H_2O(l)$
+
+$$\begin{matrix} \text{Slaked lime} & \text{Carbon} & \text{Calcium} & \text{Water} \\ & \text{dioxide} & \text{carbonate} & \end{matrix}$$
+
+---
+
+## 2.3 What do Acids and Bases have in Common
+
+**• In presence of water, all acids give $H^+$ ion.** These $[H^+]$ ion combines with water molecules and form $H_3O^+$ (hydronium ion). Hence, we can say that in presence of water, all acids give $H^+$ ion or $[H_3O^+]$ ion.
+
+$$HA(aq) \longrightarrow H^+(aq) + A^-(aq)$$
+
+$$\text{(Acid)}$$
+
+e.g. $\text{HCl}(aq) \longrightarrow H^+(aq) + Cl^-(aq)$
+
+$$H^+ + H_2O \longrightarrow H_3O^+$$
+
+**• In presence of water, all the bases give $OH^-$ ion.**
+
+$$BOH(aq) \longrightarrow B^+(aq) + OH^-(aq)$$
+
+$$\text{(Base)}$$
+
+e.g. $\text{NaOH}(s) \xrightarrow{H_2O} Na^+(aq) + OH^-(aq)$
+
+$$\text{KOH}(s) \xrightarrow{H_2O} K^+(aq) + OH^-(aq)$$
+
+$$\text{Mg(OH)}_2(s) \longrightarrow Mg^{2+}(aq) + 2OH^-(aq)$$
+
+**Note:** All bases do not dissolve in water except a few. The bases which can dissolve in water without undergoing any kind of chemical reactions are called alkalis. An alkali is a base which dissolves in water.
+
+**• Since, ions help in conduction of charge, so aqueous solution of both acids and bases conducts electricity.** Therefore, the common property of acids and bases is to dissociate into ions in aqueous solution and conduct electricity.
+
+---
+
+## Effect of Dilution on an Acid or Base
+
+Mixing of an acid or base with water is called **dilution**. It results in decrease in the concentration of ions $(H_3O^+/OH^-)$ per unit volume and the acid or base is said to be diluted.
+
+When we dilute an acid or a base, the reaction is highly exothermic (heat generating). Hence, care must be taken while doing it. During dilution, *acids must always be added slowly to water with constant stirring*.
+
+*Water should not be added to concentrated acid* because if water is added, the heat generated may cause the mixture to splash out and cause burns.
+
+The glass container may also break due to excessive local heating.
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="images/section2.3_fig1.png" alt="Warning sign for corrosive materials" style="max-width: 100%; height: auto; border: 1px solid #ddd; padding: 10px;">
+  <p style="font-size: 0.9em; color: #666; margin-top: 10px;">Warning sign displayed on containers containing concentrated acids and bases (showing their corrosive nature)</p>
+</div>
+
+---
+
+## 2.4 Reaction between Acids and Bases
+
+Acids react with bases to produce salt and water. In this reaction, an acid neutralises a base, i.e. acid nullifies or reduces the effect of a base or *vice-versa* thus, the reaction is known as **neutralisation reaction**.
+
+In general, neutralisation reaction can be written as
+
+Base + Acid $\longrightarrow$ Salt + Water
+
+$$H(\overline{X + M})\text{ OH} \longrightarrow MX + \text{HOH}$$
+
+Here, H represents hydrogen atom and $M$ represents metal atom.
+
+$$H^+(aq) + OH^-(aq) \longrightarrow H_2O(l)$$
+
+e.g. $\text{NaOH}(aq) + \text{HCl}(aq) \longrightarrow \text{NaCl}(aq) + H_2O(l)$
+
+$$\begin{matrix} \text{Sodium} & \text{Hydrochloric} & \text{Sodium} & \text{Water} \\ \text{hydroxide} & \text{acid} & \text{chloride} & \end{matrix}$$
+
+---
+
+<div class="try-these-box">
+<h3>Try These 2.1</h3>
+
+<ol>
+<li>Which acid is found in nettle's sting?</li>
+<li>Bases should not be kept in active metal container. Why?</li>
+<li>Name the precipitate formed when $CO_2$ reacts with lime water.</li>
+<li>Give a chemical reaction to prove that non-metallic oxides are acidic in nature.</li>
+<li>What is the effect of dilution on an acid or base?</li>
+<li>Write the product formed when sodium hydroxide reacts with hydrochloric acid.</li>
+</ol>
+
+<h4>Solutions:</h4>
+
+<p><strong>1.</strong> <strong>Methanoic acid</strong> is found in nettle's sting.</p>
+
+<p><strong>2.</strong> Bases should not be kept in active metal containers because strong bases react with active metals to produce hydrogen gas. This can cause pressure build-up and potential hazards.</p>
+
+$$\text{Zn}(s) + 2\text{NaOH}(aq) \longrightarrow \text{Na}_2\text{ZnO}_2(s) + H_2(g)$$
+
+<p><strong>3.</strong> The precipitate formed when $CO_2$ reacts with lime water is <strong>calcium carbonate</strong> $(CaCO_3)$, which appears as a white precipitate.</p>
+
+$$\text{Ca(OH)}_2(aq) + \text{CO}_2(g) \longrightarrow \text{CaCO}_3(s) + H_2O(l)$$
+
+<p><strong>4.</strong> Non-metallic oxides are acidic in nature. This can be proved by the reaction of carbon dioxide (a non-metallic oxide) with calcium hydroxide (a base) to form salt and water:</p>
+
+$$\text{Ca(OH)}_2(aq) + \text{CO}_2(g) \longrightarrow \text{CaCO}_3(s) + H_2O(l)$$
+
+<p>This is an acid-base neutralization reaction, proving that $CO_2$ is acidic in nature.</p>
+
+<p><strong>5.</strong> The effect of dilution on an acid or base is that it <strong>decreases the concentration of ions</strong> $(H_3O^+/OH^-)$ <strong>per unit volume</strong>. The acid or base becomes weaker. The reaction is highly exothermic (heat generating).</p>
+
+<p><strong>6.</strong> When sodium hydroxide reacts with hydrochloric acid, the products formed are <strong>sodium chloride and water</strong>:</p>
+
+$$\text{NaOH}(aq) + \text{HCl}(aq) \longrightarrow \text{NaCl}(aq) + H_2O(l)$$
+
+</div>
+
+---
+
+## 2.5 Indicators
+
+The substances that change their colour or odour when added into an acid or an alkaline solution to indicate the presence of an acid or a base are called **indicators**.
+
+Indicators can be classified in the following ways
+
+### On the Basis of Colour Change
+
+These indicators tell us whether a substance is acidic or basic by change in colour.
+
+#### (I) Natural Indicators
+
+These indicators are obtained from natural sources, e.g. litmus solution is a purple colour dye extracted from the lichen plant (belonging to the division "Thallophyta").
+
+**Some Natural Indicators with Characteristic Colours**
+
+| Indicator | Colour in Acidic Medium | Colour in Alkaline Medium |
+|---|---|---|
+| Litmus | Blue → Red | Red → Blue |
+| Red cabbage juice (from leaves) | Red | Green |
+| Turmeric (haldi) | Yellow | Reddish brown |
+| Flower of *Hydrangea* plant | Blue | Pink |
+| Flower of petunia | Reddish purple | Violet |
+| Flower of geranium | Orange red | Blue |
+
+#### (II) Synthetic Indicators
+
+The indicators which are synthesised in the laboratory or in industry and are not obtained by natural sources are known as synthetic indicators. e.g. Methyl orange, phenolphthalein etc.
+
+**Some Synthetic Indicators with Characteristic Colours**
+
+| Indicator | Colour in Acidic Solution | Colour in Basic Solution | Colour in Neutral Solution |
+|---|---|---|---|
+| Phenolphthalein | Colourless | Pink | Colourless |
+| Methyl orange | Red | Yellow | Orange |
+
+#### (III) Universal Indicators
+
+To predict *how* strong a given acid or base is, an universal indicator is preferred over litmus paper. It is a mixture of several indicators. It shows different colours at different concentrations of hydrogen ion in a solution.
+
+### On the Basis of Order Change
+
+#### Olfactory Indicators
+
+Those substances whose odour changes in acidic or basic medium are called olfactory indicators. Vanilla extract, clove and onion can be used as olfactory indicators. The smell of vanilla and onion indicators can be detected in presence of an acid only but not in the presence of a base.
+
+---
+
+## 2.6 Strength of an Acid or Base
+
+Strength of an acid or base depends on the number of $H^+$ ions or $OH^-$ ions produced by them respectively. Larger the number of $H^+$ ions produced by an acid, stronger is the acid and *vice-versa*. Similarly, larger the number of $OH^-$ ions produced by a base, stronger is the base and *vice-versa*.
+
+---
+
+## 2.7 The pH Scale
+
+It is a scale used for measuring hydrogen ion concentration. The **p** in pH stands for **potenz** which means **power** in German. It has values ranging from 0 (very acidic) to 14 (very alkaline). **pH is a number which indicates the acidic or basic nature of a solution.**
+
+Higher the hydronium ion concentration present in the solution, lower is its pH value [pH means power of hydrogen ions].
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="images/abs-fig05.png" alt="pH Scale diagram" style="max-width: 100%; height: auto; border: 1px solid #ddd; padding: 10px;">
+  <p style="font-size: 0.9em; color: #666; margin-top: 10px;">Increase in H⁺ ion concentration ← → Decrease in H⁺ ion concentration<br>Variation of pH with the change in concentration of H⁺ (aq) and OH⁻ (aq) ions</p>
+</div>
+
+- If pH > 7, solution is basic.
+- If pH < 7, solution is acidic.
+- If pH = 7, solution is neutral.
+
+Pure water is neutral because of the absence of free ions. A paper impregnated with the universal indicator is used for measuring pH. Now-a-days, pH meter, an electronic device, is used to measure the pH value.
+
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="images/abs-fig06.png" alt="pH measurement" style="max-width: 100%; height: auto; border: 1px solid #ddd; padding: 10px;">
+</div>
+
+---
+
+## 2.8 Importance of pH in Everyday Life
+
+Following are the examples showing importance of pH in everyday life.
+
+### Plants and Animals are pH Sensitive
+
+Living organisms can survive only in a narrow range of pH change. Our body works normally within the pH range of 7.0 to 7.5. When pH of rain water goes below 5.6, it is called **acid rain**. When acid rain flows into the rivers, it lowers the pH of the river water and makes survival of aquatic life difficult.
+
+### pH of the Soil
+
+Every type of plant requires a specific pH range for their healthy growth. Therefore, the nature of soil is known first by testing its pH and then a particular crop is grown in it. It is also suitable for selecting the fertiliser for a particular crop by knowing the pH of the soil.
+
+### pH in Our Digestive System
+
+Our stomach produces hydrochloric acid (HCl), which helps in the digestion of food.
+
+During indigestion, the stomach produces too much acid, which causes pain and irritation. To correct the disturbed pH range, magnesium hydroxide or milk of magnesia (a mild base) is used as a medicine, which is also called **antacid** as it neutralises the effect of acid (or acidity).
+
+### pH Change Leads to Tooth Decay
+
+Tooth enamel is made up of calcium hydroxyapatite (a crystalline form of calcium phosphate). It is the hardest substance in the body. If the pH inside the mouth decreases below 5.5 (acidic), the decay of tooth enamel begins.
+
+The bacteria present in the mouth degrades the sugar and left over food particles that remains in the mouth after eating and produce acids. The best way to prevent this is to clean the mouth after eating food. To prevent tooth decay, toothpastes (basic) are used which neutralise the excess acid.
+
+### Self Defence by Animals and Plants through Chemical Warfare
+
+- When insects like honeybee, ant etc., bite, they inject an acid into the skin, that causes pain and irritation. If a mild base like baking soda is applied on the affected area, it gives relief.
+
+- Stinging hair of nettle leaves (herbaceous plant which grows in wild) injects methanoic acid in the skin which causes burning pain. It is cured by rubbing the affected area with the leaves of dock plant, which often grows beside the nettle plant.
+
+<div class="try-these-box">
+<h3>Try These 2.2</h3>
+
+<ol>
+<li>Among litmus, turmeric and phenolphthalein which indicator gives pink colour in basic solution?</li>
+<li>What is the colour of phenolphthalein in basic solution?</li>
+<li>Why pure water is neutral in nature?</li>
+<li>In which pH range our body works?</li>
+<li>Write the role of HCl present in the stomach.</li>
+<li>Name the chemical which is injected into the skin of a person during ant's sting and during the nettle leaf's sting.</li>
+</ol>
+
+</div>
+
+---
+
+## 2.9 Salts
+
+They are produced by the **neutralisation reaction** between acid and base. Salts of strong acid and a strong base are neutral with pH value of 7.
+
+Salts of a strong acid and weak base **are acidic** with pH value less than 7. Salts of strong base and weak acid are basic in nature with pH value more than 7.
+
+Now, we will study about preparation and properties of some salts.
+
+### I. Common Salt
+
+**Chemical name:** Sodium chloride
+
+**Chemical formula:** NaCl
+
+#### Preparation
+
+- It is formed by the combination of hydrochloric acid and sodium hydroxide solution. Sea water contains many salts dissolved in it.
+
+- It is obtained on large scale from sea water by separating other salts from it.
+
+- It may also be obtained from rock salt. (Rock salt is mined like coal.)
+
+#### Uses
+
+- It is the salt that we use for cooking purpose.
+
+- It is an important raw material which is used for preparing, various materials like sodium hydroxide, baking soda, washing soda, bleaching powder etc.
+
+### II. Caustic Soda
+
+**Chemical name:** Sodium hydroxide
+
+**Chemical formula:** NaOH
+
+#### Preparation
+
+- When electricity is passed through an aqueous solution of sodium chloride (called brine), it decomposes to form sodium hydroxide and chlorine.
+
+  This process is named as, **chlor-alkali process** because the products formed, i.e. chlor for chlorine and alkali for sodium hydroxide.
+
+- The reaction involved is as follows
+
+$$2\text{NaCl}(aq) + 2H_2O(l) \xrightarrow{\text{Electric current}} 2\text{NaOH}(aq)$$
+
+$$\begin{matrix} \text{Sodium chloride} & \text{Water} & \text{Sodium hydroxide} \\ & & \text{(Near cathode)} \end{matrix}$$
+
+$$+ \text{Cl}_2(g) + H_2(g)$$
+
+$$\begin{matrix} \text{Chlorine} & \text{Hydrogen} \\ \text{(At anode)} & \text{(At cathode)} \end{matrix}$$
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="images/abs-fig07.png" alt="Chlor-alkali process diagram" style="max-width: 100%; height: auto; border: 1px solid #ddd; padding: 10px;">
+  <p style="font-size: 0.9em; color: #666; margin-top: 10px;">Important products from the chlor-alkali process</p>
+</div>
+
+#### Uses
+
+The uses of different products formed in chlor-alkali process are as follows
+
+- **$H_2$** is used in fuels, margarine, ammonia for fertilizers.
+
+- **$Cl_2$** is used in water treatment, swimming pools, PVC, disinfectants, CFCs, pesticides.
+
+- **NaOH** is used for de-greasing metals, soaps and detergents, paper making, artificial fibres.
+
+- **Chlorine and hydrogen** are use as raw material for the preparation of **hydrochloric acid** (HCl). Further, HCl is used for cleaning steel, ammonium chloride, medicines, cosmetics.
+
+- Cl and NaOH used as raw material for the preparation of **bleach**. Moreover, this bleach is used in different household work, for bleaching fabric etc.
+
+### III. Bleaching Powder
+
+**Chemical name:** Calcium oxychloride
+
+**Chemical formula:** $\text{CaOCl}_2$
+
+#### Preparation
+
+- It is produced by the action of chlorine on dry slaked lime.
+
+$$\text{Ca(OH)}_2 + \text{Cl}_2 \longrightarrow \text{CaOCl}_2 + H_2O$$
+
+$$\begin{matrix} \text{Slaked lime} & \text{Chlorine} & \text{Bleaching} & \text{Water} \\ & & \text{powder} & \end{matrix}$$
+
+- On standing for a longer time, it undergoes auto-oxidation due to which bleaching action decreases.
+
+#### Uses
+
+The uses of bleaching powder are as follows
+
+- It is used for bleaching cotton and linen in the textile industry, for bleaching wood pulp in paper industries and for bleaching washed clothes in laundry.
+
+- It is also used as a disinfectant for water to make it free from germs.
+
+- It is used as an oxidising agent in many chemical industries.
+
+### IV. Baking Soda
+
+**Chemical name:** Sodium hydrogencarbonate
+
+**Chemical formula:** $\text{NaHCO}_3$
+
+#### Preparation
+
+- It is produced by using sodium chloride as one of the raw material.
+
+- The reaction involved is as follows
+
+$$\text{NaCl}(aq) + H_2O(l) + \text{CO}_2(g) + \text{NH}_3(g) \longrightarrow$$
+
+$$\begin{matrix} \text{Brine} & & \text{Carbon dioxide} & \text{Ammonia} \end{matrix}$$
+
+$$\text{NH}_4\text{Cl}(g) + \text{NaHCO}_3(s)$$
+
+$$\begin{matrix} \text{Ammonium} & \text{Sodium hydrogen} \\ \text{chloride} & \text{carbonate} \end{matrix}$$
+
+- The following reaction takes place when it is heated during cooking.
+
+$$2\text{NaHCO}_3 \xrightarrow{\text{Heat}} \text{Na}_2\text{CO}_3 + H_2O + \text{CO}_2 \uparrow$$
+
+$$\begin{matrix} \text{Sodium hydrogen} & \text{Sodium carbonate} \\ \text{carbonate} & \end{matrix}$$
+
+#### Properties
+
+- The soda is commonly used in the kitchen for making tasty crispy pakora.
+
+- It is a mild non-corrosive basic salt.
+
+- It is the major constituent of baking powder.
+
+- Sometimes, it is added for faster cooking.
+
+#### Uses
+
+The uses of sodium hydrogen carbonate are as follows
+
+- For making baking powder, which is a mixture of baking soda (sodium hydrogen carbonate) and a mild edible acid such as tartaric acid. When baking powder is heated or mixed in water, the following reaction takes place.
+
+$$\text{NaHCO}_3 + H^+ \longrightarrow \text{CO}_2 + H_2O + \text{ Sodium salt of acid}$$
+
+$$\begin{matrix} \text{Sodium} & \text{(From} & \text{Carbon} & \text{Water} \\ \text{hydrogen} & \text{any acid)} & \text{dioxide} & \\ \text{carbonate} & & & \end{matrix}$$
+
+Carbon dioxide produced during the reaction causes bread or cake to rise making them soft and spongy.
+
+- Sodium hydrogen carbonate is also an ingredient of antacid. Being alkaline, it neutralises excess acid in the stomach and provides relief.
+
+- It is also used in soda-acid fire extinguishers.
+
+- Baking soda is also acts as a preservative for milk. In summer, it is added to the milk, as milk decompose and release lactic acid which makes milk sour. Added $\text{NaHCO}_3$ reacts with acid to form salt and water. It neutralises the acidic effect and milk does not become sour.
+
+### V. Washing Soda
+
+**Chemical name:** Sodium carbonate decahydrate
+
+**Chemical formula:** $\text{Na}_2\text{CO}_3 \cdot 10H_2O$
+
+#### Preparation
+
+- Sodium carbonate can be obtained by heating baking soda.
+
+- Further, the recrystallisation of sodium carbonate gives washing soda. It is also a basic salt.
+
+- The reaction involved is as follows
+
+$$\text{Na}_2\text{CO}_3(s) + 10H_2O(l) \longrightarrow \text{Na}_2\text{CO}_3 \cdot 10H_2O_{(s)}$$
+
+$$\text{Sodium carbonate}$$
+
+#### Properties
+
+- It is a white crystalline solid.
+
+- Its solution in water is alkaline in nature (turns red litmus blue).
+
+- It has the property to remove dirt and grease from dirty clothes thus, it is called **washing soda**.
+
+#### Uses
+
+The uses of sodium carbonate are as follows
+
+- It is used in glass, soap and paper industries.
+
+- It is used for the manufacture of sodium compounds like borax.
+
+- It also removes permanent hardness of water.
+
+- It is used as a cleansing agent (detergent) in houses and laundries.
+
+### VI. Plaster of Paris
+
+**Chemical name:** Calcium sulphate hemihydrate
+
+**Chemical formula:** $\text{CaSO}_4 \cdot \frac{1}{2}H_2O$
+
+#### Preparation
+
+- It is obtained by heating gypsum $(\text{CaSO}_4 \cdot 2H_2O)$ at 373 K. At this temperature, gypsum loses water molecules and forms calcium sulphate hemihydrate (Plaster of Paris).
+
+- The reaction involved is as follows
+
+$$\text{CaSO}_4 \cdot 2H_2O \xrightarrow[\text{Heat}]{373 \text{ K}} \text{CaSO}_4 \cdot \frac{1}{2}H_2O + 1\frac{1}{2}H_2O$$
+
+$$\begin{matrix} \text{(Gypsum)} & & \text{(Plaster of Paris)} & \end{matrix}$$
+
+- Plaster of Paris is a white powder and on mixing with water, it changes to gypsum giving a hard solid mass.
+
+$$\text{CaSO}_4 \cdot \frac{1}{2}H_2O + 1\frac{1}{2}H_2O \longrightarrow \text{CaSO}_4 \cdot 2H_2O$$
+
+$$\begin{matrix} \text{(Plaster of Paris)} & & \text{(Gypsum)} \end{matrix}$$
+
+- When gypsum is heated above 400 K, dead burnt plaster (anhydrous $\text{CaSO}_4$) is obtained which does not have the property of hardening.
+
+---
+
+<style>
+.intro-box {
+  background-color: #e7f3ff;
+  border-left: 4px solid #2196F3;
+  padding: 15px;
+  margin: 20px 0;
+}
+
+.warning-box {
+  background-color: #fff3cd;
+  border-left: 4px solid #ffc107;
+  padding: 15px;
+  margin: 20px 0;
+}
+
+.try-these-box {
+  background-color: #f0f8ff;
+  border: 2px solid #4a90e2;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px 0;
+}
+</style>

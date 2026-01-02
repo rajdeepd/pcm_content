@@ -238,4 +238,245 @@ $$\frac{A'}{A} = \frac{\rho \frac{2l}{R}}{\rho \frac{l}{R}} \Rightarrow A' = 2A$
 
 ---
 
+#### Q.13 Two LED bulbs of 10 W and 5 W are connected in series. If the current flowing through 5 W bulb is 0.005 A, the current flowing through 10 W bulb is <span style="background-color: #FFF3E0; color: #E65100; padding: 2px 8px; border-radius: 3px; font-size: 0.7em; font-weight: 600;">CBSE 2023</span>
+
+(a) 0.02 A  
+(b) 0.01 A  
+(c) 0.005 A  
+(d) 0.0025 A
+
+**Sol.** (c) As we know, in series combination, current has same value. So, 10 W LED bulb has same current as in 5 W which is 0.005 A.
+
+---
+
+#### Q.14 The maximum resistance which can be made using four resistors, each of resistance $\frac{1}{2} \Omega$ is <span style="background-color: #FFF3E0; color: #E65100; padding: 2px 8px; border-radius: 3px; font-size: 0.7em; font-weight: 600;">CBSE 2020</span>
+
+(a) $2 \Omega$  
+(b) $1 \Omega$  
+(c) $2.5 \Omega$  
+(d) $8 \Omega$
+
+**Sol.** (a) Given, four resistors, each of resistance $(1/2) \Omega$
+
+As, we know, equivalent resistance in series,
+
+$$\begin{aligned}
+R_{eq_1} & = R_1 + R_2 + R_3 + R_4 \\
+& = \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} = 2 \Omega
+\end{aligned}$$
+
+and in parallel, 
+
+$$\frac{1}{R_{eq_2}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$= \frac{1}{\frac{1}{2}} + \frac{1}{\frac{1}{2}} + \frac{1}{\frac{1}{2}} + \frac{1}{\frac{1}{2}}$$
+
+$$\Rightarrow R_{eq_2} = \frac{1}{8} \text{ or } 0.125 \Omega$$
+
+Hence, maximum resistance is $2 \Omega$, when all four resistors are connected in series.
+
+---
+
+#### Q.15 In the given circuit the total resistance between X and Y is <span style="background-color: #FFF3E0; color: #E65100; padding: 2px 8px; border-radius: 3px; font-size: 0.7em; font-weight: 600;">CBSE 2024</span>
+
+(a) $12 \Omega$  
+(b) $4 \Omega$  
+(c) $6 \Omega$  
+(d) $1 \Omega$
+
+**Sol.** (d) $1 \Omega$
+
+Given circuit can be redrawn in a simple way.
+
+The above simple circuit consist of three resistors in parallel. So, equivalent resistance of three resistors is given by
+
+$$\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\begin{aligned}
+\frac{1}{R_{eq}} & = \frac{1}{2} + \frac{1}{3} + \frac{1}{6} \\
+& = \frac{3 + 2 + 1}{6} = \frac{6}{6} = 1 \\
+R_{eq} & = 1 \Omega
+\end{aligned}$$
+
+---
+
+#### Q.16 What is the maximum resistance which can be made using five resistors each of $(1/5) \Omega$? <span style="background-color: #F3E5F5; color: #7B1FA2; padding: 2px 8px; border-radius: 3px; font-size: 0.7em; font-weight: 600;">NCERT Exemplar</span>
+
+(a) $(1/5) \Omega$  
+(b) $10 \Omega$  
+(c) $5 \Omega$  
+(d) $1 \Omega$
+
+**Sol.** (d) The maximum resistance is obtained when resistors are connected in series combination. Thus, equivalent resistance, $R_s = n \times R = 5 \times \frac{1}{5} = 1 \Omega$
+
+where, $R_s =$ equivalent resistance for series combination.
+
+---
+
+#### Q.17 If four identical resistors, of resistance $8 \Omega$, are first connected in series so as to give an effective resistance $R_s$ and then connected in parallel so as to give an effective resistance $R_p$, then the ratio of $\frac{R_s}{R_p}$ is <span style="background-color: #FFF3E0; color: #E65100; padding: 2px 8px; border-radius: 3px; font-size: 0.7em; font-weight: 600;">CBSE 2023</span>
+
+(a) 32  
+(b) 2  
+(c) 0.5  
+(d) 16
+
+**Sol.** (d) Given, four identical resistance of resistors $= 8 \Omega$
+
+$$\begin{aligned}
+R_s & = 8 \Omega + 8 \Omega + 8 \Omega + 8 \Omega = 32 \Omega \\
+\frac{1}{R_p} & = \frac{1}{8} + \frac{1}{8} + \frac{1}{8} + \frac{1}{8} = \frac{1}{2} \Rightarrow R_p = 2 \Omega
+\end{aligned}$$
+
+So, $\frac{R_s}{R_p} = \frac{32}{2} = 16$
+
+---
+
+#### Q.18 The proper representation of series combination of cells obtaining maximum potential is <span style="background-color: #F3E5F5; color: #7B1FA2; padding: 2px 8px; border-radius: 3px; font-size: 0.7em; font-weight: 600;">NCERT Exemplar</span>
+
+(a) $-\mathrm{H}-\mathrm{H}-\mathrm{H}$  
+(b) $-||||| |$  
+(c) $-\mathrm{H}-\mathrm{H}-$  
+(d) $-|11| 11 |-$
+
+**Sol.** (a) In series combination of cells, the negative terminal of the first cell should be joined to the positive terminal of the second cell and the negative terminal of the second cell should be joined to the positive terminal of third cell and so on.
+
+---
+
+#### Q.19 The resistance of a resistor is reduced to half of its initial value. If other parameters of the electrical circuit remain unaltered, the amount of heat produced in the resistor will become
+
+(a) four times  
+(b) two times  
+(c) half  
+(d) one-fourth
+
+**Sol.** (b) Heat due to the resistor, $H = \frac{V^2 t}{R}$, where $V$ is the voltage and $R$ is the resistance.
+
+As we know, heat is inversely proportional to the resistance, so if the resistance is reduced to half, the heat will be increased two times.
+
+---
+
+#### Q.20 In an electrical circuit, two resistors of $2 \Omega$ and $4 \Omega$ are connected in series to a 6 V battery. Find the heat dissipated by the $4 \Omega$ resistor in 5 s. <span style="background-color: #F3E5F5; color: #7B1FA2; padding: 2px 8px; border-radius: 3px; font-size: 0.7em; font-weight: 600;">NCERT Exemplar</span>
+
+(a) 5 J  
+(b) 10 J  
+(c) 20 J  
+(d) 30 J
+
+**Sol.** (c) Given, $R_1 = 2 \Omega$, $R_2 = 4 \Omega$, $t = 5$ s, $V = 6$ V
+
+∴ Net resistance, $R = R_1 + R_2 = 2 \Omega + 4 \Omega = 6 \Omega$
+
+∴ Current, $I = \frac{V}{R} = \frac{6 \text{ V}}{6 \Omega} = 1$ A
+
+In series, same 1 A current passes through both resistors.
+
+∴ Heat dissipated, $H = I^2 R_2 \times t = (1)^2 \times 4 \times 5 = 20$ J
+
+---
+
+#### Q.21 In the following circuits, heat produced in the resistor or combination of resistors connected to a 12 V battery will be <span style="background-color: #F3E5F5; color: #7B1FA2; padding: 2px 8px; border-radius: 3px; font-size: 0.7em; font-weight: 600;">NCERT Exemplar</span>
+
+(a) same in all the cases  
+(b) maximum in Case (i)  
+(c) maximum in Case (ii)  
+(d) maximum in Case (iii)
+
+**Sol.** (d) In Case (i), $R = 2 \Omega$
+
+Case (ii), $R = 2 + 2 = 4 \Omega$
+
+Case (iii), $\frac{1}{R} = \frac{1}{2} + \frac{1}{2} = 1 \Rightarrow R = 1 \Omega$
+
+Since, $H = \frac{V^2}{R} \times t$
+
+As voltage in the three cases for equivalent resistance is same, so $H \propto \frac{1}{R}$. Hence, heat produced is maximum in Case (iii).
+
+---
+
+#### Q.22 100 J of heat is produced each second in a $4 \Omega$ resistance. The potential difference across the resistor is
+
+(a) 20 V  
+(b) 10 V  
+(c) 5 V  
+(d) 15 V
+
+**Sol.** (a) Given, heat, $H = 100$ J
+
+Resistance, $R = 4 \Omega$
+
+Time, $t = 1$ s
+
+We know that, $H = I^2 R t$
+
+$$I = \sqrt{\frac{H}{R t}} = \sqrt{\frac{100}{4 \times 1}} = 5 \text{ A}$$
+
+Potential difference across the resistor,
+
+$$V = I R = 5 \times 4 = 20 \text{ V}$$
+
+---
+
+#### Q.23 An electric kettle consumes 1 kW of electric power when operated at 220 V. The minimum rating of the fuse wire to be used for it is <span style="background-color: #FFF3E0; color: #E65100; padding: 2px 8px; border-radius: 3px; font-size: 0.7em; font-weight: 600;">CBSE 2023</span>
+
+(a) 1 A  
+(b) 2 A  
+(c) 4 A  
+(d) 5 A
+
+**Sol.** (d) Given, electric power $= 1$ kW $= 1000$ W
+
+Voltage, $V = 220$ V
+
+Power, $P = V \times I$
+
+or $1000 = 220 \times I$
+
+or $$\begin{aligned}
+I & = \frac{1000}{220} = 4.5 \text{ A} \\
+& \approx 5 \text{ A}
+\end{aligned}$$
+
+Hence, the minimum rating of fuse wire to be used for it will be 5 A.
+
+---
+
+#### Q.24 In domestic electric circuits, the wiring with 15 A current rating is for the electric devices which have <span style="background-color: #FFF3E0; color: #E65100; padding: 2px 8px; border-radius: 3px; font-size: 0.7em; font-weight: 600;">CBSE 2023</span>
+
+(a) higher power ratings such as geyser  
+(b) lower power ratings such as fan  
+(c) metallic bodies and low power ratings  
+(d) non-metallic bodies and low power ratings
+
+**Sol.** (a) 15 A current rating circuits are used for higher power consumption sources that have a high power rating. It includes an air conditioner, geysers, etc.
+
+---
+
+#### Q.25 If the current through a resistor is increased by 100% (assume that temperature remains unchanged), the increase in power dissipated will be <span style="background-color: #F3E5F5; color: #7B1FA2; padding: 2px 8px; border-radius: 3px; font-size: 0.7em; font-weight: 600;">NCERT Exemplar</span>
+
+(a) $100\%$  
+(b) $200\%$  
+(c) $300\%$  
+(d) $400\%$
+
+**Sol.** (c) Power,
+
+$$\begin{aligned}
+P & = I^2 R \\
+P_1 & = I^2 R \\
+P_2 & = (2I)^2 R = 4I^2 R
+\end{aligned}$$
+
+[$\therefore 100\%$ increase in current means that current becomes 2I]
+
+$$\begin{aligned}
+\therefore \text{ Increase in power dissipated } & = P_2 - P_1 \\
+& = 4I^2 R - I^2 R \\
+& = 3I^2 R \quad [\because I^2 R = P_1] \\
+& = 3P_1
+\end{aligned}$$
+
+Percentage increase in power dissipated $= \frac{3P_1}{P_1} \times 100 = 300\%$
+
+---
+
 

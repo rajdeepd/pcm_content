@@ -72,6 +72,18 @@ In this chapter, we will discuss about <b>electric current</b>, <b>electric pote
   <span class="section-number">📋</span> Review Exercise
 </a>
 
+<a href="12-assertion-reasoning.html" class="section-link">
+  <span class="section-number">🔍</span> Assertion-Reasoning Questions
+</a>
+
+<a href="13-case-study.html" class="section-link">
+  <span class="section-number">📚</span> Case Study Questions
+</a>
+
+<a href="14-constructed-response.html" class="section-link">
+  <span class="section-number">✍️</span> Constructed Response Questions
+</a>
+
 </div>
 </div>
 
