@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" font-family="Arial, sans-serif">
+    <defs>
+      <linearGradient id="darkBlueGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" style="stop-color:#0056b3;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#004494;stop-opacity:1" />
+      </linearGradient>
+      <linearGradient id="lightBlueGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" style="stop-color:#cce5ff;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#99ccff;stop-opacity:1" />
+      </linearGradient>
+      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+        <polygon points="0 0, 10 3.5, 0 7" fill="#0056b3" />
+      </marker>
+    </defs>
+  
+    <style>
+      .title-box { fill: url(#darkBlueGrad); rx: 15; ry: 15; stroke: #003366; stroke-width: 2; }
+      .content-box { fill: url(#lightBlueGrad); rx: 10; ry: 10; stroke: #0056b3; stroke-width: 2; }
+      .title-text { fill: white; font-weight: bold; font-size: 24px; text-anchor: middle; }
+      .content-text { fill: black; font-size: 18px; }
+      .arrow { stroke: #0056b3; stroke-width: 3; fill: none; marker-end: url(#arrowhead); }
+      .bullet { font-weight: bold; fill: #0056b3; }
+    </style>
+  
+    <rect x="50" y="50" width="300" height="150" class="title-box" />
+    <text x="100" y="130" class="title-text" style="text-anchor: start; font-size: 30px;">Magnet</text>
+    <rect x="160" y="70" width="30" height="100" fill="#333" rx="5" />
+    <path d="M250,70 C220,70 220,170 250,170 L280,170 C310,170 310,70 280,70 Z" fill="none" stroke="#333" stroke-width="30" />
+    <text x="175" y="160" fill="white" font-weight="bold">S</text><text x="175" y="90" fill="white" font-weight="bold">N</text>
+    <text x="235" y="160" fill="white" font-weight="bold">N</text><text x="295" y="160" fill="white" font-weight="bold">S</text>
+  
+  
+    <rect x="450" y="50" width="700" height="180" class="content-box" />
+    <text x="470" y="80" class="content-text">
+      <tspan x="470" dy="0"><tspan class="bullet">•</tspan> Two poles of opposite nature</tspan>
+      <tspan x="470" dy="30"><tspan class="bullet">•</tspan> Mono pole does not exist</tspan>
+      <tspan x="470" dy="30"><tspan class="bullet">•</tspan> Unlike pole attract</tspan>
+      <tspan x="470" dy="30"><tspan class="bullet">•</tspan> Like pole repel</tspan>
+      <tspan x="470" dy="30"><tspan class="bullet">•</tspan> North pole of freely suspended bar magnet aligns</tspan>
+      <tspan x="490" dy="25">itself towards geographic north pole of the earth</tspan>
+    </text>
+    <path d="M350,125 L450,125" class="arrow" />
+  
+    <rect x="50" y="250" width="300" height="280" class="content-box" />
+    <text x="70" y="280" class="content-text">
+      <tspan x="70" dy="0"><tspan class="bullet">•</tspan> Magnetic field line forms</tspan>
+      <tspan x="80" dy="25">close loop</tspan>
+      <tspan x="70" dy="30"><tspan class="bullet">•</tspan> Outside, the magnet field lines</tspan>
+      <tspan x="80" dy="25">are from north pole to south</tspan>
+      <tspan x="80" dy="25">pole and inside, the magnetic field lines</tspan>
+      <tspan x="80" dy="25">are from south pole to</tspan>
+      <tspan x="80" dy="25">north pole</tspan>
+      <tspan x="70" dy="30"><tspan class="bullet">•</tspan> Field lines never intersect</tspan>
+      <tspan x="70" dy="30"><tspan class="bullet">•</tspan> Denser the field line, greater</tspan>
+      <tspan x="80" dy="25">will be magnetic field</tspan>
+    </text>
+    <path d="M200,200 L200,250" class="arrow" />
+  
+    <rect x="400" y="280" width="350" height="150" class="content-box" />
+    <text x="420" y="310" class="content-text">
+      <tspan x="420" dy="0"><tspan class="bullet">•</tspan> Which is attracted by a magnet</tspan>
+      <tspan x="440" dy="25">called magnetic material.</tspan>
+      <tspan x="420" dy="30"><tspan class="bullet">•</tspan> Which is not attracted by magnet</tspan>
+      <tspan x="440" dy="25">called non-magnetic material</tspan>
+    </text>
+    <path d="M350,390 L400,390" class="arrow" />
+  
+    <rect x="800" y="280" width="350" height="180" class="title-box" />
+    <text x="975" y="320" class="title-text">Magnetic Material</text>
+    <g transform="translate(850, 350)">
+        <circle cx="30" cy="30" r="20" fill="#555" />
+        <rect x="70" y="10" width="40" height="40" fill="#777" />
+        <polygon points="150,10 180,60 120,60" fill="#999" />
+        <circle cx="220" cy="30" r="15" fill="#555" />
+        <rect x="250" y="15" width="30" height="30" fill="#777" />
+    </g>
+    <path d="M750,355 L800,355" class="arrow" />
+  
+    <rect x="50" y="580" width="320" height="180" class="content-box" />
+    <text x="110" y="610" class="content-text" font-weight="bold" style="text-anchor: middle; font-size: 20px;">Ferromagnetic</text>
+    <text x="70" y="640" class="content-text">
+      <tspan x="70" dy="0"><tspan class="bullet">•</tspan> When placed in magnetic field</tspan>
+      <tspan x="90" dy="25">get strongly magnetise in the</tspan>
+      <tspan x="90" dy="25">direction of magnetising field</tspan>
+      <tspan x="70" dy="30"><tspan class="bullet">•</tspan> Magnetic field increases</tspan>
+    </text>
+    <path d="M450,430 L450,500 L210,500 L210,580" class="arrow" fill="none" />
+  
+  
+    <rect x="400" y="500" width="320" height="180" class="content-box" />
+    <text x="560" y="530" class="content-text" font-weight="bold" style="text-anchor: middle; font-size: 20px;">Diamagnetic</text>
+    <text x="420" y="560" class="content-text">
+      <tspan x="420" dy="0">When placed in a magnetising</tspan>
+      <tspan x="420" dy="25">field get feebly (weakly)</tspan>
+      <tspan x="420" dy="25">magnetised in a direction</tspan>
+      <tspan x="420" dy="25">opposite to the magnetising</tspan>
+      <tspan x="420" dy="25">field.</tspan>
+    </text>
+    <path d="M575,430 L575,500" class="arrow" />
+  
+    <rect x="800" y="500" width="320" height="180" class="content-box" />
+    <text x="960" y="530" class="content-text" font-weight="bold" style="text-anchor: middle; font-size: 20px;">Paramagnetic</text>
+    <text x="820" y="560" class="content-text">
+      <tspan x="820" dy="0">When placed in a magnetising</tspan>
+      <tspan x="820" dy="25">field get feebly magnetised</tspan>
+      <tspan x="820" dy="25">in the direction of magnetising</tspan>
+      <tspan x="820" dy="25">field</tspan>
+    </text>
+    <path d="M700,430 L700,500 L960,500" class="arrow" fill="none" />
+  
+  
+    <rect x="450" y="800" width="300" height="250" class="title-box" />
+    <text x="600" y="840" class="title-text">Earth Magnetic Field</text>
+    <g transform="translate(600, 950)">
+      <circle cx="0" cy="0" r="80" fill="#003366" stroke="#66ccff" stroke-width="2"/>
+      <ellipse cx="0" cy="0" rx="80" ry="20" fill="none" stroke="#66ccff" stroke-width="1" opacity="0.5"/>
+      <ellipse cx="0" cy="0" rx="20" ry="80" fill="none" stroke="#66ccff" stroke-width="1" opacity="0.5"/>
+      <line x1="0" y1="-100" x2="0" y2="100" stroke="#ffffff" stroke-width="2" stroke-dasharray="5,5" transform="rotate(11.3)"/>
+      <path d="M0,-80 Q50,-50 0,80" stroke="#66ccff" fill="none" stroke-width="2"/>
+      <path d="M0,-80 Q-50,-50 0,80" stroke="#66ccff" fill="none" stroke-width="2"/>
+    </g>
+    <path d="M960,680 L960,750 L600,750 L600,800" class="arrow" fill="none" />
+  
+    <rect x="50" y="900" width="350" height="100" class="content-box" />
+    <text x="70" y="930" class="content-text">
+      <tspan x="70" dy="0">Cause of earth magnetic field is movement of molten</tspan>
+      <tspan x="70" dy="25">state of metal called <tspan font-weight="bold">dynamo effect</tspan></tspan>
+    </text>
+    <path d="M450,925 L400,925" class="arrow" />
+  
+    <rect x="850" y="750" width="300" height="120" class="content-box" />
+    <text x="870" y="780" class="content-text">
+      <tspan x="870" dy="0">Earth's magnetic lines of force</tspan>
+      <tspan x="870" dy="25">emerge out from magnetic</tspan>
+      <tspan x="870" dy="25">North pole and terminates on</tspan>
+      <tspan x="870" dy="25">magnetic south pole</tspan>
+    </text>
+    <path d="M750,850 L850,850" class="arrow" />
+  
+    <rect x="850" y="950" width="300" height="100" class="content-box" />
+    <text x="870" y="980" class="content-text">
+      <tspan x="870" dy="0">Magnetic axis of <tspan font-weight="bold">earth</tspan> is inclined</tspan>
+      <tspan x="870" dy="25">at 11.3 with the geographic axis</tspan>
+    </text>
+    <path d="M750,975 L850,975" class="arrow" />
+  
+  </svg>

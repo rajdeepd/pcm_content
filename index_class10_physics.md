@@ -36,11 +36,22 @@ parent: Class 10
 
 ### Magnetic Effects of Current
 
-* [1.1.1 - Theory](class10/cengage_physics/magentic_effects_of_current/1.1.1-theory-summary.md-theory.html)
-* [1.1.11 - Electric Generators](class10/cengage_physics/magentic_effects_of_current/1.1.11-electricgenerators.html)
-* [1.2 - Section A - Very Short Answers](class10/cengage_physics/magentic_effects_of_current/1.2-sectionA-very-short-answers.html)
-* [1.3 - Section A - Short Answers](class10/cengage_physics/magentic_effects_of_current/1.3-sectionA-short-answers.html)
-* [1.4 - Section A - Long Answers](class10/cengage_physics/magentic_effects_of_current/1.4-sectionA-long-answers.html)
+* [01. Magnet and Magnetism](class10/cengage_physics/04-magentic_effects_of_current/01-magnet-and-magnetism.html)
+* [02. Magnetic Field](class10/cengage_physics/04-magentic_effects_of_current/02-magnetic-field.html)
+* [03. Magnetic Field Lines](class10/cengage_physics/04-magentic_effects_of_current/03-magnetic-field-lines.html)
+* [04. Classification of Magnetic Materials](class10/cengage_physics/04-magentic_effects_of_current/04-classification-of-magnetic-materials.html)
+* [05. Earth's Magnetic Field](class10/cengage_physics/04-magentic_effects_of_current/05-earths-magnetic-field.html)
+* [06. Magnetic Effect of Current](class10/cengage_physics/04-magentic_effects_of_current/06-magnetic-effect-of-current.html)
+* [07. Force on a Moving Charge in a Magnetic Field](class10/cengage_physics/04-magentic_effects_of_current/07-force-on-moving-charge.html)
+* [08. Force on a Current Carrying Conductor](class10/cengage_physics/04-magentic_effects_of_current/08-force-on-current-carrying-conductor.html)
+* [09. Electric Motor](class10/cengage_physics/04-magentic_effects_of_current/09-electric-motor.html)
+* [10. Electromagnetic Induction](class10/cengage_physics/04-magentic_effects_of_current/10-electromagnetic-induction.html)
+* [11. Electric Generator](class10/cengage_physics/04-magentic_effects_of_current/11-electric-generator.html)
+* [12. Transformer](class10/cengage_physics/04-magentic_effects_of_current/12-transformer.html)
+* [13. Household Electric Circuit](class10/cengage_physics/04-magentic_effects_of_current/13-household-electric-circuit.html)
+* [Concept Application Exercise 1](class10/cengage_physics/04-magentic_effects_of_current/concept-application-exercise-1.html)
+* [Concept Application Exercise 2](class10/cengage_physics/04-magentic_effects_of_current/concept-application-exercise-2.html)
+* [Concept Application Exercise 3](class10/cengage_physics/04-magentic_effects_of_current/concept-application-exercise-3.html)
 
 ---
 

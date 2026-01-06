@@ -1,0 +1,35 @@
+---
+layout: default
+title: 10. Electromagnetic Induction
+nav_order: 10
+description: ""
+parent: Cengage Magnetism
+grand_parent: Class 10 Physics
+tags: [MathJax, Mathematic]
+mathjax: true
+---
+
+# 10. Electromagnetic Induction
+
+## Fleming's Right-Hand Rule
+
+Fleming's right-hand rule gives the direction of the induced current when a section of conducting loop passes through a magnetic field perpendicular to it.
+
+**Fleming's Right-Hand Rule**: If the forefinger, second finger and thumb of the right hand are stretched at right angles to each other, with the forefinger in the direction of the field and the thumb in the direction of the motion of the wire, then the induced current in the wire is in the direction of the second finger.
+
+<img src="./images/c-magnetim-fleming-right-hand-rule.png" width="100%" align="center">
+
+## Lenz's Law
+
+Lenz's law was given by Russian physicist Heinrich Lenz in 1834. Lenz's law states that the direction of the induced current is such that it opposes the cause that produces it. It implies it opposes the change in magnetic flux that causes it.
+
+<img src="https://www.ucarecdn.com/6ee609bc-4eaf-4f22-a0bf-f7b53e847d4a/-/preview/" width="100%" align="center">
+
+<img src="./images/c-magentism-lenzlaw-fig1.png" width="100%" align="center">
+
+<img src="./images/c-magentism-lenzlaw-fig2.png" width="100%" align="center">
+
+**Example**: When the north pole of a magnet moves towards the loop, a current is induced in the loop such that it opposes the motion, i.e., the current is induced in an anti-clockwise direction (as seen from the side of the magnet). When the north pole of the magnet is moved away from the loop, a current is induced in the loop in such a way that it opposes the motion, i.e., attracts the magnet towards it. The current is induced in a clockwise direction in the coil (as seen from the magnet).
+
+When a conducting loop is subjected to an increasing or decreasing magnetic field $B$, the current induced in the loop has a direction such that the current's magnetic field opposes the change in the magnetic field of the external source.
+
