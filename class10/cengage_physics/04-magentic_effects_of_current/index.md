@@ -25,6 +25,7 @@ grand_parent: Class 10
 - [11. Electric Generator](11-electric-generator.html)
 - [12. Transformer](12-transformer.html)
 - [13. Household Electric Circuit](13-household-electric-circuit.html)
+- [14. Section A - NCERT Corner](sectionA-ncert-corner.html)
 
 ## Exercises
 
@@ -34,3 +35,13 @@ grand_parent: Class 10
 - [Concept Application Exercise 2 - Solutions](concept-application-exercise-2-solutions.html)
 - [Concept Application Exercise 3](concept-application-exercise-3.html)
 - [Concept Application Exercise 3 - Solutions](concept-application-exercise-3-solutions.html)
+
+## NCERT Corner
+
+- [Section A - NCERT Corner](sectionA-ncert-corner.html)
+- [Section A - NCERT Corner - Solutions](sectionA-ncert-corner-solutions.html)
+
+## Board Previous Year Questions
+
+- [Section B - Board PYQ](sectionB-board-pyq.html)
+- [Section B - Board PYQ - Solutions](sectionB-board-pyq-solutions.html)
