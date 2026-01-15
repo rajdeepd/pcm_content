@@ -1,0 +1,575 @@
+---
+layout: default
+title: Long Answer Type Questions
+nav_order: 3
+description: ""
+parent: Exercises
+grand_parent: Metals and Non-metals
+tags: [MathJax, Mathematic]
+mathjax: true
+---
+
+### Long Answer Type Questions
+
+#### Question Index
+
+- [Question 21](#question-21): Non-metal identification and valence electrons | [Answer ↓](#answer-21)
+- [Question 22](#question-22): Explain various chemical phenomena
+- [Question 23](#question-23): Metal reactivity with water | [Answer ↓](#answer-23)
+- [Question 24](#question-24): Element identification with golden flame | [Answer ↓](#answer-24)
+- [Question 25](#question-25): Methods for concentration of ores | [Answer ↓](#answer-25)
+- [Question 26](#question-26): Mercury extraction, thermite reactions, and highly reactive metals | [Answer ↓](#answer-26)
+- [Question 27](#question-27): Copper extraction and electrolytic refining | [Answer ↓](#answer-27)
+- [Question 28](#question-28): Metal extraction from sulphide ores | [Answer ↓](#answer-28)
+- [Question 29](#question-29): Copper extraction reactions and electrolytic refining diagram | [Answer ↓](#answer-29)
+- [Question 30](#question-30): Ore identification and metal extraction steps | [Answer ↓](#answer-30)
+- [Question 31](#question-31): Detective case - goldsmith's solution mystery | [Answer ↓](#answer-31)
+- [Question 32](#question-32): Reasoning questions about metal properties | [Answer ↓](#answer-32)
+
+
+---
+
+**<a id="question-21"></a>21.** A non-metal $A$, which is the largest constituent of air, when heated with $\mathrm{H}_2$ in a $1:3$ ratio in the presence of a catalyst (Fe), gives a gas $B$. On heating with $\mathrm{O}_2$, it gives an oxide $C$. If this oxide is passed into water in the presence of air, it gives an acid $D$, which acts as a strong oxidizing agent.
+
+- **(a)** Identify $A$, $B$, $C$ and $D$.
+- **(b)** What is the number of valence electrons present in this non-metal?
+
+---
+
+**<a id="question-22"></a>22. Explain the following:**
+
+- (a) The reactivity of Al decreases if it is dipped in...
+- (b) Carbon cannot reduce the oxides of Na or Mg.
+- (c) NaCl is not a conductor of electricity in solid state, whereas it does conduct electricity in an aqueous solution as well as in a molten state.
+- (d) Iron articles are galvanized.
+- (e) Metals like $\mathrm{Na}, \mathrm{K}, \mathrm{Ca}$, and Mg are never found in their free state in nature.
+
+---
+
+**<a id="question-23"></a>23.** Of the three metals ($X$, $Y$ and $Z$), $X$ reacts with cold water, $Y$ with hot water and $Z$ with steam only. Identify $X$, $Y$ and $Z$ and arrange them in order of increasing reactivity.
+
+---
+
+**<a id="question-24"></a>24.** An element $A$ burns with golden flame in the air. It reacts with another element $B$ (atomic number 17) to give a product $C$. An aqueous solution of product $C$ on electrolysis gives compound $D$ and liberates hydrogen. Identify $A$, $B$, $C$, and $D$. Also, write down the equations for the reactions involved.
+
+---
+
+**<a id="question-25"></a>25.** Describe two methods for the concentration of ores.
+
+---
+
+**<a id="question-26"></a>26.**
+
+- (a) Name the main ore of mercury. How is mercury obtained from its ore? Give the balanced chemical equations.
+- (b) What are thermite reactions? How is it used to join the railway tracks or cracked machine parts?
+- (c) Name the method used to extract metals with high reactivity.
+
+---
+
+**<a id="question-27"></a>27.**
+
+- (i) How does copper get extracted from its sulphide ore? Write balanced chemical equations.
+- (ii) How does electrolytic refining purify impure copper?
+
+---
+
+**<a id="question-28"></a>28.** Give the steps involved in the extraction of metals of low and medium reactivity from their respective sulphide ores.
+
+---
+
+**<a id="question-29"></a>29.** (i) Given below are the steps for extraction of copper from its ore. Write the chemical reactions involved.
+
+- (a) Roasting of copper(I) sulphide
+- (b) Reduction of copper(I) oxide with copper
+- (c) Electrolytic refining
+
+(ii) Draw a neat and well labelled diagram for electrolytic refining of copper
+
+---
+
+**<a id="question-30"></a>30.** Two ores $A$ and $B$ were taken. On heating ore $A$ gives $\mathrm{CO}_2$ whereas, ore $B$ gives $\mathrm{SO}_2$. What steps will you take to convert them into metals?
+
+---
+
+**<a id="question-31"></a>31.** A man went door to door posing as a goldsmith. He promised to bring back the glitter of old and dull gold ornaments. An unsuspecting lady gave a set of gold bangles to him which he dipped in a particular solution. The bangles sparkled like new, but their weight was reduced drastically. The lady was upset but after a futile argument the man beat a hasty retreat. Can you play the detective to find out the nature of the solution he had used?
+
+---
+
+**<a id="question-32"></a>32.** Give reasons
+
+- (a) Platinum, gold and silver are used to make jewellery.
+- (b) Sodium, potassium and lithium are stored under oil.
+- (c) Aluminium is a highly reactive metal, yet it is used to make utensils for cooking.
+- (d) Carbonate and sulphide ores are usually converted into oxides during the process of extraction.
+## Answers
+
+### Answer Index
+
+- [Answer 21](#answer-21): Non-metal identification and valence electrons | [Question ↑](#question-21)
+- [Answer 23](#answer-23): Metal reactivity with water | [Question ↑](#question-23)
+- [Answer 24](#answer-24): Element identification with golden flame | [Question ↑](#question-24)
+- [Answer 25](#answer-25): Methods for concentration of ores | [Question ↑](#question-25)
+- [Answer 26](#answer-26): Mercury extraction, thermite reactions, and highly reactive metals | [Question ↑](#question-26)
+- [Answer 27](#answer-27): Copper extraction and electrolytic refining | [Question ↑](#question-27)
+- [Answer 28](#answer-28): Metal extraction from sulphide ores | [Question ↑](#question-28)
+- [Answer 29](#answer-29): Copper extraction reactions and electrolytic refining diagram | [Question ↑](#question-29)
+- [Answer 30](#answer-30): Ore identification and metal extraction steps | [Question ↑](#question-30)
+- [Answer 31](#answer-31): Detective case - goldsmith's solution mystery | [Question ↑](#question-31)
+- [Answer 32](#answer-32): Reasoning questions about metal properties | [Question ↑](#question-32)
+
+---
+
+**<a id="answer-21"></a>21.** 
+
+A non-metal $A$, which is the largest constituent of air, when heated with $\mathrm{H}_2$ in a $1:3$ ratio in the presence of a catalyst (Fe), gives a gas $B$. On heating with $\mathrm{O}_2$, it gives an oxide $C$. If this oxide is passed into water in the presence of air, it gives an acid $D$, which acts as a strong oxidizing agent.
+
+- **(a)** Identify $A$, $B$, $C$ and $D$.
+- **(b)** What is the number of valence electrons present in this non-metal?
+
+**Answer:**
+
+**(a) Identification:**
+
+- $A = \mathrm{N}_2$ (Nitrogen) - largest constituent of air (78%)
+- $B = \mathrm{NH}_3$ (Ammonia) - formed by Haber process
+- $C = \mathrm{NO}_2$ (Nitrogen dioxide) - oxide formed when nitrogen burns in oxygen
+- $D = \mathrm{HNO}_3$ (Nitric acid) - strong oxidizing agent
+
+**Chemical Equations:**
+
+(i) Formation of gas B (Haber process):
+$$\mathrm{N}_2(\mathrm{g}) + 3\mathrm{H}_2(\mathrm{g}) \xrightarrow{\mathrm{Fe}, \, 450°C} 2\mathrm{NH}_3(\mathrm{g})$$
+
+(ii) Formation of oxide C:
+$$\mathrm{N}_2(\mathrm{g}) + \mathrm{O}_2(\mathrm{g}) \xrightarrow{\text{High temp}} 2\mathrm{NO}(\mathrm{g})$$
+$$2\mathrm{NO}(\mathrm{g}) + \mathrm{O}_2(\mathrm{g}) \rightarrow 2\mathrm{NO}_2(\mathrm{g})$$
+
+(iii) Formation of acid D:
+$$3\mathrm{NO}_2(\mathrm{g}) + \mathrm{H}_2\mathrm{O}(\mathrm{l}) \rightarrow 2\mathrm{HNO}_3(\mathrm{aq}) + \mathrm{NO}(\mathrm{g})$$
+
+**(b) Valence electrons:** 
+Nitrogen has **5 valence electrons** (electronic configuration: 2, 5)
+
+**<a id="answer-23"></a>23.** Of the three metals ($X$, $Y$ and $Z$), $X$ reacts with cold water, $Y$ with hot water and $Z$ with steam only. Identify $X$, $Y$ and $Z$ and arrange them in order of increasing reactivity.
+
+**Answer**
+X = Na, K
+Y = Ca, Mg
+Z = Zn or Fe
+
+---
+
+**<a id="answer-24"></a>24.** An element $A$ burns with golden flame in the air. It reacts with another element $B$ (atomic number 17) to give a product $C$. An aqueous solution of product $C$ on electrolysis gives compound $D$ and liberates hydrogen. Identify $A$, $B$, $C$, and $D$. Also, write down the equations for the reactions involved.
+
+**Answer**
+$Na + Cl \rightarrow NaCl \newline$
+$NaCl + H_2O \rightarrow NaOH + H_2O $ 
+
+A = $Na$,
+B = $Cl_2$,
+C = $NaCl$,
+D = $NaOH$
+
+---
+**<a id="answer-25"></a>25.** Describe two methods for the concentration of ores.
+
+**Answers**
+
+**Froth Flotation**
+
+- Principle: Exploits differences in the surface properties (wettability) of the ore and gangue.
+- Process: Finely powdered ore is mixed with water and oil (frother). Air is blown through the mixture, causing the valuable mineral particles (which prefer oil) to stick to air bubbles and form a froth, floating to the top, while the lighter gangue sinks.
+- Used For: Sulfide ores (e.g., copper, zinc, lead).
+
+**Magnetic Separation**
+- Principle: Uses differences in magnetic properties between the ore and gangue.
+- Process: Ground ore is passed over a conveyor belt with a magnetic roller. Magnetic minerals are attracted to the roller and fall off at a different point than the nonmagnetic gangue.
+- Used For: Ores like magnetite, hematite (iron ore), chromite, and manganese ores.
+
+**Other Methods**
+
+- Gravity Separation/Hydraulic Washing: Separates based on density differences, using water streams to wash away lighter gangue.
+- Leaching: Uses chemical solvents to dissolve the metal from the ore into a solution, separating it from impurities.
+
+---
+**<a id="answer-26"></a>26.**
+
+(a) Name the main ore of mercury. How is mercury obtained from its ore? Give the balanced chemical equations.
+
+(b) What are thermite reactions? How is it used to join the railway tracks or cracked machine parts?
+
+(c) Name the method used to extract metals with high reactivity.
+
+**Answer**
+
+(a) 
+
+The main ore of mercury is Cinnabar (HgS), and it's obtained by heating it in air (roasting) to form mercury oxide, which then decomposes into liquid mercury and oxygen upon further heating, with balanced equations: $2 \mathrm{HgS}+3 \mathrm{O}_2 \rightarrow 2 \mathrm{HgO}+2 \mathrm{SO}_2$ (roasting) and $2 \mathrm{HgO} \rightarrow 2 \mathrm{Hg}+\mathrm{O}_2$ (decomposition).
+
+**Extraction Process**
+
+1. **Roasting:** Cinnabar (HgS) is heated in the presence of excess oxygen (air) in a furnace, converting it to mercury(II) oxide (HgO) and sulfur dioxide (SO2).
+   - Equation: $2 \mathrm{HgS}(s)+3 \mathrm{O}_2(g) \rightarrow 2 \mathrm{HgO}(s)+2 \mathrm{SO}_2(g)$
+
+2. **Decomposition:** The resulting mercury $(\mathrm{II})$ oxide $(\mathrm{HgO})$ is then heated to about $300^{\circ} \mathrm{C}$, causing it to decompose into liquid mercury (Hg) and oxygen (O2).
+   - Equation: $2 \mathrm{HgO}(s) \rightarrow 2 \mathrm{Hg}(l)+\mathrm{O}_2(g)$
+
+3. **Condensation:** The mercury vapor produced is collected and condensed into liquid mercury, often using water-cooled condensers.
+
+(b) **Thermite Reactions:**
+
+**Definition:** Thermite is a pyrotechnic composition of metal powder and metal oxide. The reaction is also called the **Goldschmidt process**.
+
+**Mechanism:**
+
+- The thermite reaction is an **exothermic reduction-oxidation reaction** between a metal and metal oxide
+- When ignited by heat, it creates brief bursts of extreme heat and high temperature in a small area
+- **Common fuels:** Aluminium, magnesium, titanium, zinc, silicon, and boron
+- **Aluminium** is most common due to its high boiling point and low cost
+- Aluminium acts as a **reducing agent** with metal oxides (commonly iron oxide/rust)
+
+**Chemical Equation:**
+$$\mathrm{Fe}_2\mathrm{O}_3(\mathrm{s}) + 2\mathrm{Al}(\mathrm{s}) \rightarrow 2\mathrm{Fe}(\mathrm{l}) + \mathrm{Al}_2\mathrm{O}_3(\mathrm{s}) + \text{Heat}$$
+
+**Applications:**
+
+- **Thermite welding** - joining railway tracks and cracked machine parts
+- Metal refining and purification
+- Industrial welding applications
+- The extreme heat melts the iron produced, allowing it to fuse materials
+
+**Historical Note:**
+First commercial application was welding tram tracks in Essen (1899). Types include iron thermite, copper thermite, and thermates.
+
+> **_NOTE:_** The thermite reaction was discovered in 1893 and patented in 1895 by German chemist **Hans Goldschmidt**. He originally sought to produce pure metals without carbon but discovered its welding applications.
+
+---
+
+(c) **Method for Extracting Highly Reactive Metals:**
+
+**Answer: Electrolytic Reduction**
+
+**Principle:**
+
+- Metals high up in the reactivity series (Na, Mg, Ca, Al) are **very reactive**
+- They **cannot be obtained** from their compounds by heating with carbon
+- **Reason:** These metals have **greater affinity for oxygen** than carbon
+- Carbon reduction is ineffective for these highly reactive metals
+
+**Method - Electrolytic Reduction:**
+
+**Process:**
+1. **Electrolysis of molten salts** (usually chlorides or oxides)
+2. **Cathode (negative electrode):** Metal ions gain electrons → Pure metal deposited
+3. **Anode (positive electrode):** Non-metal ions lose electrons → Gas liberated
+
+**Examples:**
+
+**Sodium, Magnesium, Calcium extraction:**
+- **Process:** Electrolysis of molten chlorides
+- **Cathode reaction:** $\mathrm{Na^{+}} + \mathrm{e^{-}} \rightarrow \mathrm{Na}$
+- **Anode reaction:** $2\mathrm{Cl^{-}} \rightarrow \mathrm{Cl_2} + 2\mathrm{e^{-}}$
+
+**Aluminium extraction:**
+- **Process:** Electrolytic reduction of aluminium oxide (Hall-Héroult process)
+- **Method:** Electrolysis of molten Al₂O₃ dissolved in cryolite
+
+**Key Point:** Electrolytic reduction is the **only practical method** for extracting metals above carbon in the reactivity series.
+
+---
+
+**<a id="answer-27"></a>27.**
+
+**(i) How does copper get extracted from its sulphide ore? Write balanced chemical equations.**
+**(ii) How does electrolytic refining purify impure copper?**
+
+**Answer:**
+
+**(i) Extraction of Copper from Sulphide Ore:**
+
+**Ore Used:** Copper pyrite (CuFeS₂) or Chalcopyrite
+
+**Process Steps:**
+
+**1. Concentration of Ore:**
+- **Froth flotation method** is used to separate the ore from gangue
+- The ore particles stick to oil bubbles and float to the surface
+
+**2. Roasting:**
+- The concentrated ore is heated in the presence of excess air (oxygen)
+- Sulphur is removed as SO₂ gas
+- **Equation:** $2\mathrm{CuFeS}_2(\mathrm{s}) + \mathrm{O}_2(\mathrm{g}) \rightarrow \mathrm{Cu}_2\mathrm{S}(\mathrm{s}) + 2\mathrm{FeS}(\mathrm{s}) + \mathrm{SO}_2(\mathrm{g})$
+
+**3. Smelting (Reduction):**
+- The roasted ore is mixed with coke and silica, then heated in a blast furnace
+- Iron sulphide is converted to iron oxide and removed as slag
+- **Equations:**
+  - $2\mathrm{FeS}(\mathrm{s}) + 3\mathrm{O}_2(\mathrm{g}) \rightarrow 2\mathrm{FeO}(\mathrm{s}) + 2\mathrm{SO}_2(\mathrm{g})$
+  - $\mathrm{FeO}(\mathrm{s}) + \mathrm{SiO}_2(\mathrm{s}) \rightarrow \mathrm{FeSiO}_3(\mathrm{l})$ (slag)
+
+**4. Bessemerization (Final Reduction):**
+- Cu₂S is reduced to metallic copper by blowing air through molten matte
+- **Equations:**
+  - $\mathrm{Cu}_2\mathrm{S}(\mathrm{l}) + \mathrm{O}_2(\mathrm{g}) \rightarrow 2\mathrm{Cu}(\mathrm{l}) + \mathrm{SO}_2(\mathrm{g})$
+  - $2\mathrm{Cu}_2\mathrm{S}(\mathrm{l}) + 3\mathrm{O}_2(\mathrm{g}) \rightarrow 2\mathrm{Cu}_2\mathrm{O}(\mathrm{s}) + 2\mathrm{SO}_2(\mathrm{g})$
+  - $\mathrm{Cu}_2\mathrm{S}(\mathrm{l}) + 2\mathrm{Cu}_2\mathrm{O}(\mathrm{s}) \rightarrow 6\mathrm{Cu}(\mathrm{l}) + \mathrm{SO}_2(\mathrm{g})$
+
+**(ii) Electrolytic Refining of Copper:**
+
+**Principle:** Impure copper is purified using electrolysis
+
+**Setup:**
+- **Anode:** Impure copper (to be purified)
+- **Cathode:** Pure copper strip (thin sheet)
+- **Electrolyte:** Copper sulphate solution (CuSO₄) + dilute sulphuric acid (H₂SO₄)
+
+**Process:**
+1. **At Anode (Oxidation):**
+   - Copper from impure anode dissolves as Cu²⁺ ions
+   - **Reaction:** $\mathrm{Cu}(\mathrm{s}) \rightarrow \mathrm{Cu}^{2+}(\mathrm{aq}) + 2\mathrm{e}^{-}$
+   - Impurities either dissolve or settle as anode mud
+
+2. **At Cathode (Reduction):**
+   - Cu²⁺ ions from solution get deposited as pure copper
+   - **Reaction:** $\mathrm{Cu}^{2+}(\mathrm{aq}) + 2\mathrm{e}^{-} \rightarrow \mathrm{Cu}(\mathrm{s})$
+
+**Advantages:**
+- **High Purity:** Produces 99.9% pure copper
+- **Recovery of Valuable Metals:** Precious metals like silver, gold settle as anode mud
+- **Economical:** Cost-effective purification method
+
+**Applications:** Purified copper is used in electrical wiring, cables, and electronic components.
+
+---
+
+**<a id="answer-28"></a>28.** Give the steps involved in the extraction of metals of low and medium reactivity from their respective sulphide ores.
+
+**Answer:**
+
+**Metals of Low and Medium Reactivity:** These include metals like copper (Cu), zinc (Zn), lead (Pb), iron (Fe), etc. They are found in the middle of the reactivity series and can be extracted from their sulphide ores through a systematic process.
+
+**General Steps for Extraction from Sulphide Ores:**
+
+**Step 1: Crushing and Grinding**
+- **Purpose:** Break down the ore into smaller particles to increase surface area
+- **Process:** Large chunks of ore are crushed in jaw crushers and then ground in ball mills
+- **Result:** Fine powder that increases efficiency of subsequent processes
+
+**Step 2: Concentration of Ore**
+- **Purpose:** Separate valuable minerals from gangue (unwanted material)
+- **Common Methods:**
+  - **Froth Flotation:** Most widely used for sulphide ores
+  - **Magnetic Separation:** For magnetic materials
+  - **Gravity Separation:** Based on density differences
+- **Process:** Ore particles are made to stick to oil bubbles and float, while gangue sinks
+- **Result:** Concentrated ore with higher metal content
+
+**Step 3: Roasting**
+- **Purpose:** Convert sulphide ore to oxide and remove sulphur
+- **Process:** Heated strongly in presence of excess air (oxygen)
+- **Temperature:** 800-900°C
+- **General Reaction:** $2\mathrm{MS}(\mathrm{s}) + 3\mathrm{O}_2(\mathrm{g}) \rightarrow 2\mathrm{MO}(\mathrm{s}) + 2\mathrm{SO}_2(\mathrm{g})$
+- **Examples:**
+  - $2\mathrm{ZnS} + 3\mathrm{O}_2 \rightarrow 2\mathrm{ZnO} + 2\mathrm{SO}_2$
+  - $2\mathrm{PbS} + 3\mathrm{O}_2 \rightarrow 2\mathrm{PbO} + 2\mathrm{SO}_2$
+
+**Step 4: Smelting/Reduction**
+- **Purpose:** Reduce metal oxide to free metal
+- **Reducing Agent:** Carbon (coke), carbon monoxide, or other metals
+- **Process:** Roasted ore is mixed with coke and flux, then heated in blast furnace
+- **Temperature:** 1200-1500°C
+- **General Reactions:**
+  - $\mathrm{MO} + \mathrm{C} \rightarrow \mathrm{M} + \mathrm{CO}$
+  - $\mathrm{MO} + \mathrm{CO} \rightarrow \mathrm{M} + \mathrm{CO}_2$
+- **Examples:**
+  - $\mathrm{ZnO} + \mathrm{C} \rightarrow \mathrm{Zn} + \mathrm{CO}$
+  - $\mathrm{PbO} + \mathrm{C} \rightarrow \mathrm{Pb} + \mathrm{CO}$
+
+**Step 5: Refining**
+- **Purpose:** Purify the extracted metal
+- **Methods:**
+  - **Electrolytic Refining:** For copper, zinc (high purity)
+  - **Distillation:** For zinc, mercury
+  - **Oxidative Refining:** For lead
+  - **Zone Refining:** For very high purity requirements
+- **Result:** Pure metal suitable for commercial use
+
+**Key Points:**
+- **Flux Addition:** Silica (SiO₂) or limestone (CaCO₃) added to remove impurities as slag
+- **Environmental Concern:** SO₂ gas produced is captured to prevent pollution
+- **Energy Intensive:** High temperatures required make the process energy-consuming
+- **Economic Viability:** Only ores with sufficient metal content are processed
+
+**Summary Flow:**
+**Raw Ore → Crushing → Concentration → Roasting → Reduction → Refining → Pure Metal**
+
+
+**<a id="answer-29"></a>29.** (i) Given below are the steps for extraction of copper from its ore. Write the chemical reactions involved.
+
+- (a) Roasting of copper(I) sulphide
+- (b) Reduction of copper(I) oxide with copper
+- (c) Electrolytic refining
+
+(ii) Draw a neat and well labelled diagram for electrolytic refining of copper
+
+**Answer:**
+
+**(i) Chemical Reactions:**
+
+**(a) Roasting of copper(I) sulphide:**
+$$2Cu_2S + 3O_2 \xrightarrow{\text{Heat}} 2Cu_2O + 2SO_2$$
+
+**(b) Reduction of copper(I) oxide with copper:**
+$$Cu_2S + 2Cu_2O \xrightarrow{\text{Heat}} 6Cu + SO_2$$
+
+**(c) Electrolytic refining:**
+- **At Anode:** $Cu(s) \rightarrow Cu^{2+}(aq) + 2e^{-}$
+- **At Cathode:** $Cu^{2+}(aq) + 2e^{-} \rightarrow Cu(s)$
+
+**(ii) Electrolytic Refining Diagram:**
+
+**Setup Components:**
+- **Anode:** Impure copper (thick plate)
+- **Cathode:** Pure copper strip (thin sheet)
+- **Electrolyte:** CuSO₄ solution + H₂SO₄ (dilute)
+- **Current source:** DC supply
+
+**Process:** Impure copper dissolves at anode, pure copper deposits at cathode. Impurities settle as anode mud or remain in solution.
+
+**<a id="answer-30"></a>30.** Two ores $A$ and $B$ were taken. On heating ore $A$ gives $\mathrm{CO}_2$ whereas, ore $B$ gives $\mathrm{SO}_2$. What steps will you take to convert them into metals?
+
+**Answer:**
+
+**Identification of Ores:**
+
+**Ore A:** Gives CO₂ on heating → **Carbonate Ore**
+- Examples: Limestone (CaCO₃), Malachite (CuCO₃·Cu(OH)₂), Azurite (2CuCO₃·Cu(OH)₂)
+
+**Ore B:** Gives SO₂ on heating → **Sulphide Ore**  
+- Examples: Galena (PbS), Zinc blende (ZnS), Copper pyrite (CuFeS₂)
+
+**Extraction Steps:**
+
+**For Ore A (Carbonate Ore):**
+
+**Step 1: Calcination**
+- **Process:** Heat the carbonate ore strongly in absence or limited supply of air
+- **Purpose:** Convert carbonate to oxide by removing CO₂
+- **General Reaction:** $\mathrm{MCO_3} \xrightarrow{\text{Heat}} \mathrm{MO} + \mathrm{CO_2}$
+- **Example:** $\mathrm{CaCO_3} \xrightarrow{\text{Heat}} \mathrm{CaO} + \mathrm{CO_2}$
+
+**Step 2: Reduction**
+- **Process:** Reduce metal oxide to metal using suitable reducing agent
+- **For reactive metals:** Electrolytic reduction
+- **For less reactive metals:** Carbon reduction
+- **Example:** $\mathrm{ZnO} + \mathrm{C} \rightarrow \mathrm{Zn} + \mathrm{CO}$
+
+**Step 3: Refining**
+- **Process:** Purify the extracted metal
+- **Methods:** Electrolytic refining, distillation, etc.
+
+**For Ore B (Sulphide Ore):**
+
+**Step 1: Roasting**
+- **Process:** Heat sulphide ore in excess air/oxygen
+- **Purpose:** Convert sulphide to oxide by removing sulphur as SO₂
+- **General Reaction:** $2\mathrm{MS} + 3\mathrm{O_2} \xrightarrow{\text{Heat}} 2\mathrm{MO} + 2\mathrm{SO_2}$
+- **Example:** $2\mathrm{ZnS} + 3\mathrm{O_2} \xrightarrow{\text{Heat}} 2\mathrm{ZnO} + 2\mathrm{SO_2}$
+
+**Step 2: Reduction**  
+- **Process:** Same as for Ore A - reduce oxide to metal
+- **General Reaction:** $\mathrm{MO} + \mathrm{C} \xrightarrow{\text{Heat}} \mathrm{M} + \mathrm{CO}$
+
+**Step 3: Electrolytic Refining**
+- **Process:** Final purification to get pure metal
+- **Result:** High purity metal suitable for commercial use
+
+**Summary:**
+
+| Ore Type | Gas Evolved | First Step | Process |
+|----------|-------------|------------|---------|
+| **Ore A** | CO₂ | Calcination | Carbonate → Oxide |
+| **Ore B** | SO₂ | Roasting | Sulphide → Oxide |
+
+**Both ores eventually follow:** Oxide → Metal → Pure Metal
+
+
+**<a id="answer-31"></a>31.** A man went door to door posing as a goldsmith. He promised to bring back the glitter of old and dull gold ornaments. An unsuspecting lady gave a set of gold bangles to him which he dipped in a particular solution. The bangles sparkled like new, but their weight was reduced drastically. The lady was upset but after a futile argument the man beat a hasty retreat. Can you play the detective to find out the nature of the solution he had used?
+
+**Answer:**
+
+**Detective Analysis:**
+
+**The Solution Used: Aqua Regia**
+
+**Composition:**
+- **Aqua regia** is a mixture of **nitric acid (HNO₃)** and **hydrochloric acid (HCl)**
+- **Optimal ratio:** 1:3 (HNO₃ : HCl)
+- **Meaning:** "Royal water" - called so because it can dissolve gold, the "king of metals"
+
+**What Happened:**
+1. **Surface Cleaning:** The aqua regia dissolved the outer tarnished/dull layer of gold
+2. **Weight Loss:** Some gold was dissolved and removed from the bangles
+3. **Shine Restoration:** The inner, cleaner gold surface was exposed, making bangles sparkle
+4. **Chemical Reaction:** $\mathrm{Au} + \mathrm{HNO_3} + 4\mathrm{HCl} \rightarrow \mathrm{HAuCl_4} + \mathrm{NO} + 2\mathrm{H_2O}$
+
+**Why This Works:**
+- Gold is normally **very unreactive** and doesn't dissolve in single acids
+- **Aqua regia** is the only common acid mixture that can dissolve gold
+- The **combination** of oxidizing (HNO₃) and complexing (HCl) agents makes this possible
+
+**The Fraud:**
+- The man **stole gold** by dissolving the outer layer
+- He made the ornaments **look better** but **reduced their actual value**
+- This is a form of **cheating** - improving appearance while stealing material
+
+---
+
+**<a id="answer-32"></a>32.** Give reasons
+
+- (a) Platinum, gold and silver are used to make jewellery.
+- (b) Sodium, potassium and lithium are stored under oil.
+- (c) Aluminium is a highly reactive metal, yet it is used to make utensils for cooking.
+- (d) Carbonate and sulphide ores are usually converted into oxides during the process of extraction.
+
+**Answer:**
+
+**(a) Platinum, gold and silver are used to make jewellery:**
+
+**Reasons:**
+- **Highly unreactive:** They do not react with air, water, or most chemicals
+- **Corrosion resistant:** They don't tarnish or rust easily
+- **Lustrous appearance:** They have natural shine and beauty
+- **Durability:** They maintain their appearance for long periods
+- **Malleability:** They can be easily shaped into intricate designs
+- **Rarity and value:** Their scarcity makes them precious and valuable
+
+**(b) Sodium, potassium and lithium are stored under oil:**
+
+**Reasons:**
+- **Highly reactive metals:** They react vigorously with air and moisture
+- **Prevent oxidation:** Oil prevents contact with oxygen and water vapor
+- **Safety measure:** Prevents violent reactions that could cause fires
+- **Preserve metallic state:** Keeps them from forming oxides/hydroxides
+- **Reaction with air:** $4\mathrm{Na} + \mathrm{O_2} \rightarrow 2\mathrm{Na_2O}$
+- **Reaction with water:** $2\mathrm{Na} + 2\mathrm{H_2O} \rightarrow 2\mathrm{NaOH} + \mathrm{H_2}$ (explosive)
+
+**(c) Aluminium is highly reactive, yet used for cooking utensils:**
+
+**Reasons:**
+- **Protective oxide layer:** A thin layer of $\mathrm{Al_2O_3}$ forms on the surface
+- **Self-protecting:** This oxide layer prevents further corrosion
+- **Non-toxic:** The oxide layer is chemically inert and safe
+- **Heat conductor:** Excellent thermal conductivity for even cooking
+- **Lightweight:** Much lighter than iron or steel utensils
+- **Reaction:** $4\mathrm{Al} + 3\mathrm{O_2} \rightarrow 2\mathrm{Al_2O_3}$ (protective coating)
+
+**(d) Carbonate and sulphide ores are converted to oxides during extraction:**
+
+**Reasons:**
+- **Easier reduction:** Oxides are more easily reduced to metals than carbonates/sulphides
+- **Carbon reduction:** Carbon can effectively reduce most metal oxides
+- **Remove impurities:** CO₂ and SO₂ gases are easily removed
+- **Standard process:** Most metallurgical processes are designed for oxide reduction
+- **Energy efficiency:** Oxide reduction requires less energy than direct extraction
+- **General reaction:** $\mathrm{MO} + \mathrm{C} \rightarrow \mathrm{M} + \mathrm{CO}$

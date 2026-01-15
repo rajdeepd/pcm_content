@@ -19,20 +19,51 @@ parent: Class 10
 * [Reflection of Light](class10/cengage_physics/light/2-reflection-of-light.html)
 * [Spherical Mirrors](class10/cengage_physics/light/3-sperical-mirrors.html)
 
+### Human Eye and Colourful World
+
+**Core Concepts:**
+* [00. Chapter Overview](class10/cengage_physics/02-humay-eye/00-chapter-overview.html)
+* [01. The Human Eye](class10/cengage_physics/02-humay-eye/01-concept-human-eye.html)
+* [02. Defects of Vision](class10/cengage_physics/02-humay-eye/02-concept-defects-vision.html)
+* [03. Persistence of Vision](class10/cengage_physics/02-humay-eye/03-concept-persistence-vision.html)
+* [04. Refraction through Prism](class10/cengage_physics/02-humay-eye/04-concept-refraction-prism.html)
+* [05. Dispersion of White Light](class10/cengage_physics/02-humay-eye/05-concept-dispersion.html)
+* [06. Atmospheric Refraction](class10/cengage_physics/02-humay-eye/06-concept-atmospheric-refraction.html)
+* [07. Scattering of Light](class10/cengage_physics/02-humay-eye/07-concept-scattering-light.html)
+* [09. Colours of Objects](class10/cengage_physics/02-humay-eye/09-concept-colours-objects.html)
+
+**Practice Exercises:**
+* [Concept Application Exercise 1](class10/cengage_physics/02-humay-eye/10-concept-application-exercise-1.html)
+* [Concept Application Exercise 2](class10/cengage_physics/02-humay-eye/11-concept-application-exercise-2.html)
+* [Concept Application Exercise 3](class10/cengage_physics/02-humay-eye/12-concept-application-exercise-3.html)
+* [Solutions to Exercises](class10/cengage_physics/02-humay-eye/13-concept-application-solutions.html)
+
+**Board Preparation:**
+* [Section B - Board PYQs (32 Questions)](class10/cengage_physics/02-humay-eye/sectionB-board-pyq.html)
+* [Section B - Solutions](class10/cengage_physics/02-humay-eye/sectionB-board-pyq-solutions.html)
+
+**Competition Preparation:**
+* [Section C - Competition Corner](class10/cengage_physics/02-humay-eye/sectionC-competition-corner.html)
+* [Section C - Solutions](class10/cengage_physics/02-humay-eye/sectionC-competition-solutions.html)
+
+**Quick Reference:**
+* [Formula Sheet](class10/cengage_physics/02-humay-eye/formula-sheet.html)
+* [Quick Revision Notes](class10/cengage_physics/02-humay-eye/quick-revision.html)
+
 ### Electricity
 
-* [01. Electric Charge](class10/cengage_physics/03-electricity/01-electric-charge.html)
-* [02. Coulomb's Law](class10/cengage_physics/03-electricity/02-coulombs-law.html)
-* [03. Electric Field](class10/cengage_physics/03-electricity/03-electric-field.html)
-* [04. Conductors and Insulators](class10/cengage_physics/03-electricity/04-conductors-and-insulators.html)
-* [05. Electric Potential, Potential Difference and Electric Potential Energy](class10/cengage_physics/03-electricity/05-electric-potential.html)
-* [06. Flow of Charge](class10/cengage_physics/03-electricity/06-flow-of-charge.html)
-* [07. Electric Current](class10/cengage_physics/03-electricity/07-electric-current.html)
-* [08. Ohm's Law](class10/cengage_physics/03-electricity/08-ohms-law.html)
-* [09. Electrical Circuits](class10/cengage_physics/03-electricity/09-electrical-circuits.html)
-* [10. Combination of Resistors](class10/cengage_physics/03-electricity/10-combination-of-resistors.html)
-* [11. Common Measuring Instruments](class10/cengage_physics/03-electricity/11-measuring-instruments.html)
-* [12. Heating Effect of Current](class10/cengage_physics/03-electricity/12-heating-effect.html)
+* [01. Electric Charge](class10/cengage_physics/03-electricity/01-main-content/01-electric-charge.html)
+* [02. Coulomb's Law](class10/cengage_physics/03-electricity/01-main-content/02-coulombs-law.html)
+* [03. Electric Field](class10/cengage_physics/03-electricity/01-main-content/03-electric-field.html)
+* [04. Conductors and Insulators](class10/cengage_physics/03-electricity/01-main-content/04-conductors-and-insulators.html)
+* [05. Electric Potential, Potential Difference and Electric Potential Energy](class10/cengage_physics/03-electricity/01-main-content/05-electric-potential.html)
+* [06. Flow of Charge](class10/cengage_physics/03-electricity/01-main-content/06-flow-of-charge.html)
+* [07. Electric Current](class10/cengage_physics/03-electricity/01-main-content/07-electric-current.html)
+* [08. Ohm's Law](class10/cengage_physics/03-electricity/01-main-content/08-ohms-law.html)
+* [09. Electrical Circuits](class10/cengage_physics/03-electricity/01-main-content/09-electrical-circuits.html)
+* [10. Combination of Resistors](class10/cengage_physics/03-electricity/01-main-content/10-combination-of-resistors.html)
+* [11. Common Measuring Instruments](class10/cengage_physics/03-electricity/01-main-content/11-measuring-instruments.html)
+* [12. Heating Effect of Current](class10/cengage_physics/03-electricity/01-main-content/12-heating-effect.html)
 
 ### Magnetic Effects of Current
 
