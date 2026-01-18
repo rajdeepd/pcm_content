@@ -137,12 +137,13 @@ $btn-primary-color: $blue-primary;
     width: 100%;
     
     th {
-        background: $blue-dark;
-        color: white;
+        background: #eff6ff;
+        color: $blue-dark;
         font-weight: 600;
         padding: 0.75rem 1rem;
         text-align: left;
         border: none;
+        border-bottom: 2px solid $blue-primary;
     }
     
     td {
