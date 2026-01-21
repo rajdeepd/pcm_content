@@ -15,6 +15,7 @@ parent: Class 10
 - [Chapter 2: Acids, Bases and Salts](class10/chem_ncert/2-acid-bases-salt/)
 - [Chapter 3: Metals and Non-metals](class10/chem_ncert/3-metals-and-non-metals/)
 - [Chapter 4: Carbon and its Compounds](class10/chem_ncert/4-carbon-and-its-compounds/)
+- [NCERT Exemplar](class10/ncert_exemplar/)
 
 ## Cengage
 
