@@ -24,6 +24,10 @@ Core concepts of chemical changes, word and symbolic equations, balancing equati
 
 Complete chapter covering acids, bases, salts, pH scale, indicators, and important everyday applications. The chapter is divided into 7 focused sections for easier navigation and understanding.
 
+### [Chapter 03: Metals and Non-metals](03-metas-and-non-metals/)
+
+Physical and chemical properties of metals and non-metals, reactivity series, ionic bonding, occurrence and extraction of metals, corrosion and alloys.
+
 ---
 
 <style>

@@ -24,3 +24,7 @@ parent: Class 10
 * [Arithmetic Progressions](class10/maths/arihant/arithmetic_progressions/)
 * [Applications of Trigonometry](class10/maths/arihant/applications_of_trigonometry/)
 
+## NCERT Maths
+
+* [Chapter 6: Triangles](class10/maths/maths_ncert/06-triangles/)
+
