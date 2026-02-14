@@ -7,8 +7,6 @@ has_children: true
 parent: Class 10
 ---
 
-# Chemistry
-
 ## NCERT
 
 - [Chapter 1: Chemical Reactions](class10/chem_ncert/1-chemical-reactions/)
@@ -28,6 +26,7 @@ parent: Class 10
 - [Chapter 1: Chemical Reactions and Equations](class10/arihant_chem/01-chemical-equations/)
 - [Chapter 2: Acids, Bases and Salts](class10/arihant_chem/02-acids-bases-salts/)
 - [Chapter 3: Metals and Non-metals](class10/arihant_chem/03-metas-and-non-metals/)
+- [Chapter 4: Carbon and its Compounds](class10/arihant_chem/04-carbon-and-its-compounds/)
 
 ## FIITJEE
 

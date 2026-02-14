@@ -26,5 +26,7 @@ parent: Class 10
 
 ## NCERT Maths
 
+* [Chapter 1: Real Numbers](class10/maths/maths_ncert/01-real-numbers/)
+* [Chapter 2: Polynomials](class10/maths/maths_ncert/02-polynomials/)
 * [Chapter 6: Triangles](class10/maths/maths_ncert/06-triangles/)
-
+* [Chapter 12: Surface Areas and Volumes](class10/maths/maths_ncert/12-surface-area-and-volumes/)

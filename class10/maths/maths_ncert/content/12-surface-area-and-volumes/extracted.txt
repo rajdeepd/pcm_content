@@ -1,0 +1,8 @@
+Surface Areas and Volumes (Class 10 Maths NCERT)
+
+Restarted extraction (2026-02-13):
+- New extraction output is in `extracted_pdftotext.txt` (generated with `pdftotext -layout` from `class10/misc/jemh112-surface-area-volumes.pdf`).
+- This `extracted.txt` file is kept as a pointer to avoid maintaining two near-duplicate large extracts.
+
+Please use: `class10/maths/maths_ncert/content/12-surface-area-and-volumes/extracted_pdftotext.txt`
+
